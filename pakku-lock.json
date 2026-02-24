@@ -10615,26 +10615,26 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "seasonhud-forge-1.20.1-1.13.9.jar",
+                    "file_name": "seasonhud-forge-1.20.1-1.13.17.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "neoforge",
-                        "forge"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6933/197/seasonhud-forge-1.20.1-1.13.9.jar",
-                    "id": "6933197",
+                    "url": "https://edge.forgecdn.net/files/7405/994/seasonhud-forge-1.20.1-1.13.17.jar",
+                    "id": "7405994",
                     "parent_id": "690971",
                     "hashes": {
-                        "sha1": "3a12ab03cb351712f4decfc0207e18c94a1bb239",
-                        "md5": "fc2078f7fdbbe354d6bb5bc5f004ebb1"
+                        "sha1": "9b7c98ee37d6798e9c0a4e424baac5c6167e2a7c",
+                        "md5": "4f2439ef3f386a24fde13be86cd20b45"
                     },
                     "required_dependencies": [],
-                    "size": 297914,
-                    "date_published": "2025-08-27T07:14:48.513Z"
+                    "size": 307074,
+                    "date_published": "2026-01-01T23:29:13.030Z"
                 }
             ]
         },
