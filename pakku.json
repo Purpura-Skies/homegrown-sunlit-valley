@@ -1,6 +1,6 @@
 {
-    "name": "Homegrown Sunlit Valley",
-    "version": "3.3.5",
+  "name": "Homegrown Sunlit Valley",
+    "version": "4.0.2",
     "overrides": [
         "config",
         "defaultconfigs",
@@ -23,6 +23,9 @@
             "side": "CLIENT"
         },
         "bad-wither-no-cookie-reloaded": {
+            "side": "CLIENT"
+        },
+        "bobby": {
             "side": "CLIENT"
         },
         "blur-forge": {
@@ -137,6 +140,18 @@
             "side": "CLIENT"
         },
         "watermedia": {
+            "side": "CLIENT"
+        },
+        "tooltip-overhaul": {
+            "side": "CLIENT"
+        },
+        "ftb-quest-localizer": {
+            "side": "CLIENT"
+        },
+        "flerovium": {
+            "side": "CLIENT"
+        },
+        "certain-questing-additions": {
             "side": "CLIENT"
         },
         "toast-control": {

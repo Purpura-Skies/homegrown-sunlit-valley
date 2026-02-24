@@ -9,6 +9,7 @@ global.handleLongwings = (entity, item) => {
   let scannedBlocks = 0;
   let scannedFlowers = [];
   let stolenBlock;
+  if (global.susFunctionLogging) console.log("[SOCIETY-SUSFN] modifyLongwings.js");
   for (let pos of BlockPos.betweenClosed(new BlockPos(x - radius, y - radius, z - radius), [
     x + radius,
     y + radius,
@@ -29,7 +30,7 @@ global.handleLongwings = (entity, item) => {
     drop.y = y;
     drop.z = z;
     drop.spawn();
-    if (Math.random <= 0.04) {
+    if (Math.random <= 0.08) {
       stolenBlock.set("minecraft:air");
     }
   }

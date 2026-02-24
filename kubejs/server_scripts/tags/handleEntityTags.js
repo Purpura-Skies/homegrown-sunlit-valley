@@ -6,54 +6,11 @@ ServerEvents.tags("entity_type", (e) => {
     e.add("society:husbandry_animal", animal);
   });
 
-  [
-    "minecraft:cow",
-    "dragnlivestock:o_cow",
-    "minecraft:goat",
-    "dragnlivestock:o_goat",
-    "dragnlivestock:farm_goat",
-    "dragnlivestock:o_llama",
-    "minecraft:sheep",
-    "dragnlivestock:o_sheep",
-    "meadow:wooly_sheep",
-    "meadow:wooly_cow",
-    "meadow:water_buffalo",
-    "minecraft:mooshroom",
-    "dragnlivestock:o_mooshroom",
-    "buzzier_bees:moobloom",
-    "dragnlivestock:wheat_moobloom",
-    "dragnlivestock:sweet_berry_moobloom",
-    "dragnlivestock:pumpkin_moobloom",
-    "dragnlivestock:potato_moobloom",
-    "dragnlivestock:melon_moobloom",
-    "dragnlivestock:glow_berry_moobloom",
-    "dragnlivestock:flowering_moobloom",
-    "dragnlivestock:carrot_moobloom",
-    "dragnlivestock:beetroot_moobloom",
-    "dragnlivestock:azalea_moobloom",
-    "species:mammutilation",
-    "farmlife:domestic_tribull",
-    "wildernature:minisheep",
-    "wildernature:bison",
-    "minecraft:squid",
-    "minecraft:glow_squid",
-    "windswept:frostbiter"
-  ].forEach((animal) => {
+  global.milkableAnimals.forEach((animal) => {
     e.add("society:milkable_animal", animal);
   });
 
-  [
-    "minecraft:chicken",
-    "dragnlivestock:o_chicken",
-    "untitledduckmod:duck",
-    "untitledduckmod:goose",
-    "etcetera:chapple",
-    "autumnity:turkey",
-    "species:wraptor",
-    "wildernature:flamingo",
-    "wildernature:penguin",
-    "farmlife:galliraptor",
-  ].forEach((animal) => {
+  global.coopMasterAnimals.forEach((animal) => {
     e.add("society:coopmaster_bird", animal);
   });
 
@@ -77,7 +34,6 @@ ServerEvents.tags("entity_type", (e) => {
     "quark:foxhound",
     "quark:shiba",
     "minecraft:allay",
-    "legendarycreatures:ender_wisp",
     "minecraft:horse",
     "horse_colors:horse_felinoid",
     "dragnlivestock:unicorn",
@@ -91,7 +47,6 @@ ServerEvents.tags("entity_type", (e) => {
     "dragnpets:o_axolotl",
     "wildernature:hedgehog",
     "crittersandcompanions:ferret",
-    "crittersandcompanions:shima_enaga",
   ];
   petAnimals.forEach((animal) => {
     e.add("society:pet_animal", animal);

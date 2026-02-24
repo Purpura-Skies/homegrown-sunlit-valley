@@ -29,7 +29,9 @@
     "result": "deny"
   },
   {
-    "mob": ["minecraft:drowned"],
+    "mob": [
+      "minecraft:drowned"
+    ],
     "dimension": "minecraft:overworld",
     "minheight": 30,
     "result": "deny"
@@ -45,8 +47,8 @@
       "minecraft:zombie_villager",
       "minecraft:husk",
       "minecraft:stray",
-      "minecraft:slime",
       "trials:bogged",
+      "minecraft:slime",
       "minecraft:skeleton_horse",
       "species:limpet",
       "windswept:chilled"
@@ -57,13 +59,19 @@
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": ["minecraft:zombie"],
+    "mob": [
+      "minecraft:zombie"
+    ],
     "winter": true,
     "result": "allow",
     "maxheight": 50,
     "speedmultiply": 1.2,
     "random": 0.4,
-    "armorhelmet": ["simplehats:santaclaus", "simplehats:frozenhead", "minecraft:ice"],
+    "armorhelmet": [
+      "simplehats:santaclaus",
+      "simplehats:frozenhead",
+      "minecraft:ice"
+    ],
     "helditem": [
       "2=simplehats:hatscraps_festive",
       "1=simplehats:hatbag_festive",
@@ -75,7 +83,9 @@
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": ["minecraft:zombie"],
+    "mob": [
+      "minecraft:zombie"
+    ],
     "result": "allow",
     "maxheight": 50,
     "autumn": true,
@@ -102,7 +112,9 @@
     ]
   },
   {
-    "mob": ["minecraft:drowned"],
+    "mob": [
+      "minecraft:drowned"
+    ],
     "dimension": "minecraft:overworld",
     "maxheight": 30,
     "result": "allow"
@@ -127,7 +139,11 @@
     "result": "allow"
   },
   {
-    "mob": ["crittersandcompanions:dragonfly", "crittersandcompanions:jumping_spider"],
+    "mob": [
+      "crittersandcompanions:dragonfly",
+      "crittersandcompanions:jumping_spider",
+      "minecraft:villager"
+    ],
     "result": "deny"
   },
   {
@@ -161,12 +177,6 @@
   },
   {
     "mob": "wildernature:flamingo",
-    "biome": "minecraft:beach",
-    "result": "deny"
-  },
-  {
-    "mob": "wildernature:flamingo",
-    "mincount": 1,
     "result": "deny"
   },
   {
@@ -367,7 +377,10 @@
   {
     "mob": "splendid_slimes:splendid_slime",
     "dimension": "society:skull_cavern",
-    "biome": ["society:desert_caves", "society:desert_fault"],
+    "biome": [
+      "society:desert_caves",
+      "society:desert_fault"
+    ],
     "when": "finalize",
     "nbt": {
       "Breed": "splendid_slimes:dusty",

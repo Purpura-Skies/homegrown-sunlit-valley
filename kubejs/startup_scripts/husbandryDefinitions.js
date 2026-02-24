@@ -7,7 +7,11 @@ const truffleForage = [
     chance: 0.3,
     minHearts: 4,
     hasQuality: true,
-    stage: { name: "triple_truffle", locale: "Triple Truffle", newCountMult: 3 },
+    stage: {
+      name: "triple_truffle",
+      locale: "Triple Truffle",
+      newCountMult: 3,
+    },
   },
 ];
 
@@ -34,7 +38,11 @@ global.husbandryForagingDefinitions = [
         chance: 0.3,
         minHearts: 4,
         hasQuality: true,
-        stage: { name: "triple_truffle", locale: "Triple Truffle", newCountMult: 3 },
+        stage: {
+          name: "triple_truffle",
+          locale: "Triple Truffle",
+          newCountMult: 3,
+        },
       },
       {
         itemPool: [
@@ -58,7 +66,11 @@ global.husbandryForagingDefinitions = [
         chance: 0.3,
         minHearts: 4,
         hasQuality: true,
-        stage: { name: "triple_truffle", locale: "Triple Truffle", newCountMult: 3 },
+        stage: {
+          name: "triple_truffle",
+          locale: "Triple Truffle",
+          newCountMult: 3,
+        },
       },
       {
         itemPool: [
@@ -295,7 +307,13 @@ global.husbandryForagingDefinitions = [
         item: "autumnity:snail_shell_piece",
         countMult: 2,
         chance: 1,
-        minHearts: 5,
+        minHearts: 3,
+      },
+      {
+        item: "farm_and_charm:strawberry",
+        countMult: 5,
+        chance: 1,
+        minHearts: 6,
       },
     ],
   },
@@ -304,7 +322,7 @@ global.husbandryForagingDefinitions = [
     forages: [
       {
         item: "betterarcheology:artifact_shards",
-        countMult: 2,
+        countMult: 6,
         chance: 1,
         minHearts: 5,
       },
@@ -352,7 +370,7 @@ global.husbandryForagingDefinitions = [
     forages: [
       {
         item: "society:ruby",
-        countMult: 2,
+        countMult: 3,
         chance: 0.3,
         minHearts: 3,
       },
@@ -381,9 +399,10 @@ global.husbandryForagingDefinitions = [
           "society:cranberry",
           "society:crystalberry",
         ],
-        countMult: 8,
+        countMult: 16,
         chance: 1,
         minHearts: 2,
+        hasQuality: true,
       },
     ],
   },
@@ -399,7 +418,7 @@ global.husbandryForagingDefinitions = [
           "society:dried_gearo_berry",
           "society:dried_glow_berries",
         ],
-        countMult: 3,
+        countMult: 6,
         chance: 0.25,
         minHearts: 3,
       },
@@ -428,7 +447,7 @@ global.husbandryForagingDefinitions = [
     forages: [
       {
         item: "society:sap",
-        countMult: 4,
+        countMult: 8,
         chance: 0.3,
         minHearts: 1,
       },
@@ -437,6 +456,7 @@ global.husbandryForagingDefinitions = [
         countMult: 4,
         chance: 0.1,
         minHearts: 5,
+        hasQuality: true,
       },
       {
         item: "society:ribbit_gadget",
@@ -461,7 +481,7 @@ global.husbandryForagingDefinitions = [
     forages: [
       {
         item: "society:sap",
-        countMult: 4,
+        countMult: 8,
         chance: 0.3,
         minHearts: 1,
       },
@@ -470,6 +490,7 @@ global.husbandryForagingDefinitions = [
         countMult: 4,
         chance: 0.1,
         minHearts: 5,
+        hasQuality: true,
       },
       {
         item: "society:ribbit_gadget",
@@ -494,15 +515,16 @@ global.husbandryForagingDefinitions = [
     forages: [
       {
         item: "atmospheric:carmine_husk",
-        countMult: 4,
+        countMult: 8,
         chance: 1,
         minHearts: 1,
       },
       {
         item: "pamhc2trees:dragonfruititem",
-        countMult: 2,
+        countMult: 4,
         chance: 0.5,
         minHearts: 6,
+        hasQuality: true,
       },
     ],
   },
@@ -607,7 +629,7 @@ global.husbandryForagingDefinitions = [
         chance: 0.2,
         minHearts: 8,
         hasQuality: true,
-      }
+      },
     ],
   },
   {
@@ -670,8 +692,88 @@ global.husbandryForagingDefinitions = [
       },
       {
         item: "betterarcheology:artifact_shards",
-        countMult: 4,
+        countMult: 12,
         chance: 1,
+        minHearts: 10,
+      },
+    ],
+  },
+  {
+    animal: "minecraft:bat",
+    forages: [
+      {
+        item: "pamhc2trees:plumitem",
+        countMult: 2,
+        chance: 0.15,
+        minHearts: 4,
+        hasQuality: true,
+      },
+      {
+        item: "atmospheric:passion_fruit",
+        countMult: 2,
+        chance: 0.10,
+        minHearts: 8,
+        hasQuality: true,
+      },
+      {
+        itemPool: [
+          "minecraft:apple",
+          "pamhc2trees:lycheeitem",
+          "pamhc2trees:bananaitem",
+        ],
+        countMult: 3,
+        chance: 1,
+        minHearts: 2,
+        hasQuality: true,
+      },
+    ],
+  },
+  {
+    animal: "crittersandcompanions:shima_enaga",
+    forages: [
+      {
+        item: "atmospheric:currant",
+        countMult: 8,
+        chance: 1,
+        minHearts: 2,
+        hasQuality: true,
+      },
+      {
+        item: "vinery:cherry",
+        countMult: 1,
+        chance: 0.65,
+        minHearts: 4,
+        hasQuality: true,
+      },
+      {
+        item: "society:mossberry",
+        countMult: 1,
+        chance: 0.1,
+        minHearts: 10,
+        hasQuality: true,
+      },
+    ],
+  },
+  {
+    animal: "minecraft:turtle",
+    forages: [
+      {
+        item: "minecraft:turtle_egg",
+        countMult: 2,
+        chance: 0.25,
+        minHearts: 5,
+        hasQuality: true,
+      },
+      {
+        item: "crittersandcompanions:dragonfly_wing",
+        countMult: 1,
+        chance: 0.1,
+        minHearts: 9,
+      },
+      {
+        item: "pamhc2trees:starfruititem",
+        countMult: 3,
+        chance: 0.12,
         minHearts: 10,
       },
     ],
@@ -807,6 +909,5 @@ global.petGifts = [
   {
     animal: "crittersandcompanions:ferret",
     gifts: ["crittersandcompanions:jumping_spider_spawn_egg"],
-  },
-  { animal: "crittersandcompanions:shima_enaga", gifts: ["relics:elytra_booster"] },
+  }
 ];

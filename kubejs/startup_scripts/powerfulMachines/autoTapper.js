@@ -16,10 +16,9 @@ StartupEvents.registry("block", (event) => {
     .box(0, 0, 0, 16, 18, 16)
     .defaultCutout()
     .item((item) => {
-      item.tooltip(Text.gray("Collects Tapper resources automatically."));
-      item.tooltip(Text.gray("Tapped fluid in its tank must be pumped out."));
+      item.tooltip(Text.translatable("block.society.auto_tapper.description").gray());
       item.modelJson({
-        parent: "society:block/auto_tapper",
+        parent: "society:block/kubejs/auto_tapper",
       });
     })
     .blockEntity((blockInfo) => {
@@ -37,11 +36,11 @@ StartupEvents.registry("block", (event) => {
     }).blockstateJson = {
     multipart: [
       {
-        apply: { model: "society:block/auto_tapper_particle" },
+        apply: { model: "society:block/kubejs/auto_tapper_particle" },
       },
       {
         when: { error: true },
-        apply: { model: "society:block/error" },
+        apply: { model: "society:block/kubejs/error" },
       },
     ].concat(getCardinalMultipartJsonBasic("auto_tapper")),
   };
@@ -54,6 +53,7 @@ global.runAutoTapper = (blockInfo) => {
     { block: block, level: level, server: level.getServer() },
     true
   );
+  if (global.susFunctionLogging) console.log("[SOCIETY-SUSFN] autoTapper.js");
   if (fluidData && block.properties.get("error") == "false") {
     fluidHandler.fill(Fluid.of(fluidData.fluid, Math.round(10 / fluidData.time)), "execute");
   }

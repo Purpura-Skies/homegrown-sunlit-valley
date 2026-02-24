@@ -7,20 +7,13 @@ StartupEvents.registry("block", (event) => {
     .tagBlock("minecraft:mineable/axe")
     .item((item) => {
       item.tooltip(
-        Text.gray("Sells inventory periodically and puts the profit into your bank account.")
+        Text.translatable("tooltip.society.smart_shipping_bin").gray()
       );
       item.tooltip(
-        Text.gray(
-          "Place a Card from a shared bank account in the first slot to sell directly to it."
-        )
-      );
-      item.tooltip(
-        Text.red(
-          "If you don't have an account or are at the limit it will spit out coins when sold."
-        )
+        Text.translatable("tooltip.society.smart_shipping_bin.warn").red()
       );
       item.modelJson({
-        parent: "society:block/smart_shipping_bin",
+        parent: "society:block/kubejs/smart_shipping_bin",
       });
     })
     .blockEntity((blockInfo) => {
@@ -28,6 +21,7 @@ StartupEvents.registry("block", (event) => {
       blockInfo.initialData({ owner: "-1" });
       blockInfo.serverTick(4000, 0, (entity) => {
         const { inventory, block, level } = entity;
+        if (global.susFunctionLogging) console.log("[SOCIETY-SUSFN] smartShippingBin.js");
         let slots = entity.inventory.getSlots();
         let value = 0;
         let binPlayer = global.cacheShippingBin(entity);
@@ -70,7 +64,7 @@ StartupEvents.registry("block", (event) => {
       {
         when: { facing: "north" },
         apply: {
-          model: "society:block/smart_shipping_bin",
+          model: "society:block/kubejs/smart_shipping_bin",
           y: 0,
           uvlock: false,
         },
@@ -78,7 +72,7 @@ StartupEvents.registry("block", (event) => {
       {
         when: { facing: "east" },
         apply: {
-          model: "society:block/smart_shipping_bin",
+          model: "society:block/kubejs/smart_shipping_bin",
           y: 90,
           uvlock: false,
         },
@@ -86,7 +80,7 @@ StartupEvents.registry("block", (event) => {
       {
         when: { facing: "south" },
         apply: {
-          model: "society:block/smart_shipping_bin",
+          model: "society:block/kubejs/smart_shipping_bin",
           y: 180,
           uvlock: false,
         },
@@ -94,7 +88,7 @@ StartupEvents.registry("block", (event) => {
       {
         when: { facing: "west" },
         apply: {
-          model: "society:block/smart_shipping_bin",
+          model: "society:block/kubejs/smart_shipping_bin",
           y: -90,
           uvlock: false,
         },
