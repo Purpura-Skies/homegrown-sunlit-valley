@@ -2,6 +2,7 @@
   "schema_version": 2,
   "failed_reloads_per_session": 5,
   "default_packs": [
+    "file/PS_Emojis.zip",
     "file/sunlit_overrides.zip",
     "file/Lopy-Create-Pipez.zip",
     "file/glow_up-1.5-1.20.1.zip",
@@ -14,14 +15,16 @@
     "file/Better tom's create storage 1.1.zip",
     "file/Fairy Wings Elytra.zip",
     "file/Create Style for Refined Storage.zip",
-    "file/v3.3 FarmLife Remastered.zip",
-    "file/Farmer GUI v.1.7.6.1.1 [1.20.1].zip"
+    "file/3.0 Adopt a Pet!.zip",
+    "file/5.3.1 FarmLife Remastered.zip",
+    "file/Farmer GUI 1.20.1 [1.7.8].zip"
   ],
   "default_overrides": {
     "force_compatible": true
   },
   "pack_overrides": {
     "1": [
+    "file/PS_Emojis.zip",
     "file/sunlit_overrides.zip",
     "file/Lopy-Create-Pipez.zip",
     "file/glow_up-1.5-1.20.1.zip",
@@ -34,7 +37,8 @@
     "file/Better tom's create storage 1.1.zip",
     "file/Fairy Wings Elytra.zip",
     "file/Create Style for Refined Storage.zip",
-    "file/3.3 FarmLife Remastered.zip"
+    "file/3.0 Adopt a Pet!.zip",
+    "file/5.3.1 FarmLife Remastered.zip",
   ],
     "$$1": {
       "hidden": false,

@@ -46,6 +46,45 @@
             ]
         },
         {
+            "pakku_id": "M1FQHcpBoLImf9fx",
+            "pakku_links": [
+                "qr1KLHkuzzEptuhl"
+            ],
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "dragns-l-o-adopt-a-pet"
+            },
+            "name": {
+                "curseforge": "Adopt a Pet!! [ Dog and Cat ]"
+            },
+            "id": {
+                "curseforge": "1363061"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "3.0 Adopt a Pet!.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7596/131/3.0 Adopt a Pet!.zip",
+                    "id": "7596131",
+                    "parent_id": "1363061",
+                    "hashes": {
+                        "sha1": "93924d87d286e0c7d30dffcdd769d3bfd5ebf05e",
+                        "md5": "f1ad9eb6d3fa077ab6d0dd39b1f63827"
+                    },
+                    "required_dependencies": [
+                        "1175609"
+                    ],
+                    "size": 929111,
+                    "date_published": "2026-02-08T20:23:23.140Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "spmGm0wgFnu4Nbag",
             "pakku_links": [
                 "pthZzGsLRDrCMzUI",
