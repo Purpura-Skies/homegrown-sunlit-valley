@@ -7,9 +7,6 @@
         "kubejs",
         "patchouli_books"
     ],
-    "client_overrides": [
-        "servers.dat"
-    ],
     "projects": {
         "ambientsounds": {
             "side": "CLIENT"
