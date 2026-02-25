@@ -1,5 +1,5 @@
 {
-  "name": "Homegrown Sunlit Valley",
+    "name": "Homegrown Sunlit Valley",
     "version": "4.0.2",
     "overrides": [
         "config",
@@ -177,6 +177,9 @@
         },
         "dcintegration": {
             "side": "SERVER"
+        },
+        "seasonhud": {
+            "side": "CLIENT"
         }
     }
 }

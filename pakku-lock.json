@@ -10646,6 +10646,7 @@
         {
             "pakku_id": "ZM2PDKLSwRGTWLbF",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "seasonhud"
             },
