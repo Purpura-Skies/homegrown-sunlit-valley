@@ -3,7 +3,7 @@
 	#Names of the calendar months, in order.
 	#Any number of months is allowed (>= 1).
 	#If the list is missing or empty, the mod will fall back to its built-in defaults.
-	monthNames = ["Spring", "Summer", "Autumn", "Winter"]
+	monthNames = ["Early Spring", "Mid Spring", "Late Spring", "Early Summer", "Mid Summer", "Late Summer", "Early Autumn", "Mid Autumn", "Late Autumn", "Early Winter", "Mid Winter", "Late Winter"]
 	#Optional month abbreviations to use in compact timeline labels.
 	#Each entry must match an existing month name and provide its abbreviation.
 	#Format: MonthName=Abbrev
@@ -11,7 +11,7 @@
 	#Dawnroot=Daw
 	#Shadowmere=Shd
 	#If empty or invalid, the mod falls back to the first 3 letters.
-	monthAbbreviations = []
+	monthAbbreviations = ["Early Spring=Spr", "Mid Spring=Spr", "Late Spring=Spr", "Early Summer=Sum", "Mid Summer=Sum", "Late Summer=Sum", "Early Autumn=Aut", "Mid Autumn=Aut", "Late Autumn=Aut", "Early Winter=Win", "Mid Winter=Win", "Late Winter=Win"]
 	#Year suffix string, e.g. "A.N." for "After Notch".
 	#Used when displaying dates like: Day 17 of Dawnroot, 112 A.N.
 	yearSuffix = "Y"
@@ -34,7 +34,7 @@
 	#
 	#Valid range: 1..365
 	#Range: 1 ~ 365
-	daysPerMonth = 30
+	daysPerMonth = 168
 	#If true, use the RPG Timeline custom font for the day popup.
 	#If false, use Minecraft's default font.
 	#
