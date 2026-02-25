@@ -8,9 +8,9 @@ emojiful/cache
 journeymap/
 local/
 logs
-resourcepacks/*
-!/resourcepacks/sunlit_overrides.zip
+resourcepacks/
 !config/defaultoptions/options.txt
+datapacks/
 mods/
 build/
 saves/
