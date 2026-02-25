@@ -1567,7 +1567,7 @@
             ]
         },
         {
-            "pakku_id": "eRRmKXlIPjTvvGR3",
+            "pakku_id": "QyhbvKXwn5jcx1Ta",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1582,7 +1582,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "chat_heads-0.15.0-forge-1.20.jar",
+                    "file_name": "chat_heads-0.14.2-forge-1.20.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -1591,16 +1591,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7591/237/chat_heads-0.15.0-forge-1.20.jar",
-                    "id": "7591237",
+                    "url": "https://edge.forgecdn.net/files/7211/700/chat_heads-0.14.2-forge-1.20.jar",
+                    "id": "7211700",
                     "parent_id": "407206",
                     "hashes": {
-                        "sha1": "52a21207af65259adfa840e26042c28058f6513f",
-                        "md5": "74d7adf4a7ea4d2f6544d61690836b0f"
+                        "sha1": "0410ab9636c69324e3671012af64c7743f6d6079",
+                        "md5": "90c7b2c8dd6b9001528c5d741152b784"
                     },
                     "required_dependencies": [],
-                    "size": 722765,
-                    "date_published": "2026-02-07T22:29:26.510Z"
+                    "size": 718678,
+                    "date_published": "2025-11-11T19:30:55.800Z"
                 }
             ]
         },
