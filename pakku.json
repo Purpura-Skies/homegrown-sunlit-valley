@@ -8,8 +8,6 @@
         "patchouli_books"
     ],
     "client_overrides": [
-        "resourcepacks",
-        "shaderpacks",
         "servers.dat"
     ],
     "projects": {
