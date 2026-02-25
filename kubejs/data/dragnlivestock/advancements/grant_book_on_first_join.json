@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "dragnlivestock:grant_book_on_first_join"
+    ]
+  }
+}
