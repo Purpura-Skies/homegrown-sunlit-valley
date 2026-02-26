@@ -280,7 +280,11 @@ const handleMilk = (name, data, day, hungry, e) => {
       0.01
     );
   } else if (global.isGenderedMale(target)) {
-    errorText = Text.of(name).append(" does not produce milk!").toJson();
+    errorText = Text.translatable(
+      "society.husbandry.action.male",
+      name
+    ).toJson();
+//    errorText = Text.of(name).append(" does not produce milk!").toJson();
   } else if (target.isBaby()) {
     errorText = Text.translatable(
       "society.husbandry.action.young",

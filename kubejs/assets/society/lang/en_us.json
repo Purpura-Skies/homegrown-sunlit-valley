@@ -328,6 +328,7 @@
   "society.husbandry.mechanization": "Its mind was corrupted and no longer gifts Prismatic Shards...",
   "society.husbandry.emancipation": "Its mind was healed from being a souless machine!",
   "society.husbandry.action.need_milk_pail": "You need a Milk Pail to milk this animal...",
+  "society.husbandry.action.male": "%s does not produce milk!",
   "society.husbandry.action.young": "%s is too young to produce milk!",
   "society.husbandry.action.hungry": "%s is too hungry to produce milk!",
   "society.husbandry.action.cooldown_1": "%s needs rest...",
