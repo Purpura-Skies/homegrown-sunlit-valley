@@ -4732,7 +4732,7 @@
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
-			description: ["{ftbquests.chapter.building_shop.quest98EDB6ECF0D329E.image0}"]
+			description: ["{image:society:textures/gui/buildings/home_basic.png width:200 height:200 align:center}"]
 			icon: "minecraft:chest"
 			id: "098EDB6ECF0D329E"
 			min_required_tasks: 3
@@ -6487,8 +6487,8 @@
 				}
 			]
 			title: "Mangrove Barn"
-			x: -13.0d
-			y: -8.0d
+			x: -14.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["62D0735680A06D71"]
@@ -6556,7 +6556,7 @@
 			]
 			title: "Mangrove Shed"
 			x: -5.0d
-			y: -8.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["07FEA26673F89CE0"]
@@ -6619,8 +6619,8 @@
 				}
 			]
 			title: "Mangrove Deluxe Barn"
-			x: -13.0d
-			y: 0.0d
+			x: -14.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -6683,8 +6683,8 @@
 				}
 			]
 			title: "Mangrove Farmhouse"
-			x: -9.0d
-			y: 0.0d
+			x: -10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["118A9A2B8922DA00"]
@@ -6723,7 +6723,7 @@
 			]
 			title: "Mangrove Large Shed"
 			x: -5.0d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
@@ -6792,7 +6792,7 @@
 			]
 			title: "Cottagecore Barn"
 			x: -15.0d
-			y: -8.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["1BAF470C2BE0A492"]
@@ -6860,8 +6860,8 @@
 				}
 			]
 			title: "Cottagecore Coop"
-			x: -11.0d
-			y: -8.0d
+			x: -2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["62D0735680A06D71"]
@@ -6929,8 +6929,8 @@
 				}
 			]
 			title: "Cottagecore Shed"
-			x: -7.0d
-			y: -8.0d
+			x: -6.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["07FEA26673F89CE0"]
@@ -6995,7 +6995,7 @@
 			]
 			title: "Cottagecore Deluxe Barn"
 			x: -15.0d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -7060,7 +7060,7 @@
 			]
 			title: "Cottagecore Farmhouse"
 			x: -11.0d
-			y: 0.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["118A9A2B8922DA00"]
@@ -7124,8 +7124,539 @@
 				}
 			]
 			title: "Cottagecore Large Shed"
-			x: -7.0d
-			y: 0.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_lavender.png width:200 height:200 align:center}"]
+			icon: "cluttered:stripped_flowering_willow_wood"
+			id: "2F9417C3F50A6DD9"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7AD6A076A6DEC313"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6ScubaCat&r"
+			tasks: [
+				{
+					count: 8L
+					id: "5EA8595506583BB0"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "11474422E154E53F"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "3C3BFECA4DA4022D"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Lavender Farmhouse"
+			x: -12.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_floral.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_crabapple_leaves"
+			id: "0CD3FDBDE1D6251E"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7A5237EC776171BC"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_floral"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_floral"
+						owner: "worn"
+						owner_name: "SianaTheSavage"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6SianaTheSavage&r"
+			tasks: [
+				{
+					count: 8L
+					id: "341D9B49E3CA828B"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "308B48A964E86686"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "6EA72F83EC57B6A7"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Floral Farmhouse"
+			x: -12.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_lavender.png width:198 height:154 align:center}"]
+			icon: "cluttered:stripped_flowering_willow_wood"
+			id: "3543D6FC6CA774E5"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7561F958A9BBBAF8"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6ScubaCat&r"
+			tasks: [
+				{
+					count: 4L
+					id: "28D6E51D751FD793"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "65F7F60EC6A0CA50"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "61E4ACCB4D847C71"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Lavender Barn"
+			x: -16.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_sakura.png width:200 height:200 align:center}"]
+			icon: "minecraft:cherry_leaves"
+			id: "3B9DBD3DFD29F915"
+			min_required_tasks: 3
+			rewards: [{
+				id: "4A880493A7332BB9"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_sakura"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_sakura"
+						owner: "worn"
+						owner_name: "EeveeBaby"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6EeveeBaby&r"
+			tasks: [
+				{
+					count: 8L
+					id: "3A7FE4EA4FDE85A7"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "45A7A6D29286D24D"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "5717C5670D47057C"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Sakura Farmhouse"
+			x: -12.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_dutch.png width:200 height:200 align:center}"]
+			icon: "minecraft:quartz_bricks"
+			id: "52358DA0DFF314BD"
+			min_required_tasks: 3
+			rewards: [{
+				id: "1B337773D5E1721A"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_dutch"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Dutch Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_dutch"
+						owner: "worn"
+						owner_name: "xRaCookiex"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6xRaCookiex&r"
+			tasks: [
+				{
+					count: 8L
+					id: "054CD223C6CC535A"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "25D7A1E33941E7F2"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "703B1D529E9893EF"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Dutch Farmhouse"
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_autumn.png width:200 height:150 align:center fit:true}"]
+			icon: "autumnity:maple_planks"
+			id: "330EA5749C3D3C25"
+			min_required_tasks: 3
+			rewards: [{
+				id: "514A4B009D74682E"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_autumn"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Autumn Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_autumn"
+						owner: "worn"
+						owner_name: "beawitchery"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6beawitchery&r"
+			tasks: [
+				{
+					count: 8L
+					id: "5D3D2F1748E33E53"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "744597BA57DCD1CE"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "2AA08C25F75BDD52"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Autumn Farmhouse"
+			x: -8.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_plains.png width:200 height:150 align:center}"]
+			icon: "minecraft:oak_planks"
+			id: "7C61702B434E653D"
+			min_required_tasks: 3
+			rewards: [{
+				id: "79B602486510EDF9"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_plains"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Plains Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_plains"
+						owner: "worn"
+						owner_name: "fruitpunchbb"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6fruitpunchbb&r"
+			tasks: [
+				{
+					count: 8L
+					id: "19156C2687E11BE0"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "5B299F82BBCC0F6B"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "54F51925F6C3AE7C"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Plains Farmhouse"
+			x: -8.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["145DAA4D0C7740A3"]
+			description: ["{image:society:textures/gui/buildings/home_solarpunk.png width:200 height:200 align:center}"]
+			icon: "minecraft:green_terracotta"
+			id: "2A490894B1068D32"
+			min_required_tasks: 3
+			rewards: [{
+				id: "67FED59B00B30256"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "home_solarpunk"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Solarpunk Farmhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "home_solarpunk"
+						owner: "worn"
+						owner_name: "jotagros2"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6jotagros2&r"
+			tasks: [
+				{
+					count: 8L
+					id: "55B607F8427FAFF1"
+					item: { Count: 8, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 512L
+					id: "7F62AAD04936FDD1"
+					item: { Count: 512, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "2EF8A557CFE72C37"
+					item: { Count: 40, id: "meadow:fire_log" }
+					type: "item"
+				}
+			]
+			title: "Solarpunk Farmhouse"
+			x: -9.0d
+			y: -9.0d
 		}
 	]
 	title: "{ftbquests.chapter.building_shop.title}"
