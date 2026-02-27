@@ -6621,8 +6621,8 @@
 				}
 			]
 			title: "Mangrove Deluxe Barn"
-			x: -15.0d
-			y: 0.5d
+			x: -13.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -6725,8 +6725,8 @@
 				}
 			]
 			title: "Mangrove Large Shed"
-			x: -4.0d
-			y: 0.5d
+			x: -2.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
@@ -6799,7 +6799,7 @@
 		}
 		{
 			dependencies: ["1BAF470C2BE0A492"]
-			description: ["{image:society:textures/gui/buildings/coop_cottagecore.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/coop_cottagecore.png width:200 height:200 align:center}"]
 			icon: "quark:oak_chest"
 			id: "66A8CA4C3BF5C468"
 			min_required_tasks: 3
@@ -6863,7 +6863,7 @@
 				}
 			]
 			title: "Cottagecore Coop"
-			x: -0.5d
+			x: -1.0d
 			y: -2.5d
 		}
 		{
@@ -6997,7 +6997,7 @@
 				}
 			]
 			title: "Cottagecore Deluxe Barn"
-			x: -16.0d
+			x: -16.5d
 			y: 0.5d
 		}
 		{
@@ -7127,7 +7127,7 @@
 				}
 			]
 			title: "Cottagecore Large Shed"
-			x: -5.0d
+			x: -5.5d
 			y: 0.5d
 		}
 		{
@@ -7814,10 +7814,10 @@
 						Damage: 1
 						allow_nbt: 1
 						altezza: 0
-						blueprint_name: "barn_lavender"
+						blueprint_name: "barn_solarpunk"
 						buildAnyway: 0b
 						display: {
-							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Barn\"}"
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Solarpunk Barn\"}"
 						}
 						free_build: 1
 						inventari_blocco_selezionati: ""
@@ -7826,9 +7826,9 @@
 						mirrowX: 0b
 						mirrowY: 0b
 						mirrowZ: 0b
-						nome: "barn_lavender"
+						nome: "barn_solarpunk"
 						owner: "worn"
-						owner_name: "ScubaCat"
+						owner_name: "jotagros2"
 						remaining_uses: 1
 						rotateValue: 0s
 						skipObstructionBlock: 0b
@@ -8564,6 +8564,566 @@
 			title: "Plains Shed"
 			x: -2.5d
 			y: -10.0d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_lavender.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_willow_leaves"
+			id: "56B810EEC6684AA1"
+			min_required_tasks: 3
+			rewards: [{
+				id: "38562742ACDFFF56"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6ScubaCat&r"
+			tasks: [
+				{
+					count: 2L
+					id: "47D0FC4A6B887054"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6B910496E54BC2F4"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "6176964473C2CF32"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Lavender Coop"
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_floral.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_crabapple_leaves"
+			id: "2932B244A3CF1C4C"
+			min_required_tasks: 3
+			rewards: [{
+				id: "21A2C31869838B72"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_floral"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_floral"
+						owner: "worn"
+						owner_name: "SianaTheSavage"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6SianaTheSavage&r"
+			tasks: [
+				{
+					count: 2L
+					id: "5BB05DF0A8A2E14F"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "67FA0DDD22430225"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "6C776EF41CDA01DC"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Floral Coop"
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_sakura.png width:200 height:200 align:center}"]
+			icon: "minecraft:cherry_leaves"
+			id: "704E97AA476514C2"
+			min_required_tasks: 3
+			rewards: [{
+				id: "35E0E6B081C86403"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_sakura"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_sakura"
+						owner: "worn"
+						owner_name: "EeveeBaby"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6EeveeBaby&r"
+			tasks: [
+				{
+					count: 2L
+					id: "487FA47DB059A363"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "32F6A24BD0955B1E"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "7C190F18711F8DBA"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Sakura Coop"
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_solarpunk.png width:200 height:200 align:center}"]
+			icon: "minecraft:copper_block"
+			id: "38368E3D658A5C3A"
+			min_required_tasks: 3
+			rewards: [{
+				id: "3C41B76FB61FC724"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_solarpunk"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Solarpunk Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_solarpunk"
+						owner: "worn"
+						owner_name: "jotagros2"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6jotagros2&r"
+			tasks: [
+				{
+					count: 2L
+					id: "38B3C04A0FBF9C4D"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4950D767CB101808"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "00463A68D3E8B1AA"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Solarpunk Coop"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_dutch.png width:200 height:200 align:center}"]
+			icon: "minecraft:quartz_bricks"
+			id: "1AB139EE55BA7BD1"
+			min_required_tasks: 3
+			rewards: [{
+				id: "2946870DC5F153CE"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_dutch"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Dutch Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_dutch"
+						owner: "worn"
+						owner_name: "xRaCookiex"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6xRaCookiex&r"
+			tasks: [
+				{
+					count: 2L
+					id: "40324F06DA89701A"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "705236E027572A8E"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "0A848FC97A3FFBB9"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Dutch Coop"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_mangrove.png width:200 height:200 align:center}"]
+			icon: "minecraft:mangrove_planks"
+			id: "794D8EBD472CBF82"
+			min_required_tasks: 3
+			rewards: [{
+				id: "646EDCFCC0B32CD2"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_mangrove"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Mangrove Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_mangrove"
+						owner: "worn"
+						owner_name: "FateOmega"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6FateOmega&r"
+			tasks: [
+				{
+					count: 2L
+					id: "3F44E4F4B80652D3"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1E4EBF1BCCC550E4"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "3BFA0CFE8EE9EF3E"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Mangrove Coop"
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_autumn.png width:200 height:200 align:center}"]
+			icon: "autumnity:maple_planks"
+			id: "36C7C97BCFACB614"
+			min_required_tasks: 3
+			rewards: [{
+				id: "0F82561DAD3697EC"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_autumn"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Autumn Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_autumn"
+						owner: "worn"
+						owner_name: "beawitchery"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6beawitchery&r"
+			tasks: [
+				{
+					count: 2L
+					id: "15F585E5A83F7365"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "66D8B98D8EE0A428"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "1E5A4A49D5011311"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Autumn Coop"
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1BAF470C2BE0A492"]
+			description: ["{image:society:textures/gui/buildings/coop_plains.png width:200 height:200 align:center}"]
+			icon: "minecraft:oak_planks"
+			id: "7908ADC39190CC4F"
+			min_required_tasks: 3
+			rewards: [{
+				id: "690509F6A962378A"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "coop_plains"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Plains Coop\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "coop_plains"
+						owner: "worn"
+						owner_name: "fruitpunchbb"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6fruitpunchbb&r"
+			tasks: [
+				{
+					count: 2L
+					id: "58FB5DBAC6C6A840"
+					item: "numismatics:sun"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "2AA255B893293D7A"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "4943229C6153F429"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Plains Coop"
+			x: 2.0d
+			y: -5.5d
 		}
 	]
 	title: "{ftbquests.chapter.building_shop.title}"
