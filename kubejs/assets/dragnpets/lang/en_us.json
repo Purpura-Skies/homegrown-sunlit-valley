@@ -1,0 +1,26 @@
+{
+  "item.dragnpets.o_wolf_spawn_egg": "Wolf Spawn Egg",
+  "entity.dragnpets.o_wolf": "Wolf",
+
+  "item.dragnpets.o_ocelot_spawn_egg": "Ocelot Spawn Egg",
+  "entity.dragnpets.o_ocelot": "Ocelot",
+
+  "item.dragnpets.o_fox_spawn_egg": "Fox Spawn Egg",
+  "entity.dragnpets.o_fox": "Fox",
+
+  "item.dragnpets.o_axolotl_spawn_egg": "Axolotl Spawn Egg",
+  "entity.dragnpets.o_axolotl": "Axolotl",
+
+  "item.dragnpets.o_tropical_fish_spawn_egg": "Tropical Fish Spawn Egg",
+  "entity.dragnpets.o_tropical_fish": "Tropical Fish",
+
+
+  "item.dragnpets.o_cat_spawn_egg": "Cat Spawn Egg",
+  "entity.dragnpets.o_cat": "Cat",
+
+  "item.dragnpets.o_dog_spawn_egg": "Dog Spawn Egg",
+  "entity.dragnpets.o_dog": "Dog",
+
+  "item.dragnpets.o_axolotl_bucket": "Axolotl Bucket",
+  "item.dragnpets.o_tropical_fish_bucket": "Tropical Fish Bucket"
+}
