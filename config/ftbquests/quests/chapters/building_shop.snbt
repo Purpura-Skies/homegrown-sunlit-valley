@@ -79,7 +79,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest159D294DF1634063.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -11.0d
 		}
 		{
@@ -149,7 +149,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest2E10B40D6EA21C06.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -11.0d
 		}
 		{
@@ -219,7 +219,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest48A453D05E39ECC5.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -11.0d
 		}
 		{
@@ -288,7 +288,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest58E58FA16E362F3F.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -3.5d
 		}
 		{
@@ -354,7 +354,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5982663C283E77C0.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -3.5d
 		}
 		{
@@ -376,7 +376,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.quest62D0735680A06D71.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -12.5d
 		}
 		{
@@ -446,7 +446,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4D5FE0A0485EE5D5.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -11.0d
 		}
 		{
@@ -468,7 +468,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.quest118A9A2B8922DA00.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -5.0d
 		}
 		{
@@ -491,7 +491,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.questB3AAC4CEC0098A3.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -12.5d
 		}
 		{
@@ -579,7 +579,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest71B7C3D4C9EC4CAC.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -2.5d
 		}
 		{
@@ -601,7 +601,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.quest7FEA26673F89CE0.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -5.0d
 		}
 		{
@@ -825,7 +825,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest7BB9D445D97EBF5.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -11.0d
 		}
 		{
@@ -895,7 +895,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest35740442BFA1EBB5.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -11.0d
 		}
 		{
@@ -964,7 +964,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest94C6DED5CE8D9E5.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -10.0d
 		}
 		{
@@ -1098,7 +1098,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest7080056E1C1CBCE9.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -10.0d
 		}
 		{
@@ -1163,7 +1163,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest2FBDE6A8B7ABE074.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -2.5d
 		}
 		{
@@ -1229,7 +1229,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5197C4847648B6A8.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -0.5d
 		}
 		{
@@ -1361,7 +1361,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4B66E59F25F6CF77.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -3.5d
 		}
 		{
@@ -1427,7 +1427,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest46B41FB9B429E374.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -3.5d
 		}
 		{
@@ -1493,7 +1493,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4029ADC0C59A181D.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -3.5d
 		}
 		{
@@ -1562,7 +1562,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1B13E51438458C85.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -10.0d
 		}
 		{
@@ -1632,7 +1632,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1EE50E55155925ED.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -10.0d
 		}
 		{
@@ -1697,7 +1697,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest487A09BA84C203C5.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -2.5d
 		}
 		{
@@ -1762,7 +1762,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1B18A02B9B3EF71A.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -2.5d
 		}
 		{
@@ -1962,7 +1962,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest36B8DAFE6620E7C6.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -10.0d
 		}
 		{
@@ -2032,7 +2032,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5C1AE4AC1EC670F8.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -10.0d
 		}
 		{
@@ -2097,7 +2097,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1FD402CC4C58E58D.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -2.5d
 		}
 		{
@@ -2163,7 +2163,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest118DEF3CA6FB5713.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -2.5d
 		}
 		{
@@ -2185,7 +2185,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.quest1BAF470C2BE0A492.title}"
-			x: -1.5d
+			x: 0.0d
 			y: -8.0d
 		}
 		{
@@ -2255,7 +2255,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest26786C93CF7A75C3.title}"
-			x: -0.5d
+			x: 1.0d
 			y: -3.5d
 		}
 		{
@@ -2325,7 +2325,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest674C3D7DFF93154F.title}"
-			x: -1.5d
+			x: 0.0d
 			y: -6.5d
 		}
 		{
@@ -2395,7 +2395,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest2705D27735C4858B.title}"
-			x: -0.5d
+			x: 1.0d
 			y: -6.5d
 		}
 		{
@@ -2464,7 +2464,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest24F24D2941BCF17C.title}"
-			x: -2.5d
+			x: -1.0d
 			y: -5.5d
 		}
 		{
@@ -2533,7 +2533,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest3C9745F9E9D8B24.title}"
-			x: -1.5d
+			x: 0.0d
 			y: -5.5d
 		}
 		{
@@ -2603,7 +2603,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest517BDCBA749E1F0F.title}"
-			x: -0.5d
+			x: 1.0d
 			y: -5.5d
 		}
 		{
@@ -2672,7 +2672,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest69490758ABE15175.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -9.0d
 		}
 		{
@@ -2737,7 +2737,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5563F1AAEE97AC72.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -1.5d
 		}
 		{
@@ -2810,7 +2810,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest520F3B27A8B6E7CB.title}"
-			x: -1.5d
+			x: 0.0d
 			y: -4.5d
 		}
 		{
@@ -2883,7 +2883,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1C7B6E3FADAF796F.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -9.0d
 		}
 		{
@@ -2952,7 +2952,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest2C702A38BF57AFDA.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -1.5d
 		}
 		{
@@ -3090,7 +3090,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest6FA681B69F95DD3D.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -9.0d
 		}
 		{
@@ -3159,7 +3159,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest38E4027733F17671.title}"
-			x: -0.5d
+			x: 1.0d
 			y: -4.5d
 		}
 		{
@@ -3228,7 +3228,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest47F3725020E30F73.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -9.0d
 		}
 		{
@@ -3293,7 +3293,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest53FDFA0E3AF728B.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -1.5d
 		}
 		{
@@ -3423,7 +3423,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest3C3C7DFB42B72A2F.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -1.5d
 		}
 		{
@@ -3492,7 +3492,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest3D75CA25CE21493A.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -9.0d
 		}
 		{
@@ -3561,7 +3561,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest761D03447DFE449F.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -8.0d
 		}
 		{
@@ -3630,7 +3630,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest660475427DB244F2.title}"
-			x: -2.5d
+			x: -1.0d
 			y: -4.5d
 		}
 		{
@@ -3699,7 +3699,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest6DA8770E428E29F.title}"
-			x: -2.5d
+			x: -1.0d
 			y: -3.5d
 		}
 		{
@@ -3768,7 +3768,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest857CE4957BA5627.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -9.0d
 		}
 		{
@@ -3833,7 +3833,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest19BE79555053EA26.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -1.5d
 		}
 		{
@@ -3963,7 +3963,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest6032CEB13B1D93C.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -1.5d
 		}
 		{
@@ -4028,7 +4028,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5CC19C34EF18C98D.title}"
-			x: -15.5d
+			x: -16.5d
 			y: -0.5d
 		}
 		{
@@ -4158,7 +4158,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest6A7A71EC084AF0BB.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -0.5d
 		}
 		{
@@ -4227,7 +4227,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest3C315C59E797FDCB.title}"
-			x: -6.5d
+			x: -5.5d
 			y: -8.0d
 		}
 		{
@@ -4296,7 +4296,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4D3D8CD6FFFBBAF6.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -8.0d
 		}
 		{
@@ -4365,7 +4365,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest2C51358614E10FE9.title}"
-			x: -1.5d
+			x: 0.0d
 			y: -3.5d
 		}
 		{
@@ -4434,7 +4434,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4B66EF0879248ABE.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -8.0d
 		}
 		{
@@ -4499,7 +4499,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest49BFE2655BB149AA.title}"
-			x: -5.5d
+			x: -4.5d
 			y: -0.5d
 		}
 		{
@@ -4629,7 +4629,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest91D496B90F43A3C.title}"
-			x: -14.5d
+			x: -15.5d
 			y: -0.5d
 		}
 		{
@@ -5623,7 +5623,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest6D5EA95DAADEB238.title}"
-			x: -2.5d
+			x: -1.0d
 			y: -6.5d
 		}
 		{
@@ -5765,7 +5765,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest1999C9E997F5B6FE.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -3.5d
 		}
 		{
@@ -5831,7 +5831,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest8BCD91F95A2D5B5.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -0.5d
 		}
 		{
@@ -5901,7 +5901,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest3AAD39F632737883.title}"
-			x: -13.5d
+			x: -14.5d
 			y: -8.0d
 		}
 		{
@@ -5971,7 +5971,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest68E45BAAE1D82CC4.title}"
-			x: -4.5d
+			x: -3.5d
 			y: -8.0d
 		}
 		{
@@ -5993,7 +5993,7 @@
 				type: "checkmark"
 			}]
 			title: "{ftbquests.chapter.building_shop.quest362B0DE04E15818D.title}"
-			x: -18.5d
+			x: -19.5d
 			y: -8.0d
 		}
 		{
@@ -6063,7 +6063,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest48594EA930029D54.title}"
-			x: -18.5d
+			x: -19.5d
 			y: -6.5d
 		}
 		{
@@ -6133,7 +6133,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest43A67EE6D3EE3436.title}"
-			x: -19.5d
+			x: -20.5d
 			y: -6.5d
 		}
 		{
@@ -6209,7 +6209,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5C2BFD9CA51DCD.title}"
-			x: -19.5d
+			x: -20.5d
 			y: -5.5d
 		}
 		{
@@ -6279,7 +6279,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest13BB759BEF4D66ED.title}"
-			x: -18.5d
+			x: -19.5d
 			y: -5.5d
 		}
 		{
@@ -6349,7 +6349,7 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest5C9B301CB3C8A20E.title}"
-			x: -17.5d
+			x: -18.5d
 			y: -5.5d
 		}
 		{
@@ -6419,12 +6419,12 @@
 				}
 			]
 			title: "{ftbquests.chapter.building_shop.quest4A6B6B073258F511.title}"
-			x: -17.5d
+			x: -18.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
-			description: ["{image:society:textures/gui/buildings/barn_mangrove.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/barn_mangrove.png width:200 height:150 align:center}"]
 			icon: "quark:mangrove_chest"
 			id: "15697B6B65D52080"
 			min_required_tasks: 3
@@ -6462,6 +6462,7 @@
 				}
 				type: "item"
 			}]
+			subtitle: "Designed by &6FateOmega&r"
 			tasks: [
 				{
 					count: 4L
@@ -6487,8 +6488,8 @@
 				}
 			]
 			title: "Mangrove Barn"
-			x: -14.0d
-			y: -7.0d
+			x: -13.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["62D0735680A06D71"]
@@ -6555,7 +6556,7 @@
 				}
 			]
 			title: "Mangrove Shed"
-			x: -5.0d
+			x: -4.0d
 			y: -7.0d
 		}
 		{
@@ -6619,12 +6620,12 @@
 				}
 			]
 			title: "Mangrove Deluxe Barn"
-			x: -14.0d
+			x: -15.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
-			description: ["{image:society:textures/gui/buildings/house_mangrove.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/home_mangrove.png width:200 height:200 align:center}"]
 			icon: "quark:mangrove_chest"
 			id: "25B5F9136178767B"
 			min_required_tasks: 3
@@ -6662,6 +6663,7 @@
 				}
 				type: "item"
 			}]
+			subtitle: "Designed by &6FateOmega&r"
 			tasks: [
 				{
 					count: 8L
@@ -6683,8 +6685,8 @@
 				}
 			]
 			title: "Mangrove Farmhouse"
-			x: -10.0d
-			y: -9.0d
+			x: -8.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["118A9A2B8922DA00"]
@@ -6722,12 +6724,12 @@
 				}
 			]
 			title: "Mangrove Large Shed"
-			x: -5.0d
+			x: -4.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
-			description: ["{image:society:textures/gui/buildings/barn_cottagecore.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/barn_cottagecore.png width:200 height:150 align:center}"]
 			icon: "quark:oak_chest"
 			id: "0CF18C0B6AE2B387"
 			min_required_tasks: 3
@@ -6791,7 +6793,7 @@
 				}
 			]
 			title: "Cottagecore Barn"
-			x: -15.0d
+			x: -16.5d
 			y: -7.0d
 		}
 		{
@@ -6860,7 +6862,7 @@
 				}
 			]
 			title: "Cottagecore Coop"
-			x: -2.0d
+			x: -0.5d
 			y: -2.5d
 		}
 		{
@@ -6929,7 +6931,7 @@
 				}
 			]
 			title: "Cottagecore Shed"
-			x: -6.0d
+			x: -5.0d
 			y: -7.0d
 		}
 		{
@@ -6994,12 +6996,12 @@
 				}
 			]
 			title: "Cottagecore Deluxe Barn"
-			x: -15.0d
+			x: -16.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
-			description: ["{image:society:textures/gui/buildings/house_cottagecore.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/home_cottagecore.png width:200 height:200 align:center}"]
 			icon: "quark:oak_chest"
 			id: "04638891293A3359"
 			min_required_tasks: 3
@@ -7124,7 +7126,7 @@
 				}
 			]
 			title: "Cottagecore Large Shed"
-			x: -6.0d
+			x: -5.0d
 			y: 0.5d
 		}
 		{
@@ -7191,7 +7193,7 @@
 			]
 			title: "Lavender Farmhouse"
 			x: -12.0d
-			y: -12.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -7261,7 +7263,7 @@
 		}
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
-			description: ["{image:society:textures/gui/buildings/barn_lavender.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/barn_lavender.png width:200 height:200 align:center}"]
 			icon: "cluttered:stripped_flowering_willow_wood"
 			id: "3543D6FC6CA774E5"
 			min_required_tasks: 3
@@ -7325,8 +7327,8 @@
 				}
 			]
 			title: "Lavender Barn"
-			x: -16.5d
-			y: -10.5d
+			x: -17.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -7392,7 +7394,7 @@
 			]
 			title: "Sakura Farmhouse"
 			x: -12.0d
-			y: -9.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -7457,8 +7459,8 @@
 				}
 			]
 			title: "Dutch Farmhouse"
-			x: -8.0d
-			y: -9.5d
+			x: -9.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
@@ -7590,12 +7592,12 @@
 			]
 			title: "Plains Farmhouse"
 			x: -8.0d
-			y: -12.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["145DAA4D0C7740A3"]
 			description: ["{image:society:textures/gui/buildings/home_solarpunk.png width:200 height:200 align:center}"]
-			icon: "minecraft:green_terracotta"
+			icon: "minecraft:copper_block"
 			id: "2A490894B1068D32"
 			min_required_tasks: 3
 			rewards: [{
@@ -7655,8 +7657,422 @@
 				}
 			]
 			title: "Solarpunk Farmhouse"
-			x: -9.0d
+			x: -10.0d
 			y: -9.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_floral.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_crabapple_leaves"
+			id: "3F99C85F1DD3D3F5"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7C4478A190124144"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_floral"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_floral"
+						owner: "worn"
+						owner_name: "SianaTheSavage"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6SianaTheSavage&r"
+			tasks: [
+				{
+					count: 4L
+					id: "5EC8A7E245BD6C05"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "7E6AAF4B172E6DF7"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "505922CF4ABE5098"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Floral Barn"
+			x: -17.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_sakura.png width:200 height:150 align:center}"]
+			icon: "minecraft:cherry_leaves"
+			id: "04C79E0045ABB0B7"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7E2D2AC3A1B02A2D"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_sakura"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_sakura"
+						owner: "worn"
+						owner_name: "EeveeBaby"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6EeveeBaby&r"
+			tasks: [
+				{
+					count: 4L
+					id: "32C8D365391CFAD0"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "30DFDC6649CE2D0C"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "4CEFB2E8238CE88B"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Sakura Barn"
+			x: -17.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_solarpunk.png width:200 height:200 align:center}"]
+			icon: "minecraft:copper_block"
+			id: "24676234333D696A"
+			min_required_tasks: 3
+			rewards: [{
+				id: "57CE3E0FE81C92C5"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6jotagros2&r"
+			tasks: [
+				{
+					count: 4L
+					id: "1AA681B80BA02EE0"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "44227E67154E9001"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "0CB41ACAE437A2D2"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Solarpunk Barn"
+			x: -15.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_dutch.png width:200 height:150 align:center}"]
+			icon: "minecraft:quartz_bricks"
+			id: "442ADDC170F1F2FD"
+			min_required_tasks: 3
+			rewards: [{
+				id: "53519E7F689DF79F"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_dutch"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Dutch Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_dutch"
+						owner: "worn"
+						owner_name: "xRaCookiex"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6xRaCookiex&r"
+			tasks: [
+				{
+					count: 4L
+					id: "3B66AF674976710A"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "77F2B73FD07F54DD"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "0436F41BE87DE538"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Dutch Barn"
+			x: -14.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_autumn.png width:200 height:150 align:center}"]
+			icon: "autumnity:maple_planks"
+			id: "3508D7064CB7678E"
+			min_required_tasks: 3
+			rewards: [{
+				id: "371CB274248D0250"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_autumn"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Autumn Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_autumn"
+						owner: "worn"
+						owner_name: "beawitchery"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6beawitchery&r"
+			tasks: [
+				{
+					count: 4L
+					id: "2D9CB18979CD3ECE"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "682959E01370993E"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "3558B5E56DDADAE1"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Autumn Barn"
+			x: -13.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["0B3AAC4CEC0098A3"]
+			description: ["{image:society:textures/gui/buildings/barn_plains.png width:200 height:150 align:center}"]
+			icon: "minecraft:oak_planks"
+			id: "33E16C913A6B3D77"
+			min_required_tasks: 3
+			rewards: [{
+				id: "28ABC7E6DE86E6CD"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "barn_plains"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Plains Barn\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "barn_plains"
+						owner: "worn"
+						owner_name: "fruitpunchbb"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Designed by &6fruitpunchbb&r"
+			tasks: [
+				{
+					count: 4L
+					id: "602B1AF14FBA425B"
+					item: { Count: 4, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "5CA58A88A14E299A"
+					item: { Count: 128, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "1A721753CE26C09D"
+					item: {
+						Count: 20
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Plains Barn"
+			x: -13.5d
+			y: -10.0d
 		}
 	]
 	title: "{ftbquests.chapter.building_shop.title}"
