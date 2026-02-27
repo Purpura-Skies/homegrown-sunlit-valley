@@ -6425,7 +6425,7 @@
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
 			description: ["{image:society:textures/gui/buildings/barn_mangrove.png width:200 height:150 align:center}"]
-			icon: "quark:mangrove_chest"
+			icon: "minecraft:mangrove_planks"
 			id: "15697B6B65D52080"
 			min_required_tasks: 3
 			rewards: [{
@@ -6493,8 +6493,8 @@
 		}
 		{
 			dependencies: ["62D0735680A06D71"]
-			description: ["{image:society:textures/gui/buildings/shed_mangrove.png width:198 height:154 align:center}"]
-			icon: "quark:mangrove_chest"
+			description: ["{image:society:textures/gui/buildings/shed_mangrove.png width:200 height:200 align:center}"]
+			icon: "minecraft:mangrove_planks"
 			id: "44A2215FA202C299"
 			min_required_tasks: 3
 			rewards: [{
@@ -6531,6 +6531,7 @@
 				}
 				type: "item"
 			}]
+			subtitle: "Designed by &6FateOmega&r"
 			tasks: [
 				{
 					count: 4L
@@ -6556,8 +6557,8 @@
 				}
 			]
 			title: "Mangrove Shed"
-			x: -4.0d
-			y: -7.0d
+			x: -2.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["07FEA26673F89CE0"]
@@ -6626,7 +6627,7 @@
 		{
 			dependencies: ["145DAA4D0C7740A3"]
 			description: ["{image:society:textures/gui/buildings/home_mangrove.png width:200 height:200 align:center}"]
-			icon: "quark:mangrove_chest"
+			icon: "minecraft:mangrove_planks"
 			id: "25B5F9136178767B"
 			min_required_tasks: 3
 			rewards: [{
@@ -6867,7 +6868,7 @@
 		}
 		{
 			dependencies: ["62D0735680A06D71"]
-			description: ["{image:society:textures/gui/buildings/shed_cottagecore.png width:198 height:154 align:center}"]
+			description: ["{image:society:textures/gui/buildings/shed_cottagecore.png width:200 height:200 align:center}"]
 			icon: "quark:oak_chest"
 			id: "757193660DAE5C9D"
 			min_required_tasks: 3
@@ -6931,7 +6932,7 @@
 				}
 			]
 			title: "Cottagecore Shed"
-			x: -5.0d
+			x: -5.5d
 			y: -7.0d
 		}
 		{
@@ -7132,7 +7133,7 @@
 		{
 			dependencies: ["145DAA4D0C7740A3"]
 			description: ["{image:society:textures/gui/buildings/home_lavender.png width:200 height:200 align:center}"]
-			icon: "cluttered:stripped_flowering_willow_wood"
+			icon: "cluttered:flowering_willow_leaves"
 			id: "2F9417C3F50A6DD9"
 			min_required_tasks: 3
 			rewards: [{
@@ -7264,7 +7265,7 @@
 		{
 			dependencies: ["0B3AAC4CEC0098A3"]
 			description: ["{image:society:textures/gui/buildings/barn_lavender.png width:200 height:200 align:center}"]
-			icon: "cluttered:stripped_flowering_willow_wood"
+			icon: "cluttered:flowering_willow_leaves"
 			id: "3543D6FC6CA774E5"
 			min_required_tasks: 3
 			rewards: [{
@@ -8072,6 +8073,496 @@
 			]
 			title: "Plains Barn"
 			x: -13.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_lavender.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_willow_leaves"
+			id: "2AA9FEDFF745E7E5"
+			min_required_tasks: 3
+			rewards: [{
+				id: "78B22E4DEB6FB6D1"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6ScubaCat&r"
+			tasks: [
+				{
+					count: 4L
+					id: "6B23CF59B244BEB2"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "4E2ACEDB2E52765D"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "0D007BF8DDB042A8"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Lavender Shed"
+			x: -6.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_floral.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_crabapple_leaves"
+			id: "5A2C5DB30C04B148"
+			min_required_tasks: 3
+			rewards: [{
+				id: "1A99312D17F90957"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_floral"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_floral"
+						owner: "worn"
+						owner_name: "SianaTheSavage"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6SianaTheSavage&r"
+			tasks: [
+				{
+					count: 4L
+					id: "703C98AD3AB8F9C7"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "58F0F61974A48AB1"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "19BCB8D813D04767"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Floral Shed"
+			x: -6.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_sakura.png width:200 height:200 align:center}"]
+			icon: "minecraft:cherry_leaves"
+			id: "49B471DCFEC8EDE4"
+			min_required_tasks: 3
+			rewards: [{
+				id: "0CC63C7FD4F21074"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_sakura"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_sakura"
+						owner: "worn"
+						owner_name: "EeveeBaby"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6EeveeBaby&r"
+			tasks: [
+				{
+					count: 4L
+					id: "20061707793C37A3"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "46F2B63ED716F10F"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "0AFA0A71ACDDCADA"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Sakura Shed"
+			x: -6.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_solarpunk.png width:200 height:200 align:center}"]
+			icon: "minecraft:copper_block"
+			id: "07B658E78ADC7EBD"
+			min_required_tasks: 3
+			rewards: [{
+				id: "018C66ADCE5FF83D"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_solarpunk"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Solarpunk Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_solarpunk"
+						owner: "worn"
+						owner_name: "jotagros2"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6jotagros2&r"
+			tasks: [
+				{
+					count: 4L
+					id: "0582C4AF434D1B87"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "17E2A0519888F58B"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "377ADC2C9E625C68"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Solarpunk Shed"
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_dutch.png width:200 height:200 align:center}"]
+			icon: "minecraft:quartz_bricks"
+			id: "354AFD919D6EFB7A"
+			min_required_tasks: 3
+			rewards: [{
+				id: "756A752C471D8199"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_dutch"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Dutch Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_dutch"
+						owner: "worn"
+						owner_name: "xRaCookiex"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6xRaCookiex&r"
+			tasks: [
+				{
+					count: 4L
+					id: "5DA532ECCC383433"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "71AA9D7C18AB0397"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "3FA9E3A648DBA38A"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Dutch Shed"
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_autumn.png width:200 height:200 align:center}"]
+			icon: "autumnity:maple_planks"
+			id: "11F56F144272BF92"
+			min_required_tasks: 3
+			rewards: [{
+				id: "05AACCDFBED9E6AC"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_autumn"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Autumn Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_autumn"
+						owner: "worn"
+						owner_name: "beawitchery"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6beawitchery&r"
+			tasks: [
+				{
+					count: 4L
+					id: "0F3EB45BD5A2F2B0"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "15339AFB6A5C20B8"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "30DE13D6BF8506DE"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Autumn Shed"
+			x: -2.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["62D0735680A06D71"]
+			description: ["{image:society:textures/gui/buildings/shed_plains.png width:200 height:200 align:center}"]
+			icon: "minecraft:oak_planks"
+			id: "715BCAB1885630AC"
+			min_required_tasks: 3
+			rewards: [{
+				id: "7395D9A76A1B10C1"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "shed_plains"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Plains Shed\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "shed_plains"
+						owner: "worn"
+						owner_name: "fruitpunchbb"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6fruitpunchbb&r"
+			tasks: [
+				{
+					count: 4L
+					id: "73441F3246809A09"
+					item: "numismatics:crown"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "019CCDE8D4A59385"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "4F7F634B937D779B"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Plains Shed"
+			x: -2.5d
 			y: -10.0d
 		}
 	]
