@@ -9658,7 +9658,7 @@
 			subtitle: "Designed by &6ScubaCat&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "426A6CF0B1D81351"
 					item: "numismatics:sun"
 					type: "item"
@@ -9724,7 +9724,7 @@
 			subtitle: "Designed by &6SianaTheSavage&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "162A1E554761FFFB"
 					item: "numismatics:sun"
 					type: "item"
@@ -9790,7 +9790,7 @@
 			subtitle: "Designed by &6EeveeBaby&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "076005C6463A04BD"
 					item: "numismatics:sun"
 					type: "item"
@@ -9856,7 +9856,7 @@
 			subtitle: "Designed by &6jotagros2&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "40E6A4A7BE0C4144"
 					item: "numismatics:sun"
 					type: "item"
@@ -9922,7 +9922,7 @@
 			subtitle: "Designed by &6xRaCookiex&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "1FFE4F9BF492AC2F"
 					item: "numismatics:sun"
 					type: "item"
@@ -9988,7 +9988,7 @@
 			subtitle: "Designed by &6beawitchery&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "791DD7B317CCB571"
 					item: "numismatics:sun"
 					type: "item"
@@ -10054,7 +10054,7 @@
 			subtitle: "Designed by &6fruitpunchbb&r"
 			tasks: [
 				{
-					count: 4L
+					count: 20L
 					id: "39D0E668DA6EE5C8"
 					item: "numismatics:sun"
 					type: "item"
@@ -10075,6 +10075,462 @@
 			title: "Plains Deluxe Barn"
 			x: -13.5d
 			y: -1.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_lavender.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_willow_leaves"
+			id: "1E56CCC475FA61ED"
+			min_required_tasks: 4
+			rewards: [{
+				id: "38479802EC114634"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_lavender"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_lavender"
+						owner: "worn"
+						owner_name: "ScubaCat"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6ScubaCat&r"
+			tasks: [
+				{
+					count: 2L
+					id: "3161125A0A28FF6F"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "782881AB0A1F4565"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "5C74315351377BF5"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "088D41C8A85444D5"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Lavender Greenhouse"
+			x: -12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_floral.png width:200 height:200 align:center}"]
+			icon: "cluttered:flowering_crabapple_leaves"
+			id: "16AFDDFF6D02E741"
+			min_required_tasks: 4
+			rewards: [{
+				id: "156B0699B67E85D7"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_floral"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_floral"
+						owner: "worn"
+						owner_name: "SianaTheSavage"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6SianaTheSavage&r"
+			tasks: [
+				{
+					count: 2L
+					id: "03907D287E146E4F"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "68766DFA39ECC064"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "3D10BA8A5849F917"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "19D49AC1A52EC96D"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Floral Greenhouse"
+			x: -12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_sakura.png width:200 height:200 align:center}"]
+			icon: "minecraft:cherry_leaves"
+			id: "16B848A39A82D4AB"
+			min_required_tasks: 4
+			rewards: [{
+				id: "3C33B35FBABAD344"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_sakura"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_sakura"
+						owner: "worn"
+						owner_name: "EeveeBaby"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6EeveeBaby&r"
+			tasks: [
+				{
+					count: 2L
+					id: "790C4983B86103E9"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6CCEF74F044C7729"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "16418AC47D8D5901"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "38693C5A3A9B3745"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Sakura Greenhouse"
+			x: -12.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_dutch.png width:200 height:200 align:center}"]
+			icon: "minecraft:quartz_bricks"
+			id: "25C689C86EA3A083"
+			min_required_tasks: 4
+			rewards: [{
+				id: "16905225DC164097"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_dutch"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Dutch Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_dutch"
+						owner: "worn"
+						owner_name: "xRaCookiex"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6xRaCookiex&r"
+			tasks: [
+				{
+					count: 2L
+					id: "2B0AE9C07C79B663"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "54E3EE72A51FA6F8"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "7F8328389406ACB5"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "7320D797CBC58F90"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Dutch Greenhouse"
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_autumn.png width:200 height:200 align:center}"]
+			icon: "autumnity:maple_planks"
+			id: "369F217580C8C899"
+			min_required_tasks: 4
+			rewards: [{
+				id: "1E27A421C0E3FFDA"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_autumn"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Autumn Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_autumn"
+						owner: "worn"
+						owner_name: "beawitchery"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6beawitchery&r"
+			tasks: [
+				{
+					count: 2L
+					id: "135DED99CDADB503"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "223885E03AE507F1"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "3812FCFEA0D4CD81"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "7A277954418B03F8"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Autumn Greenhouse"
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["539C1B8E3358BBE1"]
+			description: ["{image:society:textures/gui/buildings/greenhouse_plains.png width:200 height:200 align:center}"]
+			icon: "minecraft:oak_planks"
+			id: "0EBA0B9E2D569D9A"
+			min_required_tasks: 4
+			rewards: [{
+				id: "606F57C6C44C0F9E"
+				item: {
+					Count: 1
+					id: "portable_blueprints:worn_blueprint"
+					tag: {
+						Damage: 1
+						allow_nbt: 1
+						altezza: 0
+						blueprint_name: "greenhouse_plains"
+						buildAnyway: 0b
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Plains Greenhouse\"}"
+						}
+						free_build: 1
+						inventari_blocco_selezionati: ""
+						lunghezzaX: 0
+						lunghezzaZ: 0
+						mirrowX: 0b
+						mirrowY: 0b
+						mirrowZ: 0b
+						nome: "greenhouse_plains"
+						owner: "worn"
+						owner_name: "fruitpunchbb"
+						remaining_uses: 1
+						rotateValue: 0s
+						skipObstructionBlock: 0b
+						visualizeBuild: 1b
+						wasHolding: 1b
+						worn_set: 1b
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			subtitle: "Designed by &6fruitpunchbb&r"
+			tasks: [
+				{
+					count: 2L
+					id: "6C13975711D83CE3"
+					item: { Count: 2, id: "numismatics:sun" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6030730DD3601568"
+					item: { Count: 64, id: "minecraft:stone_bricks" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "66EBDF440FB82EDD"
+					item: {
+						Count: 10
+						id: "meadow:fire_log"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 48L
+					id: "48C93C2C1DA53A74"
+					item: { Count: 48, id: "moreminecarts:chiseled_organic_glass" }
+					type: "item"
+				}
+			]
+			title: "Plains Greenhouse"
+			x: -8.0d
+			y: 0.5d
 		}
 	]
 	title: "{ftbquests.chapter.building_shop.title}"
