@@ -3868,6 +3868,43 @@
             ]
         },
         {
+            "pakku_id": "ydUdpLxu49EgPxyA",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "dcintegration"
+            },
+            "name": {
+                "curseforge": "Discord Integration Forge"
+            },
+            "id": {
+                "curseforge": "324952"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dcintegration-forge-3.0.7.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5332/465/dcintegration-forge-3.0.7.1-1.20.1.jar",
+                    "id": "5332465",
+                    "parent_id": "324952",
+                    "hashes": {
+                        "sha1": "28d0562167f26d5caa71866255a163d68417edd2",
+                        "md5": "fc0cc2f0d9239f1c2dcf526559b9343a"
+                    },
+                    "required_dependencies": [],
+                    "size": 16358023,
+                    "date_published": "2024-05-10T12:05:16.543Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xRC3QkFjv9Ov2OYS",
             "type": "MOD",
             "slug": {
