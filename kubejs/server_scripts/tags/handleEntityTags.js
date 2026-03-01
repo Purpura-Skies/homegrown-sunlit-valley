@@ -36,6 +36,8 @@ ServerEvents.tags("entity_type", (e) => {
     "minecraft:allay",
     "minecraft:horse",
     "horse_colors:horse_felinoid",
+    "horse_colors:donkey",
+    "horse_colors:mule",
     "dragnlivestock:unicorn",
     "minecraft:polar_bear",
     "hamsters:hamster",
@@ -97,6 +99,8 @@ ServerEvents.tags("entity_type", (e) => {
     "workdog:pit_bull",
     "simplycats:cat",
     "horse_colors:horse_felinoid",
+    "horse_colors:donkey",
+    "horse_colors:mule",
   ].forEach((animal) => {
     e.add("homegrown:gendered_animal", animal);
   });

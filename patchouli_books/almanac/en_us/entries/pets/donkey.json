@@ -1,0 +1,17 @@
+{
+  "name": "Donkey",
+  "category": "patchouli:pets",
+  "icon": "relics:horse_flute",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possible Gifts:$()$(br)Horse Flute"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "horse_colors:donkey",
+      "scale": 0.7,
+      "text": "Cheaper than a car!"
+    }
+  ]
+}

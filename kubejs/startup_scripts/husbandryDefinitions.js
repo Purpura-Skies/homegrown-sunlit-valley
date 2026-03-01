@@ -920,6 +920,8 @@ global.petGifts = [
   { animal: "quark:shiba", gifts: ["simplehats:eevee_ears"] },
   { animal: "minecraft:allay", gifts: ["simplehats:chi_ears"] },
   { animal: "horse_colors:horse_felinoid", gifts: ["relics:horse_flute", "simplehats:cowboy"] },
+  { animal: "horse_colors:donkey", gifts: ["relics:horse_flute", "simplehats:cowboy"] },
+  { animal: "horse_colors:mule", gifts: ["relics:horse_flute", "simplehats:cowboy"] },
   { animal: "dragnlivestock:caribou", gifts: ["simplehats:festiveantlers"] },
   { animal: "dragnlivestock:o_camel", gifts: ["simplehats:explorerhat"] },
   { animal: "dragnlivestock:unicorn", gifts: ["simplehats:unicornhorn"] },
