@@ -1,0 +1,17 @@
+{
+  "name": "Fox",
+  "category": "patchouli:pets",
+  "icon": "minecraft:sweet_berries",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possible Gifts:$()$(br)Eevee Ears hat, Long Fox Ears hat"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "dragnpets:o_fox",
+      "scale": 0.7,
+      "text": "A group of foxes is called a skulk or a leash."
+    }
+  ]
+}

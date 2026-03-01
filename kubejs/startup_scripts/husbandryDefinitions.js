@@ -912,6 +912,7 @@ global.petGifts = [
   { animal: "workdog:pit_bull", gifts: ["betterarcheology:sheep_fossil"] },
   { animal: "simplycats:cat", gifts: ["simplehats:nekoears", "betterarcheology:ocelot_fossil"] },
   { animal: "dragnpets:o_ocelot", gifts: ["simplehats:nekoears", "betterarcheology:ocelot_fossil"] },
+  { animal: "minecraft:fox", gifts: ["simplehats:eevee_ears", "simplehats:longfoxears"] },
   { animal: "dragnpets:o_fox", gifts: ["simplehats:eevee_ears", "simplehats:longfoxears"] },
   { animal: "dragnpets:macaw", gifts: ["simplehats:wing_hat"] },
   { animal: "dragnpets:cockatiel", gifts: ["simplehats:wing_hat"] },

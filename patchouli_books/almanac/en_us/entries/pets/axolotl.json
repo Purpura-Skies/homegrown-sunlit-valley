@@ -9,7 +9,7 @@
     },
     {
       "type": "patchouli:entity",
-      "entity": "minecraft:axolotl",
+      "entity": "dragnpets:o_axolotl",
       "scale": 0.8  ,
       "text": "Lush Caves native that loves hunting fish"
     }

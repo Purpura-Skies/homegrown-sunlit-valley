@@ -1,0 +1,17 @@
+{
+  "name": "Cockatiel",
+  "category": "patchouli:pets",
+  "icon": "minecraft:feather",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possible Gifts:$()$(br)Wing Cap Hat"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "dragnpets:cockatiel",
+      "scale": 0.7,
+      "text": "Cockatiels make great first pets."
+    }
+  ]
+}

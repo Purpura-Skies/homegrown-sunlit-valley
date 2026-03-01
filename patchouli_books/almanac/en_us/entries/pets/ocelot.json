@@ -1,0 +1,17 @@
+{
+  "name": "Ocelot",
+  "category": "patchouli:pets",
+  "icon": "minecraft:cod",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possible Gifts:$()$(br)Neko Ears hat, Ocelot-Fossil"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "dragnpets:o_ocelot",
+      "scale": 0.7,
+      "text": "Can You Spot It?"
+    }
+  ]
+}
