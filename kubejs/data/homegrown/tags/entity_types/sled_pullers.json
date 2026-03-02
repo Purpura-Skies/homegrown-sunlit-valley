@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "workdog:wolf",
+    "workdog:akita",
+    "workdog:border_collie",
+    "workdog:boston_terrier",
+    "workdog:german_shepherd",
+    "workdog:jack_russell_terrier",
+    "workdog:pit_bull",
+    "wildernature:red_wolf",
+    "wildernature:dog"
+  ]
+}
