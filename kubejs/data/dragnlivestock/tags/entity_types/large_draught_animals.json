@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "meadow:water_buffalo",
+    "meadow:wooly_cow",
+    "species:mammutilation",
+    "species:cruncher",
+    "farmlife:domestic_tribull",
+    "wildernature:bison",
+    "windswept:frostbiter"
+  ]
+}
