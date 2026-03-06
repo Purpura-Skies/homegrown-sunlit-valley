@@ -64,23 +64,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "3.0 Adopt a Pet!.zip",
+                    "file_name": "4.1 Adopt a pet!.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7596/131/3.0 Adopt a Pet!.zip",
-                    "id": "7596131",
+                    "url": "https://edge.forgecdn.net/files/7706/196/4.1 Adopt a pet!.zip",
+                    "id": "7706196",
                     "parent_id": "1363061",
                     "hashes": {
-                        "sha1": "93924d87d286e0c7d30dffcdd769d3bfd5ebf05e",
-                        "md5": "f1ad9eb6d3fa077ab6d0dd39b1f63827"
+                        "sha1": "3eefeee2b337324e646e0c9564dcb7e309bf3803",
+                        "md5": "ce95b3ef2fe881f63f7e35f932019522"
                     },
                     "required_dependencies": [
                         "1175609"
                     ],
-                    "size": 929111,
-                    "date_published": "2026-02-08T20:23:23.140Z"
+                    "size": 943076,
+                    "date_published": "2026-03-03T16:36:39.930Z"
                 }
             ]
         },
