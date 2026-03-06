@@ -10682,7 +10682,7 @@
             ]
         },
         {
-            "pakku_id": "ZM2PDKLSwRGTWLbF",
+            "pakku_id": "n0ifu4gTqSW2mtws",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -10703,8 +10703,8 @@
                         "1.20"
                     ],
                     "loaders": [
-                        "neoforge",
-                        "forge"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/7687/218/seasonhud-forge-1.20.1-2.0.0.jar",
