@@ -9572,7 +9572,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "portable_blueprints-v2.0.91-mv1.20.1.jar",
+                    "file_name": "portable_blueprints-v2.0.11-mv1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9580,16 +9580,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7673/889/portable_blueprints-v2.0.91-mv1.20.1.jar",
-                    "id": "7673889",
+                    "url": "https://edge.forgecdn.net/files/7714/110/portable_blueprints-v2.0.11-mv1.20.1.jar",
+                    "id": "7714110",
                     "parent_id": "1231499",
                     "hashes": {
-                        "sha1": "7089271ad68dd806866d6ce1dcf1d2fa52347283",
-                        "md5": "600c905200ef6eb969d144ebd8d11d98"
+                        "sha1": "a28fa78009bdc0b738e78e656780289257bfcb8e",
+                        "md5": "0403e131be9ff16cfaeb873de46cd812"
                     },
                     "required_dependencies": [],
-                    "size": 945647,
-                    "date_published": "2026-02-24T20:12:31.163Z"
+                    "size": 946103,
+                    "date_published": "2026-03-05T10:25:52.143Z"
                 }
             ]
         },
@@ -10689,7 +10689,7 @@
                 "curseforge": "seasonhud"
             },
             "name": {
-                "curseforge": "SeasonHUD"
+                "curseforge": "SeasonHud"
             },
             "id": {
                 "curseforge": "690971"
@@ -10697,26 +10697,26 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "seasonhud-forge-1.20.1-1.13.17.jar",
+                    "file_name": "seasonhud-forge-1.20.1-2.0.0.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "forge",
-                        "neoforge"
+                        "neoforge",
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7405/994/seasonhud-forge-1.20.1-1.13.17.jar",
-                    "id": "7405994",
+                    "url": "https://edge.forgecdn.net/files/7687/218/seasonhud-forge-1.20.1-2.0.0.jar",
+                    "id": "7687218",
                     "parent_id": "690971",
                     "hashes": {
-                        "sha1": "9b7c98ee37d6798e9c0a4e424baac5c6167e2a7c",
-                        "md5": "4f2439ef3f386a24fde13be86cd20b45"
+                        "sha1": "bc98bf9abf638126fb39d33bed5ff948f6347092",
+                        "md5": "81f62244ea765fd5030731f181357ec2"
                     },
                     "required_dependencies": [],
-                    "size": 307074,
-                    "date_published": "2026-01-01T23:29:13.030Z"
+                    "size": 223480,
+                    "date_published": "2026-02-27T19:08:03.003Z"
                 }
             ]
         },
@@ -12493,7 +12493,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "rpgtimeline-forge-1.20.1-2.0.4.0.jar",
+                    "file_name": "rpgtimeline-forge-1.20.1-2.0.4.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -12501,16 +12501,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7641/116/rpgtimeline-forge-1.20.1-2.0.4.0.jar",
-                    "id": "7641116",
+                    "url": "https://edge.forgecdn.net/files/7682/378/rpgtimeline-forge-1.20.1-2.0.4.2.jar",
+                    "id": "7682378",
                     "parent_id": "1454051",
                     "hashes": {
-                        "sha1": "1a15d0f8f465dd7304fc5525af399068c17ea425",
-                        "md5": "8d23b76bdbbbc29bbdaa8501378a9f61"
+                        "sha1": "18aa045e91380833b94571b0591d49b98c60bfc8",
+                        "md5": "b8893b6eba99520052673180ae3ae23b"
                     },
                     "required_dependencies": [],
-                    "size": 403507,
-                    "date_published": "2026-02-17T22:14:56.027Z"
+                    "size": 413638,
+                    "date_published": "2026-02-26T17:52:01.677Z"
                 }
             ]
         },
