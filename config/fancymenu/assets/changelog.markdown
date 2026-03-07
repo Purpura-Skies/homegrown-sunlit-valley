@@ -38,6 +38,19 @@
 - Fixed leaves instantly decaying when placing blockapedia
 - Fixed edge cases where villager home blocks were still binding to the incorrect villager
 - Fixed villagers not liking things they should have in specific cases
+### Homegrown
+- Removed Farsight
+- Removed Hamsters Plus Lite in favor of Adorable Hamster Pets
+- Updated Adopt a Pet! resource pack
+- Added donkeys and mules as pets alongside horses
+- Added cockatiel, fox, macaw, ocelot, ringneck, and unicorn almanac pet entries, updated axolotl and hamster pages
+- Added all Working Dogs and Wilder Nature dogs/wolves to Snowy Spirit's sled pullers
+- Added various new entity types to Dragn's entity tags for better compatibility
+- Fixed Purpura Skies emojis not working
+- Fixed Working Dogs' wolf and akita sinking in powder snow
+- Fixed aged and double-aged llama cheese not having price tooltips
+- Added llama cheese to artisan bounty pool
+
 
 ## 4.0.0
 - Added new NPC mechanics to completely replace the previous villager system
