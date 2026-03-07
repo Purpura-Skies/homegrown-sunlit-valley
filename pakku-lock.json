@@ -6493,44 +6493,6 @@
             ]
         },
         {
-            "pakku_id": "zDXCmPIiPHXdmsCO",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "hamsters"
-            },
-            "name": {
-                "curseforge": "Hamsters Plus Lite"
-            },
-            "id": {
-                "curseforge": "952435"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "hamsters-forge-1.0.3-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5121/305/hamsters-forge-1.0.3-1.20.1.jar",
-                    "id": "5121305",
-                    "parent_id": "952435",
-                    "hashes": {
-                        "sha1": "9926bb85531bc5db1e7621de135896e4b928f3e5",
-                        "md5": "02b3f3a37e2a07b356982c51572ed4d6"
-                    },
-                    "required_dependencies": [
-                        "388172"
-                    ],
-                    "size": 439448,
-                    "date_published": "2024-02-19T18:22:05.517Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "RMan0NYh73ZaEZdA",
             "type": "MOD",
             "slug": {
