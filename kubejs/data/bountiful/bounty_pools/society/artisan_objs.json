@@ -517,6 +517,17 @@
 			},
 			"unitWorth": 1728
 		},
+		"artisan_llama_cheese": {
+			"type": "minecraft:item",
+			"content": "dragnlivestock:llama_cheese",
+			"rarity": "COMMON",
+			"weightMult": 1,
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 1728
+		},
 		"artisan_piece_of_warped_cheese": {
 			"type": "minecraft:item",
 			"content": "meadow:piece_of_warped_cheese",
