@@ -35,7 +35,8 @@ ItemEvents.entityInteracted((e) => {
   if (!global.checkEntityTag(target, "society:husbandry_animal") || target.isBaby()) return;
   if (breedingItems.includes(item.id) || (typeof target.isFood === "function" && target.isFood(item))) {
     let rabbit = target.type != "dragnlivestock:o_rabbit" || target.isTame();
-    if (rabbit && (!["dragnlivestock:o_camel", "dragnlivestock:caribou"].includes(target.type) || target.isTamed())) {
+    let redPanda = target.type != "crittersandcompanions:red_panda" || target.isTame();
+    if (rabbit && redPanda && (!["dragnlivestock:o_camel", "dragnlivestock:caribou"].includes(target.type) || target.isTamed())) {
       server.runCommandSilent(
           global.getEmbersTextAPICommand(
             player.username,
