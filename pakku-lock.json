@@ -4524,6 +4524,43 @@
             ]
         },
         {
+            "pakku_id": "oITKq99h1XwmKIf1",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "entityculling"
+            },
+            "name": {
+                "curseforge": "Entity Culling Fabric/Forge"
+            },
+            "id": {
+                "curseforge": "448233"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-forge-1.9.5-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7396/677/entityculling-forge-1.9.5-mc1.20.1.jar",
+                    "id": "7396677",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "524be2ed63e9f131a17393ead67cd3fddc97ca2b",
+                        "md5": "9de621a952ae3f73774bad91e6f4c718"
+                    },
+                    "required_dependencies": [],
+                    "size": 1569588,
+                    "date_published": "2025-12-30T15:25:59.370Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "U3XqdTpyW88uRgud",
             "pakku_links": [
                 "pthZzGsLRDrCMzUI",
