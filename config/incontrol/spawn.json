@@ -1,5 +1,14 @@
 [
   {
+    "mod": "untitledduckmod",
+    "mincount": {
+        "amount": 8,
+        "mod": "untitledduckmod",
+        "perchunk": true
+	},
+    "result": "deny"
+  },
+  {
     "mob": "dragnpets:o_ocelot",
     "mincount": 4,
     "result": "deny"
