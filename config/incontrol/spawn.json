@@ -1,5 +1,10 @@
 [
   {
+    "mob": "dragnpets:o_ocelot",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
     "mob": ["minecraft:cat"],
     "customevent": "replace_cats",
     "when": "onjoin",
