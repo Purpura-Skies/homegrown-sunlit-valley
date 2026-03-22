@@ -102,7 +102,18 @@ ServerEvents.recipes((e) => {
       egg: "species:treeper_spawn_egg",
       mineral: "society:giant_bandolier_belt",
       coin: "crown",
-    }
+    },
+//    { egg: "dragnlivestock:peach_moobloom_spawn_egg", mineral: "pmhc2trees:peachitem", coin: "ancient_coin" }
+    { egg: "dragnlivestock:wheat_moobloom_spawn_egg", mineral: "minecraft:wheat", coin: "ancient_coin" },
+    { egg: "dragnlivestock:potato_moobloom_spawn_egg", mineral: "minecraft:potato", coin: "ancient_coin" },
+    { egg: "dragnlivestock:carrot_moobloom_spawn_egg", mineral: "minecraft:carrot", coin: "ancient_coin" },
+    { egg: "dragnlivestock:beetroot_moobloom_spawn_egg", mineral: "minecraft:beetroot", coin: "ancient_coin" },
+    { egg: "dragnlivestock:pumpkin_moobloom_spawn_egg", mineral: "minecraft:pumpkin", coin: "ancient_coin" },
+    { egg: "dragnlivestock:melon_moobloom_spawn_egg", mineral: "minecraft:melon", coin: "ancient_coin" },
+    { egg: "dragnlivestock:sweet_berry_moobloom_spawn_egg", mineral: "minecraft:sweet_berries", coin: "ancient_coin" },
+    { egg: "dragnlivestock:glow_berry_moobloom_spawn_egg", mineral: "minecraft:glow_berries", coin: "ancient_coin" },
+    { egg: "dragnlivestock:flowering_moobloom_spawn_egg", mineral: "society:bouquet_bag", coin: "ancient_coin" },
+    { egg: "dragnlivestock:azalea_moobloom_spawn_egg", mineral: "minecraft:flowering_azalea", coin: "ancient_coin" }
   ];
 
   recipes.forEach((recipe) => {
