@@ -18,7 +18,9 @@
     "file/Simply Cats 16x.zip",
     "file/4.1 Adopt a pet!.zip",
     "file/5.3.1 FarmLife Remastered.zip",
-    "file/Farmer GUI 1.20.1 [1.7.8].zip"
+    "file/FarmLife Purpura Plus.zip",
+    "file/Farmer GUI 1.20.1 [1.7.8].zip",
+    "file/Farmer GUI Plus.zip"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -41,6 +43,7 @@
     "file/Simply Cats 16x.zip",
     "file/4.1 Adopt a pet!.zip",
     "file/5.3.1 FarmLife Remastered.zip",
+    "file/FarmLife Purpura Plus.zip"
   ],
     "$$1": {
       "hidden": false,
