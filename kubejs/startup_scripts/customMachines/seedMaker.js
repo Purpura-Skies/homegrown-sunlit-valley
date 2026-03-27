@@ -78,6 +78,7 @@ global.seedMakerRecipes = new Map([
   ["veggiesdelight:zucchini", { output: ["6x veggiesdelight:zucchini_seeds"] }],
   ["society:cranberry", { output: ["6x society:cranberry_seed"] }],
   ["society:sparkpod", { output: ["16x society:sparkstone"] }],
+  ["adorablehamsterpets:green_beans", { output: ["6x adorablehamsterpets:green_bean_seeds"] }],
   ["simplycats:catnip", { output: ["6x simplycats:catnip_seeds"] }],
 ]);
 
