@@ -38,6 +38,7 @@ ServerEvents.recipes((e) => {
     { egg: "minecraft:piglin_spawn_egg", mineral: "society:ruby", coin: "crown" },
     { egg: "minecraft:zombie_horse_spawn_egg", mineral: "society:baryte", coin: "crown" },
     { egg: "minecraft:strider_spawn_egg", mineral: "society:basalt_shard", coin: "crown" },
+    { egg: "dragnlivestock:farm_goat_spawn_egg", mineral: "society:bixbyite", coin: "cog" },
     { egg: "minecraft:goat_spawn_egg", mineral: "society:bixbyite", coin: "crown" },
     { egg: "minecraft:bat_spawn_egg", mineral: "society:dolomite", coin: "crown" },
     { egg: "quark:wraith_spawn_egg", mineral: "society:fire_opal", coin: "crown" },

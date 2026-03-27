@@ -229,6 +229,18 @@
     },
     {
       "offer": {
+        "item": "dragnlivestock:farm_goat_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shepherd_farm_goat_spawn_egg_for_sun"
+    },
+    {
+      "offer": {
         "item": "minecraft:goat_spawn_egg",
         "count": 1
       },
