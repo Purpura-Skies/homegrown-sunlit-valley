@@ -24,8 +24,7 @@
   "shop.society_trading.wanderer": "Wanderer",
   "shop.society_trading.wandering_baker": "Baker",
   "shop.society_trading.wandering_winemaker": "Winemaker",
-  "shop.society_trading.shelter_worker": "Shelter Worker",
-  "shop.society_trading.kennel_hand": "Kennel Hand",
+  "shop.society_trading.pet_shelter": "Pet Shelter",
 
   "shop.society_trading.banker.description": "Sells tools that help manage you money.",
   "shop.society_trading.bard.description": "Sells fun tools for music, photography, & custom paintings.",
@@ -54,8 +53,7 @@
   "shop.society_trading.wanderer.description": "The Wandering Trader will visit with an array of furniture and books",
   "shop.society_trading.wandering_baker.description": "What strange goods this one sells...",
   "shop.society_trading.wandering_winemaker.description": "Offers seeds from around the globe for starting a vinery",
-  "shop.society_trading.shelter_worker.description": "Sells cat related items.",
-  "shop.society_trading.kennel_hand.description": "Sells dog related items.",
+  "shop.society_trading.pet_shelter.description": "Sells pet related equipment & some pet Spawn Crates.",
 
   "gui.society_trading.price": "%s ● ",
   "gui.society_trading.hover_price_one": "Price: %s ●",

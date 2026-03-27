@@ -1,0 +1,227 @@
+{
+  "shop_id": "pet_shelter",
+  "name": "shop.society_trading.pet_shelter",
+  "texture": "simplycats:textures/item/pet_carrier",
+  "jei_catalyst": { "item":"simplycats:pet_carrier" },
+  "selector_weight": 1,
+  "trades": [
+    {
+      "offer": {
+        "item": "simplycats:catnip_seeds",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:bevel",
+        "count": 1
+      },
+      "numismatics_cost": 8,
+      "trade_id": "shelter_catnip_seeds"
+    },
+    {
+      "offer": {
+        "item": "simplycats:laser_pointer",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:bevel",
+        "count": 1
+      },
+      "numismatics_cost": 8,
+      "trade_id": "shelter_laser_pointer"
+    },
+    {
+      "offer": {
+        "item": "workdog:frisbee",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:bevel",
+        "count": 1
+      },
+      "numismatics_cost": 8,
+      "trade_id": "shelter_frisbee"
+    },
+    {
+      "offer": {
+        "item": "simplycats:sterilization_potion",
+        "count": 8
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shelter_cat_sterilization_potion"
+    },
+    {
+      "offer": {
+        "item": "workdog:sterilization_potion",
+        "count": 2
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shelter_dog_sterilization_potion"
+    },
+    {
+      "offer": {
+        "item": "domesticationinnovation:deed_of_ownership",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shelter_deed_of_ownership"
+    },
+    {
+      "offer": {
+        "item": "patchouli:guide_book",
+        "count": 1,
+        "nbt": "{\"patchouli:book\":\"adorablehamsterpets:hamster_tips_guide_book\"}"
+      },
+      "request": {
+        "item": "numismatics:cog",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "shelter_hamster_book"
+    },
+    {
+      "offer": {
+        "item": "simplycats:pet_carrier",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shelter_cat_carrier"
+    },
+    {
+      "offer": {
+        "item": "simplycats:pet_carrier",
+        "count": 1,
+        "nbt": "{Damage:3}"
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "shelter_cat_spawn"
+    },
+    {
+      "offer": {
+        "item": "dragnpets:o_cat_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "shelter_o_cat_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:crate",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shelter_dog_crate"
+    },
+    {
+      "offer": {
+        "item": "workdog:boston_terrier_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_boston_terrier_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:jack_russell_terrier_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_jack_russell_terrier_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:border_collie_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_border_collie_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:pit_bull_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_pit_bull_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:akita_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_akita_spawn"
+    },
+    {
+      "offer": {
+        "item": "workdog:german_shepherd_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_german_shepherd_spawn"
+    },
+    {
+      "offer": {
+        "item": "dragnpets:o_dog_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 4
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shelter_o_dog_spawn"
+    }
+  ]
+}
