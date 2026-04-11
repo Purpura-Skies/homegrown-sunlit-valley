@@ -37,15 +37,15 @@ ItemEvents.entityInteracted((e) => {
     let rabbit = target.type != "dragnlivestock:o_rabbit" || target.isTame();
     let redPanda = target.type != "crittersandcompanions:red_panda" || target.isTame();
     if (rabbit && redPanda && (!["dragnlivestock:o_camel", "dragnlivestock:caribou"].includes(target.type) || target.isTamed())) {
-      server.runCommandSilent(
-          global.getEmbersTextAPICommand(
-            player.username,
-            global.animalMessageSettings,
-            160,
-            Text.translatable("society.husbandry.breeding.need_potion").toJson()
-          )
-        );
-      e.cancel();
+    server.runCommandSilent(
+      global.getEmbersTextAPICommand(
+        player.username,
+        global.animalMessageSettings,
+        160,
+        Text.translatable("society.husbandry.breeding.need_potion").toJson()
+      )
+    );
+    e.cancel();
     }
   }
 
@@ -85,6 +85,7 @@ ItemEvents.entityInteracted((e) => {
           0.01
         );
         target.persistentData.ageLastBred = day;
+        global.giveExperience(server, player, "husbandry", 80);
         player.swing();
         global.addItemCooldown(player, item, 10);
       } else if (day > ageLastBred) {
@@ -131,6 +132,7 @@ ItemEvents.entityInteracted((e) => {
             0.01
           );
           target.persistentData.ageLastBred = day;
+        global.giveExperience(server, player, "husbandry", 80);
           player.swing();
           global.addItemCooldown(player, item, 10);
         }
