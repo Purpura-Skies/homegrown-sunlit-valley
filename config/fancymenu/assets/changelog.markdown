@@ -27,7 +27,15 @@ Society: Sunlit Cobblemon releases on April 26th!
 - Fixed strawberries having vegetable tag for real this time
 - Fixed exploits
 ### Homegrown
-- 
+- Updated Adorable Hamster Pets and Working Dogs mods
+- Added spawn egg recipes and new textures for Dragns Mooblooms and Farm Goats
+- Added custom resourcepack updates for FarmLife and Farmer GUI
+- Re-added entityculling and timeline mods
+- Merged Shelter Worker and Kennel Hand NPC shops into one "Pet Shelter"
+- Removed catnip and green beans seed drops, added seed maker recipes
+- Attempt to limit duck, goose, and o-ocelot spawns with incontrol
+- Changed auto backups to run 10 and 40 min after each hour, fixes server stalling when restart on the hour
+- Fixed taming red pandas
 
 ## 4.0.0
 - Added new NPC mechanics to completely replace the previous villager system
