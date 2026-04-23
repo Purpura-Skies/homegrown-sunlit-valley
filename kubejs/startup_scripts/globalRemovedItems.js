@@ -1,4 +1,6 @@
 global.removedItems = [
+  // TEMP
+  'sophisticatedbackpacks:advanced_pump_upgrade',
   // Dragns food items
   "dragnlivestock:sheep_milk_bucket",
   "dragnlivestock:llama_milk_bucket",
