@@ -250,49 +250,73 @@ excludeBiomeTags = [
     "minecraft:is_river",
     "minecraft:is_deep_ocean"
 ]
-blueBiomes = [
+# A list of mathematical 3D color groups permitted to spawn as overlays on wild hamsters. By default, it's set to natural boring color groups like WHITE, LIGHT_GRAY, DARK_GRAY, and CREAM so your world doesn't look like a clown exploded. Available zones: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE.
+allowedWildOverlayZones = [
+    "WHITE",
+    "LIGHT_GRAY",
+    "DARK_GRAY",
+    "CREAM"
+]
+# If true, wild overlays must be strictly brighter than the base coat. True by default to prevent Black overlays on Cream hamsters.
+enforceBrighterOverlays = true
+# If true, wild overlays must be less saturated than the base coat. On by default to prevent Cream overlays on Black and Gray hamsters.
+enforceMoreMutedOverlays = true
+# Hamsters in these base coat color groups will refuse to spawn with wild overlays from the 'Clashing Overlay Colors' list.
+restrictedBaseZones = [
+    "BLUE",
+    "LAVENDER"
+]
+# A list of wild overlays that look unnatural when combined with the 'Clashing Base Colors'. By default, this prevents Cream and Dark Gray wild overlays on Blue and Lavender hamsters.
+clashingOverlayZones = [
+    "CREAM",
+    "DARK_GRAY"
+]
+icyBiomes = [
     "terralith:glacial_chasm",
     "terralith:mirage_isles",
     "terralith:moonlight_valley",
     "biomesoplenty:enchanted_garden"
 ]
-blueTags = [
+icyTags = [
     "adorablehamsterpets:is_icy"
 ]
-blueExclusionBiomes = [
-    "namespace:id"
+icyExclusionBiomes = [  ]
+icyExclusionTags = [  ]
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+icyWeights = [
+    "BLUE:25",
+    "SKY:25",
+    "WHITE:50"
 ]
-blueExclusionTags = [
-    "c:tag_name"
-]
-lavenderBiomes = [
+magicalBiomes = [
     "minecraft:cherry_grove",
     "terralith:sakura_valley",
     "biomesoplenty:fungi_forest",
     "biomesoplenty:mystic_grove"
 ]
-lavenderTags = [
+magicalTags = [
     "adorablehamsterpets:is_magical",
     "adorablehamsterpets:is_mushroom",
     "terralith:mystical"
 ]
-lavenderExclusionBiomes = [
-    "namespace:id"
+magicalExclusionBiomes = [  ]
+magicalExclusionTags = [  ]
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+magicalWeights = [
+    "LAVENDER:70",
+    "ROSE:30"
 ]
-lavenderExclusionTags = [
-    "c:tag_name"
-]
-whiteBiomes = [
+snowyBiomes = [
     "terralith:snowy_maple_forest",
     "terralith:wintry_forest",
     "terralith:alpine_grove",
     "terralith:siberian_grove"
 ]
-whiteTags = [
+snowyTags = [
     "adorablehamsterpets:is_cold",
     "adorablehamsterpets:is_snowy"
 ]
-whiteExclusionBiomes = [
+snowyExclusionBiomes = [
     "minecraft:deep_frozen_ocean",
     "minecraft:frozen_ocean",
     "minecraft:stony_shore",
@@ -303,69 +327,89 @@ whiteExclusionBiomes = [
     "minecraft:old_growth_pine_taiga",
     "minecraft:old_growth_spruce_taiga"
 ]
-whiteExclusionTags = [
-    "c:tag_name"
+snowyExclusionTags = [  ]
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+snowyWeights = [
+    "WHITE:100"
 ]
-grayBiomes = [
+rockyBiomes = [
     "minecraft:stony_shore",
     "terralith:stony_spires"
 ]
-grayTags = [
+rockyTags = [
     "adorablehamsterpets:is_mountain",
     "adorablehamsterpets:is_sparse_vegetation",
     "terralith:cliffs"
 ]
-grayExclusionBiomes = [
-    "namespace:id"
-]
-grayExclusionTags = [
+rockyExclusionBiomes = [  ]
+rockyExclusionTags = [
     "minecraft:is_badlands",
     "minecraft:is_jungle",
     "minecraft:is_savanna",
     "minecraft:is_beach",
     "adorablehamsterpets:is_sandy"
 ]
-blackBiomes = [
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+mountainWeights = [
+    "LIGHT_GRAY:50",
+    "DARK_GRAY:50"
+]
+darkBiomes = [
     "minecraft:deep_dark"
 ]
-blackTags = [
+darkTags = [
     "adorablehamsterpets:is_wet",
     "adorablehamsterpets:is_cave"
 ]
-blackExclusionBiomes = [  ]
-blackExclusionTags = [
+darkExclusionBiomes = [  ]
+darkExclusionTags = [
     "minecraft:is_jungle",
     "minecraft:is_beach"
 ]
-creamBiomes = [
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+darkWeights = [
+    "BLACK:80",
+    "DARK_GRAY:20"
+]
+sandyBiomes = [
     "minecraft:old_growth_birch_forest",
     "minecraft:birch_forest",
     "terralith:ancient_sands",
     "terralith:sandstone_valley",
     "biomesoplenty:wasteland"
 ]
-creamTags = [
+sandyTags = [
     "adorablehamsterpets:is_sandy"
 ]
-creamExclusionBiomes = [
+sandyExclusionBiomes = [
     "terralith:gravel_beach"
 ]
-creamExclusionTags = [
+sandyExclusionTags = [
     "minecraft:is_badlands"
 ]
-chocolateBiomes = [
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+sandyWeights = [
+    "CREAM:100"
+]
+forestBiomes = [
     "terralith:cloud_forest",
     "biomesoplenty:redwood_forest"
 ]
-chocolateTags = [
+forestTags = [
     "adorablehamsterpets:is_forest",
     "adorablehamsterpets:is_dense_vegetation"
 ]
-chocolateExclusionBiomes = [
-    "namespace:id"
-]
-chocolateExclusionTags = [
+forestExclusionBiomes = [  ]
+forestExclusionTags = [
     "adorablehamsterpets:is_plains"
+]
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+forestWeights = [
+    "CHOCOLATE:100"
+]
+# Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, ROSE, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, ORANGE. Join The Cheek Pouch Discord server to suggest new groupings if you designed a custom hamster texture that you think belongs in its own unique grouping (i.e. maybe a 'mossy' green hamster?).
+plainsWeights = [
+    "ORANGE:100"
 ]
 # The overall probability (0.0 to 1.0) that ANY wild hamster has stuffed something in its face. Set to 0.0 to enforce strict economic austerity.
 globalCheekLootChance = 0.5
@@ -427,7 +471,7 @@ advancedSmithingTemplateLootChance = 0.1
 # Chance (0.0 to 1.0) to find accessories in rare chests. Default is low.
 accessoryLootChance = 0.05
 # Chance (0.0 to 1.0) for an Oak Leaf block to drop an Acorn when broken. Default is low, similar to Apples.
-oakLeavesAcornChance = 0.0
+oakLeavesAcornDropChance = 0.0
 # Higher = slower, lower = faster. Makes perfect sense.
 wildBushRegrowthModifier = 1.0
 # Higher = slower, lower = faster. Photosynthesis is hard, okay?
