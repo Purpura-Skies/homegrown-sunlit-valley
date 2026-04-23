@@ -3,9 +3,9 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 1093382
+	modpackProjectID = 1056925
 	#The name of the modpack
-	modpackName = "Society: Sunlit Valley"
+	modpackName = "Homegrown: Sunlit Valley"
 	#The version of the modpack
 	modpackVersion = "4.0.6"
 	#Use the metadata.json to determine the modpack version
