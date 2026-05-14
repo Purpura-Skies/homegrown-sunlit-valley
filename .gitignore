@@ -5,7 +5,6 @@ blueprints/
 portable_blueprints/tablet_data
 crash-reports/
 emojiful/cache
-journeymap/
 local/
 logs
 resourcepacks/
@@ -50,3 +49,15 @@ lwjgl_opengl.dll
 lwjgl_stb.dll
 lwjgl.dll
 OpenAL.dll
+icon.png
+/controllable_natives
+config/CSC/Log/CSC_Record.log
+config/CSC/Log/CSC_Record.log
+config/controllable/gamecontrollerdb.txt
+/journeymap
+configureddefaults/journeymap/journeymap.log
+config/controlify.json
+config/controllable-client.toml
+config/controllable/bindings.properties
+config/controllable/key_adapters.properties
+config/controllable/radial_menu_items.json

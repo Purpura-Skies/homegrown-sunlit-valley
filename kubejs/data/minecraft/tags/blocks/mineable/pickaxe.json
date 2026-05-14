@@ -1,4 +1,9 @@
 {
   "replace": false,
-  "values": [ "moreminecarts:chiseled_organic_glass", "vinery:window_block", "vinery:window" ]
+  "values": [
+    "moreminecarts:chiseled_organic_glass",
+    "vinery:window_block",
+    "vinery:window",
+    "vintagedelight:smooth_salt_block"
+  ]
 }
