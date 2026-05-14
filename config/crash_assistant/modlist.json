@@ -13,12 +13,13 @@
     "curseForgeHash": 1540026405,
     "modrinthHash": "aa172dc324d2d59fc41a15dec77ab4f3e2a5527a"
   },
-  "adorablehamsterpets-3.5.0-1.20.1+forge.jar": {
-    "jarName": "adorablehamsterpets-3.5.0-1.20.1+forge.jar",
+  "adorablehamsterpets-3.6.0-1.20.1+forge.jar": {
+    "jarName": "adorablehamsterpets-3.6.0-1.20.1+forge.jar",
     "modId": "adorablehamsterpets",
-    "version": "3.5.0-1.20.1+forge",
-    "curseForgeHash": 2580996485,
-    "modrinthHash": "0819f69d0e46909a60b4416bdf9d58dd936c509d"
+    "name": "Adorable Hamster Pets",
+    "version": "3.6.0-1.20.1+forge",
+    "curseForgeHash": 2469180679,
+    "modrinthHash": "fd711c738d03b858a1affd914bf233b7e1885534"
   },
   "AdvancedLootInfo-forge-1.20.1-1.7.2.jar": {
     "jarName": "AdvancedLootInfo-forge-1.20.1-1.7.2.jar",
@@ -183,6 +184,7 @@
   "BetterBeekeeping-1.20.1-1.3.0.jar": {
     "jarName": "BetterBeekeeping-1.20.1-1.3.0.jar",
     "modId": "betterbeekeeping",
+    "name": "Better Beekeeping",
     "version": "1.20.1-1.3.0",
     "curseForgeHash": 2063465958,
     "modrinthHash": "ba6ec8ae08e2000437e1834ed9214be5bdc33dbd"
@@ -214,6 +216,7 @@
   "blur-forge-3.1.1.jar": {
     "jarName": "blur-forge-3.1.1.jar",
     "modId": "blur",
+    "name": "Blur (Forge)",
     "version": "3.1.1",
     "curseForgeHash": 1712179068,
     "modrinthHash": "562f34155f3849463449aeb1ab54cc7064e4bc86"
@@ -314,13 +317,13 @@
     "curseForgeHash": 3717630077,
     "modrinthHash": "7dedfdc2b8d772ecbecf2eeaec003909e69f8c02"
   },
-  "chat_heads-0.15.0-forge-1.20.jar": {
-    "jarName": "chat_heads-0.15.0-forge-1.20.jar",
+  "chat_heads-0.14.2-forge-1.20.jar": {
+    "jarName": "chat_heads-0.14.2-forge-1.20.jar",
     "modId": "chat_heads",
     "name": "Chat Heads",
-    "version": "0.15.0",
-    "curseForgeHash": 562582520,
-    "modrinthHash": "52a21207af65259adfa840e26042c28058f6513f"
+    "version": "0.14.2",
+    "curseForgeHash": 1586719138,
+    "modrinthHash": "0410ab9636c69324e3671012af64c7743f6d6079"
   },
   "cherishedworlds-forge-6.1.7+1.20.1.jar": {
     "jarName": "cherishedworlds-forge-6.1.7+1.20.1.jar",
@@ -711,6 +714,14 @@
     "curseForgeHash": 67469579,
     "modrinthHash": "f16089cc8af8e5dca8f5a14dc7bab11840d9b9a8"
   },
+  "dcintegration-forge-3.0.7.1-1.20.1.jar": {
+    "jarName": "dcintegration-forge-3.0.7.1-1.20.1.jar",
+    "modId": "dcintegration",
+    "name": "Discord Integration",
+    "version": "3.0.7.1",
+    "curseForgeHash": 167850833,
+    "modrinthHash": "28d0562167f26d5caa71866255a163d68417edd2"
+  },
   "decorative_blocks-forge-1.20.1-4.1.3.jar": {
     "jarName": "decorative_blocks-forge-1.20.1-4.1.3.jar",
     "modId": "decorative_blocks",
@@ -762,6 +773,7 @@
   "Ding-1.20.1-Forge-1.5.0.jar": {
     "jarName": "Ding-1.20.1-Forge-1.5.0.jar",
     "modId": "ding",
+    "name": "Ding",
     "version": "1.5.0",
     "curseForgeHash": 2989920072,
     "modrinthHash": "15272a231088077e566f383f51eb408d12c23308"
@@ -785,6 +797,7 @@
   "DragNs_Livestock_Overhaul-1.20.1-3.5.jar": {
     "jarName": "DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
     "modId": "dragnlivestock",
+    "name": "DragN\u0027s Livestock Overhaul!",
     "version": "3.5",
     "curseForgeHash": 2407099432,
     "modrinthHash": "a2c7b5de21e98386ccf74138ba684f81c4d0672f"
@@ -792,6 +805,7 @@
   "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar": {
     "jarName": "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
     "modId": "dragnpets",
+    "name": "DragN\u0027s Livestock Overhaul: Pets Addon!",
     "version": "2.0",
     "curseForgeHash": 2361692845,
     "modrinthHash": "8ccf6bdc43ee5e04a21c9494de3b4b279d678d8b"
@@ -899,6 +913,14 @@
     "version": "7.0.8",
     "curseForgeHash": 2817167765,
     "modrinthHash": "0f401357dfa13ec8a300dc4f436d9f1164fc7044"
+  },
+  "entityculling-forge-1.9.5-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.9.5-mc1.20.1.jar",
+    "modId": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.9.5",
+    "curseForgeHash": 538559316,
+    "modrinthHash": "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
   },
   "entityjs-0.6.6-1.20.1.jar": {
     "jarName": "entityjs-0.6.6-1.20.1.jar",
@@ -1036,16 +1058,10 @@
     "curseForgeHash": 286390377,
     "modrinthHash": "a887003c1cb3a5ba826ce1b49746a61670c02ee7"
   },
-  "farsight-1.20.1-4.5.jar": {
-    "jarName": "farsight-1.20.1-4.5.jar",
-    "modId": "farsight_view",
-    "version": "1.20.1-4.5",
-    "curseForgeHash": 597355476,
-    "modrinthHash": "985eb925a7d8e3d3eca79f7759f59d0af09e3831"
-  },
   "fastboot-1.20.x-1.2.jar": {
     "jarName": "fastboot-1.20.x-1.2.jar",
     "modId": "fastboot",
+    "name": "FastBoot",
     "version": "1.2",
     "curseForgeHash": 3152139061,
     "modrinthHash": "0820d6611bdf664cc84bf351089e75998a9f1962"
@@ -1117,6 +1133,7 @@
   "flowerary-1.20.1-1.1.0.jar": {
     "jarName": "flowerary-1.20.1-1.1.0.jar",
     "modId": "flowerary",
+    "name": "Flowerary",
     "version": "1.20.1-1.1.0",
     "curseForgeHash": 601759112,
     "modrinthHash": "28bde2a5c52a7f2f202f0125295808894bf31196"
@@ -1196,6 +1213,7 @@
   "ftbxaerocompat-forge-1.1.3.jar": {
     "jarName": "ftbxaerocompat-forge-1.1.3.jar",
     "modId": "ftbxaerocompat",
+    "name": "FTB Chunks x Xaero\u0027s Map Compat",
     "version": "1.1.3",
     "curseForgeHash": 3395231471,
     "modrinthHash": "8a3c74b6a5e285ec755097a76a97a469f2490726"
@@ -1219,6 +1237,7 @@
   "fzzy_config-0.7.6+1.20.1+forge.jar": {
     "jarName": "fzzy_config-0.7.6+1.20.1+forge.jar",
     "modId": "fzzy_config",
+    "name": "Fzzy Config",
     "version": "0.7.6+1.20.1+forge",
     "curseForgeHash": 3620637257,
     "modrinthHash": "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624"
@@ -1287,14 +1306,6 @@
     "curseForgeHash": 275764019,
     "modrinthHash": "57a7c3c8b38744629ec491553625adb9a987530c"
   },
-  "hamsters-forge-1.0.3-1.20.1.jar": {
-    "jarName": "hamsters-forge-1.0.3-1.20.1.jar",
-    "modId": "hamsters",
-    "name": "Hamsters",
-    "version": "1.20.1-1.0.3",
-    "curseForgeHash": 284323107,
-    "modrinthHash": "9926bb85531bc5db1e7621de135896e4b928f3e5"
-  },
   "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar": {
     "jarName": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
     "modId": "hopo",
@@ -1306,6 +1317,7 @@
   "horse_tack-4.2-1.20.1.jar": {
     "jarName": "horse_tack-4.2-1.20.1.jar",
     "modId": "horse_tack",
+    "name": "Horse Tack",
     "version": "4.2",
     "curseForgeHash": 742011765,
     "modrinthHash": "88fb0851028b2829c7c63fda4d719199896f02da"
@@ -1329,6 +1341,7 @@
   "iChunUtil-1.20.1-Forge-1.0.3.jar": {
     "jarName": "iChunUtil-1.20.1-Forge-1.0.3.jar",
     "modId": "ichunutil",
+    "name": "iChunUtil",
     "version": "1.0.3",
     "curseForgeHash": 2883883786,
     "modrinthHash": "6e7f110cb4ef9c22bf557cd54248546548d56c66"
@@ -1376,6 +1389,7 @@
   "itemzoom-1.20.1-2.9.0.jar": {
     "jarName": "itemzoom-1.20.1-2.9.0.jar",
     "modId": "itemzoom",
+    "name": "Item Zoom",
     "version": "2.9.0",
     "curseForgeHash": 2920777039,
     "modrinthHash": "9e10fd943727c916329b9c6e35998b72eeddcb15"
@@ -1431,6 +1445,7 @@
   "KeepStepping-Forge-1.20.1-1.0.0.jar": {
     "jarName": "KeepStepping-Forge-1.20.1-1.0.0.jar",
     "modId": "keep_stepping",
+    "name": "Keep Stepping",
     "version": "1.0.0",
     "curseForgeHash": 2649831193,
     "modrinthHash": "6ddacdb75f232438618ba5037dbee74204f9e3ba"
@@ -1944,13 +1959,13 @@
     "curseForgeHash": 4255052743,
     "modrinthHash": "5c6c739ce9bf34e6b434503190ff4c109986ba19"
   },
-  "Patchouli-1.20.1-84.1-FORGE.jar": {
-    "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
+  "Patchouli-1.20.1-85-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-85-FORGE.jar",
     "modId": "patchouli",
     "name": "Patchouli",
-    "version": "1.20.1-84.1-FORGE",
-    "curseForgeHash": 3571975239,
-    "modrinthHash": "e91d2e2f251375d647d592b670ea6f310c2554eb"
+    "version": "1.20.1-85-FORGE",
+    "curseForgeHash": 1383309397,
+    "modrinthHash": "d4614507d6e4c7cb464bba5eca891978272062ef"
   },
   "perfectplushies-forge-1.20.1-1.13.3.jar": {
     "jarName": "perfectplushies-forge-1.20.1-1.13.3.jar",
@@ -2115,6 +2130,7 @@
   "realistic_horse_genetics-1.20.1-13.5.jar": {
     "jarName": "realistic_horse_genetics-1.20.1-13.5.jar",
     "modId": "horse_colors",
+    "name": "Realistic Horse Genetics",
     "version": "1.20.1-13.5",
     "curseForgeHash": 2850872501,
     "modrinthHash": "4f0790c358b2c666b9699dbfc2d3d1996579d1c3"
@@ -2210,6 +2226,7 @@
   "ride_along-1.20.1-1.0.jar": {
     "jarName": "ride_along-1.20.1-1.0.jar",
     "modId": "ride_along",
+    "name": "Ride Along",
     "version": "1.20.1-1.0",
     "curseForgeHash": 3046816686,
     "modrinthHash": "dde438c16bf19142bcb75524d9aff4ad72b7d538"
@@ -2222,6 +2239,14 @@
     "curseForgeHash": 1585838124,
     "modrinthHash": "def7db68bb8a89bdbbda7d9eee85778f93b5884c"
   },
+  "rpgtimeline-forge-1.20.1-2.0.4.2.jar": {
+    "jarName": "rpgtimeline-forge-1.20.1-2.0.4.2.jar",
+    "modId": "rpgtimeline",
+    "name": "Timeline",
+    "version": "2.0.4.2",
+    "curseForgeHash": 3531782902,
+    "modrinthHash": "18aa045e91380833b94571b0591d49b98c60bfc8"
+  },
   "RSInfinityBooster-1.20.1-1.0+41.jar": {
     "jarName": "RSInfinityBooster-1.20.1-1.0+41.jar",
     "modId": "rsinfinitybooster",
@@ -2233,6 +2258,7 @@
   "saturn-mc1.20.1-0.1.3.jar": {
     "jarName": "saturn-mc1.20.1-0.1.3.jar",
     "modId": "saturn",
+    "name": "Saturn",
     "version": "0.1.3",
     "curseForgeHash": 1313951597,
     "modrinthHash": "ad93f99d46714c46aaa6a4409aeca506e9fcac99"
@@ -2368,6 +2394,7 @@
   "simplycats-1.20.1-0.3.0.jar": {
     "jarName": "simplycats-1.20.1-0.3.0.jar",
     "modId": "simplycats",
+    "name": "Simply Cats",
     "version": "1.20.1-0.3.0",
     "curseForgeHash": 1943832868,
     "modrinthHash": "2de92590d84279fea56ea5aae9d516de3764ca47"
@@ -2567,6 +2594,7 @@
   "SubtleEffects-forge-1.20.1-1.13.2.jar": {
     "jarName": "SubtleEffects-forge-1.20.1-1.13.2.jar",
     "modId": "subtle_effects",
+    "name": "Subtle Effects",
     "version": "1.13.2",
     "curseForgeHash": 849545657,
     "modrinthHash": "704e6b718c405b67296fe717f099aff72ebba8db"
@@ -2702,6 +2730,7 @@
   "truly_custom_horse_tack-1.20.1-1.6.0.jar": {
     "jarName": "truly_custom_horse_tack-1.20.1-1.6.0.jar",
     "modId": "truly_custom_horse_tack",
+    "name": "Truly Custom Horse Tack",
     "version": "1.6.0",
     "curseForgeHash": 3355426252,
     "modrinthHash": "213639c2babe92aad2d3e4cfbc8f65cd303116f8"
@@ -2810,13 +2839,13 @@
     "curseForgeHash": 3519258904,
     "modrinthHash": "d376debf1f96f37dbedf56919baeb7da2dcef9ab"
   },
-  "waystones-forge-1.20.1-14.1.17.jar": {
-    "jarName": "waystones-forge-1.20.1-14.1.17.jar",
+  "waystones-forge-1.20.1-14.1.20.jar": {
+    "jarName": "waystones-forge-1.20.1-14.1.20.jar",
     "modId": "waystones",
     "name": "Waystones",
-    "version": "14.1.17",
-    "curseForgeHash": 2179640189,
-    "modrinthHash": "0572e124fa1af248b5b978d7c615fb31629103e5"
+    "version": "14.1.20",
+    "curseForgeHash": 2729876076,
+    "modrinthHash": "cde06d0f1e9042fb2e0b536a4d2c5443d129dd51"
   },
   "whimsy_deco-1.1.jar": {
     "jarName": "whimsy_deco-1.1.jar",
@@ -2834,33 +2863,37 @@
     "curseForgeHash": 3790981306,
     "modrinthHash": "96ef422bd90a90b84776db3aa0d234e18246fd05"
   },
-  "workdog-1.20.1-0.1.2-lite.jar": {
-    "jarName": "workdog-1.20.1-0.1.2-lite.jar",
+  "workdog-1.20.1-0.2.1-lite-hotfix1.jar": {
+    "jarName": "workdog-1.20.1-0.2.1-lite-hotfix1.jar",
     "modId": "workdog",
-    "version": "1.20.1-0.1.2-lite",
-    "curseForgeHash": 3714202779,
-    "modrinthHash": "93fe46270e2835ac8f71b2b2efef6ddb5ae2cedc"
+    "name": "Working Dogs",
+    "version": "1.20.1-0.2.1-lite-hotfix1",
+    "curseForgeHash": 4076360607,
+    "modrinthHash": "59b6b91fd6875feb5de2c3089bdd12cf643b8085"
   },
-  "xaerominimap-forge-1.20.1-25.3.10.jar": {
-    "jarName": "xaerominimap-forge-1.20.1-25.3.10.jar",
+  "xaerominimap-forge-1.20.1-25.3.13.jar": {
+    "jarName": "xaerominimap-forge-1.20.1-25.3.13.jar",
     "modId": "xaerominimap",
-    "version": "25.3.10",
-    "curseForgeHash": 2833257781,
-    "modrinthHash": "fef773ef4cbfa240a55236f3e8d6add20eb2add1"
+    "name": "Xaero\u0027s Minimap",
+    "version": "25.3.13",
+    "curseForgeHash": 3469159,
+    "modrinthHash": "183c7078af2e11f8c3f2baed9e4151a51abb493c"
   },
-  "xaeros_waystones_compability-1.0.jar": {
-    "jarName": "xaeros_waystones_compability-1.0.jar",
+  "xaeros_waystones_compatibility-1.1 - 1.20.1.jar": {
+    "jarName": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
     "modId": "w2w2",
-    "version": "1.0",
-    "curseForgeHash": 3101476530,
-    "modrinthHash": "a5cee92bae3ebb6a95f01e972a71ca794bc60f98"
+    "name": "Xaero\u0027s Map - Waystones Compability",
+    "version": "1.1",
+    "curseForgeHash": 3489900467,
+    "modrinthHash": "d88355bcf6d731c067ed49146a090758356bd028"
   },
-  "xaeroworldmap-forge-1.20.1-1.40.11.jar": {
-    "jarName": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+  "xaeroworldmap-forge-1.20.1-1.40.16.jar": {
+    "jarName": "xaeroworldmap-forge-1.20.1-1.40.16.jar",
     "modId": "xaeroworldmap",
-    "version": "1.40.11",
-    "curseForgeHash": 1884452474,
-    "modrinthHash": "0a5d068b6aa72c69b79e7ab7da47ef64f96e5b7c"
+    "name": "Xaero\u0027s World Map",
+    "version": "1.40.16",
+    "curseForgeHash": 2470635228,
+    "modrinthHash": "3ebbd1aea9e55b746d168c0d3ac014bb5892db71"
   },
   "xlpackets-forge-1.20.1-1.0.5.jar": {
     "jarName": "xlpackets-forge-1.20.1-1.0.5.jar",
