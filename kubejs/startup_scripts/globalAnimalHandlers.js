@@ -100,9 +100,9 @@ const canMilk = (data, target, day, plushieModifiers) => {
   const ageLastMilked = data.getInt("ageLastMilked");
   const dayHasPassed =
     day > ageLastMilked + global.getMilkingTimeMult(target, target.type) - 1;
-  if (plushieModifiers) return dayHasPassed;
-  const hungry = day - data.getInt("ageLastFed") > 1;
   const freshAnimal = global.isFresh(day, ageLastMilked);
+  if (plushieModifiers) return freshAnimal || dayHasPassed;
+  const hungry = global.compareDay(day, data.getInt("ageLastFed"), 1)
   return !global.isGenderedMale(target) && !target.isBaby() && !hungry && (freshAnimal || dayHasPassed);
 };
 
@@ -176,10 +176,8 @@ global.handleSpecialHarvest = (
   const ageLastFed = plushieModifiers ? -1 : data.getInt("ageLastFed");
   const ageLastDroppedSpecial = data.getInt("ageLastDroppedSpecial") || 0;
   const type = target.type;
-  const freshAnimal = plushieModifiers
-    ? false
-    : global.isFresh(day, ageLastDroppedSpecial);
-  const hungry = day - ageLastFed > 1;
+  const freshAnimal = global.isFresh(day, ageLastDroppedSpecial);
+  const hungry = global.compareDay(day, ageLastFed, 1)
   const crackerBonus = data.animalCracker ? 2 : 1;
   if (freshAnimal || day > ageLastDroppedSpecial) {
     let resolvedCount;
@@ -348,9 +346,7 @@ global.getMagicShearsOutput = (level, target, player, plushieModifiers) => {
   const day = global.getDay(level);
   const data = plushieModifiers ? target : target.persistentData;
   const ageLastMagicHarvested = data.getInt("ageLastMagicHarvested");
-  const freshAnimal = plushieModifiers
-    ? false
-    : global.isFresh(day, ageLastMagicHarvested);
+  const freshAnimal = global.isFresh(day, ageLastMagicHarvested);
   let affection;
   let mood;
   if (plushieModifiers) {

@@ -1,7 +1,7 @@
 console.info("[SOCIETY] autoPetter.js loaded");
 
 const autoPetterTickRate = 20;
-const autoPetterProgTime = 20;
+const autoPetterProgTime = 1000;
 
 global.runAutoPetter = (entity) => {
   const { block, level } = entity;
@@ -22,7 +22,7 @@ global.runAutoPetter = (entity) => {
       let ageLastPet = data.getInt("ageLastPet");
       let ageLastFed = data.getInt("ageLastFed");
       if (day > ageLastPet) {
-        let hungry = day - ageLastFed > 1;
+        let hungry = global.compareDay(day, ageLastFed, 1)
         let affection = data.getInt("affection");
         let affectionIncreaseMult = data.bribed ? 2 : 1;
         let affectionIncrease = 5 * affectionIncreaseMult;

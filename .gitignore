@@ -7,9 +7,11 @@ crash-reports/
 emojiful/cache
 local/
 logs
+options.txt
 resourcepacks/
-!config/defaultoptions/options.txt
 datapacks/
+!/resourcepacks/sunlit_overrides.zip
+!configureddefaults/options.txt
 mods/
 build/
 saves/
@@ -27,7 +29,6 @@ easy_npc/backup
 fancymenu_data/
 etched-sounds/
 TrashSlotSaveState.json
-options.txt
 usercache.json
 usernamecache.json
 .curseclient

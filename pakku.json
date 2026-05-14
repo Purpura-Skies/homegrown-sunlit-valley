@@ -1,6 +1,6 @@
 {
     "name": "Homegrown Sunlit Valley",
-    "version": "4.0.7",
+    "version": "4.0.8",
     "overrides": [
         "config",
         "defaultconfigs",
@@ -176,5 +176,6 @@
         "seasonhud": {
             "side": "CLIENT"
         }
-    }
+    },
+    "export_server_side_projects_to_client": true
 }
