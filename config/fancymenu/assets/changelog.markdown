@@ -8,6 +8,8 @@
 - Fixed default journeymap configs
 - Fixed season quest not having important info
 ### Homegrown
+- Updated Working Dogs, Xaeros, and Waystones mods
+- Updated Adopt A Pet resource pack
 - Fixed taming shima enaga
 - Fixed moobloom spawn eggs not using new textures
 
