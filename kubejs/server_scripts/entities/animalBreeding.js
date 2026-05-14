@@ -32,7 +32,7 @@ const breedingItems = [
 ItemEvents.entityInteracted((e) => {
   const { hand, player, item, target, level, server } = e;
   if (player.cooldowns.isOnCooldown(item)) return;
-  if (!global.checkEntityTag(target, "society:husbandry_animal") || target.isBaby()) return;
+  if (!global.checkEntityTag(target, "society:husbandry_animal") || target.isBaby() || target.type == "crittersandcompanions:shima_enaga") return;
   if (breedingItems.includes(item.id) || (typeof target.isFood === "function" && target.isFood(item))) {
     let rabbit = target.type != "dragnlivestock:o_rabbit" || target.isTame();
     let redPanda = target.type != "crittersandcompanions:red_panda" || target.isTame();
