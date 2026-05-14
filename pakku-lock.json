@@ -64,23 +64,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "4.1 Adopt a pet!.zip",
+                    "file_name": "5.2 Adopt a Pet!.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7706/196/4.1 Adopt a pet!.zip",
-                    "id": "7706196",
+                    "url": "https://edge.forgecdn.net/files/8007/895/5.2 Adopt a Pet!.zip",
+                    "id": "8007895",
                     "parent_id": "1363061",
                     "hashes": {
-                        "sha1": "3eefeee2b337324e646e0c9564dcb7e309bf3803",
-                        "md5": "ce95b3ef2fe881f63f7e35f932019522"
+                        "sha1": "7a41e26baea22d18b4bf674296c682fe928c9ef0",
+                        "md5": "47bf181bc868cf5734aa91871132e501"
                     },
                     "required_dependencies": [
                         "1175609"
                     ],
-                    "size": 943076,
-                    "date_published": "2026-03-03T16:36:39.930Z"
+                    "size": 794708,
+                    "date_published": "2026-04-29T01:37:39.597Z"
                 }
             ]
         },
@@ -8866,7 +8866,7 @@
             ]
         },
         {
-            "pakku_id": "2H7yI1bbvw1qJzKV",
+            "pakku_id": "9LZqIISiW4xlOv3C",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -8889,7 +8889,7 @@
                         "forge",
                         "neoforge"
                     ],
-                    "release_type": "release",
+                    "release_type": "beta",
                     "url": "https://edge.forgecdn.net/files/6404/9/ok_zoomer-forge-5.4.0-beta.8.jar",
                     "id": "6404009",
                     "parent_id": "354047",
@@ -13534,7 +13534,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "waystones-forge-1.20.1-14.1.17.jar",
+                    "file_name": "waystones-forge-1.20.1-14.1.20.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -13543,18 +13543,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6856/603/waystones-forge-1.20.1-14.1.17.jar",
-                    "id": "6856603",
+                    "url": "https://edge.forgecdn.net/files/7682/270/waystones-forge-1.20.1-14.1.20.jar",
+                    "id": "7682270",
                     "parent_id": "245755",
                     "hashes": {
-                        "sha1": "0572e124fa1af248b5b978d7c615fb31629103e5",
-                        "md5": "c0991381d238b6e1ba9526132b8a9a7c"
+                        "sha1": "cde06d0f1e9042fb2e0b536a4d2c5443d129dd51",
+                        "md5": "eb4dcdc36470b7fd858c39547ad1c7d2"
                     },
                     "required_dependencies": [
                         "531761"
                     ],
-                    "size": 518286,
-                    "date_published": "2025-08-06T19:01:45.367Z"
+                    "size": 533738,
+                    "date_published": "2026-02-26T17:34:59.147Z"
                 }
             ]
         },
@@ -13687,7 +13687,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "workdog-1.20.1-0.2.0-lite-hotfix2.jar",
+                    "file_name": "workdog-1.20.1-0.2.1-lite-hotfix1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13695,16 +13695,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7947/713/workdog-1.20.1-0.2.0-lite-hotfix2.jar",
-                    "id": "7947713",
+                    "url": "https://edge.forgecdn.net/files/8071/397/workdog-1.20.1-0.2.1-lite-hotfix1.jar",
+                    "id": "8071397",
                     "parent_id": "1160842",
                     "hashes": {
-                        "sha1": "710e5b82e4fb8ed0267b0ccfd78ef312cb8f8ed0",
-                        "md5": "af651196db68947e2ac163bf93c1068f"
+                        "sha1": "59b6b91fd6875feb5de2c3089bdd12cf643b8085",
+                        "md5": "4396fd2966a045148775fb7a52089d75"
                     },
                     "required_dependencies": [],
-                    "size": 2569630,
-                    "date_published": "2026-04-18T23:55:15.030Z"
+                    "size": 2576697,
+                    "date_published": "2026-05-11T00:42:25.857Z"
                 }
             ]
         },
@@ -13759,7 +13759,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+                    "file_name": "xaerominimap-forge-1.20.1-25.3.13.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -13768,16 +13768,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7598/586/xaerominimap-forge-1.20.1-25.3.10.jar",
-                    "id": "7598586",
+                    "url": "https://edge.forgecdn.net/files/8046/960/xaerominimap-forge-1.20.1-25.3.13.jar",
+                    "id": "8046960",
                     "parent_id": "263420",
                     "hashes": {
-                        "sha1": "fef773ef4cbfa240a55236f3e8d6add20eb2add1",
-                        "md5": "2847dc482588772ec551a5b5112dc686"
+                        "sha1": "183c7078af2e11f8c3f2baed9e4151a51abb493c",
+                        "md5": "e2b6257709a0339c09485fb77386f632"
                     },
                     "required_dependencies": [],
-                    "size": 2146522,
-                    "date_published": "2026-02-09T09:27:39.350Z"
+                    "size": 2147217,
+                    "date_published": "2026-05-06T07:39:52.090Z"
                 }
             ]
         },
@@ -13791,7 +13791,7 @@
                 "curseforge": "xaeros-minimap-world-map-waystones-compability"
             },
             "name": {
-                "curseforge": "Xaero's Minimap & World Map - Waystones Compatibility [Forge]"
+                "curseforge": "Xaero's Minimap & World Map - Waystones Compatibility [Forge & NeoForge]"
             },
             "id": {
                 "curseforge": "887484"
@@ -13799,27 +13799,26 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaeros_waystones_compability-1.0.jar",
+                    "file_name": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
                     "mc_versions": [
-                        "1.20.1",
-                        "1.20"
+                        "1.20.1"
                     ],
                     "loaders": [
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4637/926/xaeros_waystones_compability-1.0.jar",
-                    "id": "4637926",
+                    "url": "https://edge.forgecdn.net/files/7786/445/xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
+                    "id": "7786445",
                     "parent_id": "887484",
                     "hashes": {
-                        "sha1": "a5cee92bae3ebb6a95f01e972a71ca794bc60f98",
-                        "md5": "79bff42d6b63942c8f8cb3d11aa4bcec"
+                        "sha1": "d88355bcf6d731c067ed49146a090758356bd028",
+                        "md5": "7c2f8c0b4790b81d05bf77c5fc328ac5"
                     },
                     "required_dependencies": [
                         "245755"
                     ],
-                    "size": 325574,
-                    "date_published": "2023-07-11T21:22:03.843Z"
+                    "size": 325969,
+                    "date_published": "2026-03-20T20:06:32.413Z"
                 }
             ]
         },
@@ -13838,7 +13837,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+                    "file_name": "xaeroworldmap-forge-1.20.1-1.40.16.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -13847,16 +13846,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7598/469/xaeroworldmap-forge-1.20.1-1.40.11.jar",
-                    "id": "7598469",
+                    "url": "https://edge.forgecdn.net/files/8042/194/xaeroworldmap-forge-1.20.1-1.40.16.jar",
+                    "id": "8042194",
                     "parent_id": "317780",
                     "hashes": {
-                        "sha1": "0a5d068b6aa72c69b79e7ab7da47ef64f96e5b7c",
-                        "md5": "d8624a1b587fbcd28d8f5dc5b13399d4"
+                        "sha1": "3ebbd1aea9e55b746d168c0d3ac014bb5892db71",
+                        "md5": "9e740cc46164ca921ba31102d61b723d"
                     },
                     "required_dependencies": [],
-                    "size": 1388342,
-                    "date_published": "2026-02-09T08:43:18.330Z"
+                    "size": 1389566,
+                    "date_published": "2026-05-05T08:33:05.350Z"
                 }
             ]
         },

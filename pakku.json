@@ -176,6 +176,5 @@
         "seasonhud": {
             "side": "CLIENT"
         }
-    },
-    "export_server_side_projects_to_client": true
+    }
 }
