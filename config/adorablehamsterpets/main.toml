@@ -194,7 +194,15 @@ buffFoods = [
 ]
 # The specific items that convince a tamed hamster your shoulder is the best seat in the house. Also acts as a bribe to lure them into their linked bed. Defaults to cheese, because of course it does.
 lureItems = [
-    "adorablehamsterpets:cheese"
+    "adorablehamsterpets:cheese",
+    "meadow:piece_of_cheese",
+    "meadow:piece_of_sheep_cheese",
+    "meadow:piece_of_grain_cheese",
+    "meadow:piece_of_amethyst_cheese",
+    "meadow:piece_of_buffalo_cheese",
+    "meadow:piece_of_goat_cheese",
+    "meadow:piece_of_warped_cheese",
+    "farmlife:tribull_cheese_wedge"
 ]
 # The list of specific items that, when used on a Hamster Bed, will set 'Wander Mode Settings > Allow Sleeping in Bed' to false. For when you need your hamster to stay awake and wander around for... reasons. This can be reversed by using a lure item (cheese by default) on the bed. Sneaking before right-clicking with this item will unlink the bed entirely.
 bedAvoidanceFoods = [
