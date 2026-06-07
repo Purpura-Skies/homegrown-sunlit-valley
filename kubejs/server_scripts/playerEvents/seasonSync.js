@@ -1,5 +1,5 @@
 const ModConfig = Java.loadClass("sereneseasons.init.ModConfig")
-const data = { subSeasonDuration: 10 }
+const data = { subSeasonDuration: 168 }
 
 ServerEvents.loaded(event => {
     data.subSeasonDuration = ModConfig.seasons.subSeasonDuration;
