@@ -64,23 +64,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "5.2 Adopt a Pet!.zip",
+                    "file_name": "6.1 Adopt a Pet!.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8007/895/5.2 Adopt a Pet!.zip",
-                    "id": "8007895",
+                    "url": "https://edge.forgecdn.net/files/8182/741/6.1 Adopt a Pet!.zip",
+                    "id": "8182741",
                     "parent_id": "1363061",
                     "hashes": {
-                        "sha1": "7a41e26baea22d18b4bf674296c682fe928c9ef0",
-                        "md5": "47bf181bc868cf5734aa91871132e501"
+                        "sha1": "9123415b6f670701e1b6f0bf23547b5bb723cbc6",
+                        "md5": "548ff731d34f12d9c41701ed0a2aa9e3"
                     },
                     "required_dependencies": [
                         "1175609"
                     ],
-                    "size": 794708,
-                    "date_published": "2026-04-29T01:37:39.597Z"
+                    "size": 805949,
+                    "date_published": "2026-06-01T22:07:57.030Z"
                 }
             ]
         },
@@ -2330,6 +2330,7 @@
         {
             "pakku_id": "SlMVzrYHMYr7SkFF",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "controllable"
             },
@@ -5426,23 +5427,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "5.3.1 FarmLife Remastered.zip",
+                    "file_name": "7.1 FarmLife Remastered.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7603/907/5.3.1 FarmLife Remastered.zip",
-                    "id": "7603907",
+                    "url": "https://edge.forgecdn.net/files/8205/826/7.1 FarmLife Remastered.zip",
+                    "id": "8205826",
                     "parent_id": "1311617",
                     "hashes": {
-                        "sha1": "cb0710220f138d8aed41f81f856f33ab9b730ce2",
-                        "md5": "635caba2a75ccbe10098a3e8a486c931"
+                        "sha1": "251ac935482e939491956dff85591897cf936c3c",
+                        "md5": "60fdb420b441ba076e1ab99ab9c351cb"
                     },
                     "required_dependencies": [
                         "1131669"
                     ],
-                    "size": 2390327,
-                    "date_published": "2026-02-10T12:50:16.097Z"
+                    "size": 2584599,
+                    "date_published": "2026-06-06T14:05:55.087Z"
                 }
             ]
         },
@@ -13281,7 +13282,7 @@
             ]
         },
         {
-            "pakku_id": "2zpHVSVxxEwz0aID",
+            "pakku_id": "LNUJ0yZSyN9Hw5hC",
             "type": "MOD",
             "slug": {
                 "curseforge": "via-romana"
@@ -13300,8 +13301,7 @@
                         "1.20.1"
                     ],
                     "loaders": [
-                        "forge",
-                        "neoforge"
+                        "forge"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/7427/731/via_romana-2.2.2+1.20.1-forge.jar",

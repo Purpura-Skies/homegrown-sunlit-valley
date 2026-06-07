@@ -9,6 +9,12 @@
 - Fixed potential crashes involving blocks that scan for other blocks 
 - Fixed potential crash with Skull Cavern regeneration
 - Fixed fish pond quest selection (Thanks Redd)
+- ### Homegrown
+- Updated Working Dogs, Xaeros, and Waystones mods
+- Updated Adopt A Pet resource pack
+- Fixed taming shima enaga
+- Fixed moobloom spawn eggs not using new textures
+
 ## 4.0.0
 - Added new NPC mechanics to completely replace the previous villager system
 - Added 6 handmade villagers with art by NifastGreentail and Nitbe
@@ -269,8 +275,3 @@
 - Auto-Petter now triggers at 7am to avoid hunger debuff
 - Fixed default journeymap configs
 - Fixed season quest not having important info
-- ### Homegrown
-- Updated Working Dogs, Xaeros, and Waystones mods
-- Updated Adopt A Pet resource pack
-- Fixed taming shima enaga
-- Fixed moobloom spawn eggs not using new textures

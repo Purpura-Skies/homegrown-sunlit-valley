@@ -44,10 +44,20 @@
   "item.dragnlivestock.o_goat_spawn_egg": "Mountain Goat Spawn Egg",
   "entity.dragnlivestock.o_goat": "Mountain Goat",
 
-  "item.dragnlivestock.farm_goat_spawn_egg": "Farm Goat Spawn Egg",
+  "item.dragnlivestock.farm_goat_spawn_egg": "Farm Goat Crate",
   "entity.dragnlivestock.farm_goat": "Farm Goat",
 
   "item.dragnlivestock.o_frog_spawn_egg": "Frog Spawn Egg",
-  "entity.dragnlivestock.o_frog": "Frog"
+  "entity.dragnlivestock.o_frog": "Frog",
 
+  "item.dragnlivestock.wheat_moobloom_spawn_egg": "Wheat Moobloom Crate",
+  "item.dragnlivestock.sweet_berry_moobloom_spawn_egg": "Sweet Berry Moobloom Crate",
+  "item.dragnlivestock.pumpkin_moobloom_spawn_egg": "Pumpkin Moobloom Crate",
+  "item.dragnlivestock.potato_moobloom_spawn_egg": "Potato Moobloom Crate",
+  "item.dragnlivestock.melon_moobloom_spawn_egg": "Melon Moobloom Crate",
+  "item.dragnlivestock.glow_berry_moobloom_spawn_egg": "Glow Berry Moobloom Crate",
+  "item.dragnlivestock.flowering_moobloom_spawn_egg": "Flowering Moobloom Crate",
+  "item.dragnlivestock.carrot_moobloom_spawn_egg": "Carrot Moobloom Crate",
+  "item.dragnlivestock.beetroot_moobloom_spawn_egg": "Beetroot Moobloom Crate",
+  "item.dragnlivestock.azalea_moobloom_spawn_egg": "Azalea Moobloom Crate"
 }
