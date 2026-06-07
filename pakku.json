@@ -1,6 +1,6 @@
 {
     "name": "Homegrown Sunlit Valley",
-    "version": "4.0.8",
+    "version": "4.0.9",
     "overrides": [
         "config",
         "defaultconfigs",
@@ -42,6 +42,9 @@
             "side": "CLIENT"
         },
         "controlling": {
+            "side": "CLIENT"
+        },
+        "controllable": {
             "side": "CLIENT"
         },
         "crash-assistant": {
