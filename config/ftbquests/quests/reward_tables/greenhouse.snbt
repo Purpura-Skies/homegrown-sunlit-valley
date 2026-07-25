@@ -395,10 +395,11 @@
 					Damage: 1
 					allow_nbt: 1
 					altezza: 0
-					blueprint_name: "greenhouse_lavender"
+					blueprint_name: "greenhouse_rural"
 					buildAnyway: 0b
 					display: {
-						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Greenhouse\"}"
+						Lore: ["{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.rural_greenhouse.author\"}"]
+						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.rural_greenhouse\"}"
 					}
 					free_build: 1
 					inventari_blocco_selezionati: ""
@@ -407,9 +408,9 @@
 					mirrowX: 0b
 					mirrowY: 0b
 					mirrowZ: 0b
-					nome: "greenhouse_lavender"
+					nome: "greenhouse_rural"
 					owner: "worn"
-					owner_name: "ScubaCat"
+					owner_name: "Ace"
 					remaining_uses: 1
 					rotateValue: 0s
 					skipObstructionBlock: 0b
@@ -430,7 +431,8 @@
 					blueprint_name: "greenhouse_floral"
 					buildAnyway: 0b
 					display: {
-						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Floral Greenhouse\"}"
+						Lore: ["{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.floral_greenhouse.author\"}"]
+						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.floral_greenhouse\"}"
 					}
 					free_build: 1
 					inventari_blocco_selezionati: ""
@@ -441,7 +443,7 @@
 					mirrowZ: 0b
 					nome: "greenhouse_floral"
 					owner: "worn"
-					owner_name: "SianaTheSavage"
+					owner_name: "Ace"
 					remaining_uses: 1
 					rotateValue: 0s
 					skipObstructionBlock: 0b
@@ -462,7 +464,8 @@
 					blueprint_name: "greenhouse_sakura"
 					buildAnyway: 0b
 					display: {
-						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Sakura Greenhouse\"}"
+						Lore: ["{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.sakura_greenhouse.author\"}"]
+						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"translate\":\"portable_blueprints.worn_blueprint.sakura_greenhouse\"}"
 					}
 					free_build: 1
 					inventari_blocco_selezionati: ""
@@ -473,7 +476,39 @@
 					mirrowZ: 0b
 					nome: "greenhouse_sakura"
 					owner: "worn"
-					owner_name: "EeveeBaby"
+					owner_name: "Ace"
+					remaining_uses: 1
+					rotateValue: 0s
+					skipObstructionBlock: 0b
+					visualizeBuild: 0b
+					wasHolding: 1b
+					worn_set: 1b
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "portable_blueprints:worn_blueprint"
+				tag: {
+					Damage: 1
+					allow_nbt: 1
+					altezza: 0
+					blueprint_name: "greenhouse_lavender"
+					buildAnyway: 0b
+					display: {
+						Name: "{\"italic\":false,\"color\":\"#FFFF00\",\"text\":\"Blueprint: Lavender Greenhouse\"}"
+					}
+					free_build: 1
+					inventari_blocco_selezionati: ""
+					lunghezzaX: 0
+					lunghezzaZ: 0
+					mirrowX: 0b
+					mirrowY: 0b
+					mirrowZ: 0b
+					nome: "greenhouse_lavender"
+					owner: "worn"
+					owner_name: "ScubaCat"
 					remaining_uses: 1
 					rotateValue: 0s
 					skipObstructionBlock: 0b

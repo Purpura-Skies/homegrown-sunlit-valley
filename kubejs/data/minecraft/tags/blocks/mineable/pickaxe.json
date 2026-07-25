@@ -4,6 +4,9 @@
     "moreminecarts:chiseled_organic_glass",
     "vinery:window_block",
     "vinery:window",
-    "vintagedelight:smooth_salt_block"
+    "vintagedelight:smooth_salt_block",
+    "society:sparkstone_block",
+    "society:prismatic_shard_block",
+    "society:supreme_mayonnaise"
   ]
 }
