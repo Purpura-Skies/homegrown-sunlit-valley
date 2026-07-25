@@ -64,23 +64,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "6.1 Adopt a Pet!.zip",
+                    "file_name": "6.2 Adopt a Pet!.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8182/741/6.1 Adopt a Pet!.zip",
-                    "id": "8182741",
+                    "url": "https://edge.forgecdn.net/files/8262/453/6.2 Adopt a Pet!.zip",
+                    "id": "8262453",
                     "parent_id": "1363061",
                     "hashes": {
-                        "sha1": "9123415b6f670701e1b6f0bf23547b5bb723cbc6",
-                        "md5": "548ff731d34f12d9c41701ed0a2aa9e3"
+                        "sha1": "40fcd1ee0d9f08e626c97b05edd0f0216156586e",
+                        "md5": "7efbffbc3c4f25c0d2c5b5919dedf3b9"
                     },
                     "required_dependencies": [
                         "1175609"
                     ],
-                    "size": 805949,
-                    "date_published": "2026-06-01T22:07:57.030Z"
+                    "size": 836163,
+                    "date_published": "2026-06-17T00:16:39.250Z"
                 }
             ]
         },
@@ -5581,23 +5581,23 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "7.1 FarmLife Remastered.zip",
+                    "file_name": "8.1 FarmLife Remastered.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8205/826/7.1 FarmLife Remastered.zip",
-                    "id": "8205826",
+                    "url": "https://edge.forgecdn.net/files/8344/028/8.1 FarmLife Remastered.zip",
+                    "id": "8344028",
                     "parent_id": "1311617",
                     "hashes": {
-                        "sha1": "251ac935482e939491956dff85591897cf936c3c",
-                        "md5": "60fdb420b441ba076e1ab99ab9c351cb"
+                        "sha1": "dc22efde748c282cd7297e3d743ae386528dd4f2",
+                        "md5": "c2c5ffc1d1d739c4153544dfb5861313"
                     },
                     "required_dependencies": [
                         "1131669"
                     ],
-                    "size": 2584599,
-                    "date_published": "2026-06-06T14:05:55.087Z"
+                    "size": 3054051,
+                    "date_published": "2026-06-30T02:25:26.290Z"
                 }
             ]
         },
