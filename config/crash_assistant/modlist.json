@@ -13,13 +13,13 @@
     "curseForgeHash": 1540026405,
     "modrinthHash": "aa172dc324d2d59fc41a15dec77ab4f3e2a5527a"
   },
-  "adorablehamsterpets-3.6.0-1.20.1+forge.jar": {
-    "jarName": "adorablehamsterpets-3.6.0-1.20.1+forge.jar",
+  "adorablehamsterpets-3.6.1-1.20.1+forge.jar": {
+    "jarName": "adorablehamsterpets-3.6.1-1.20.1+forge.jar",
     "modId": "adorablehamsterpets",
     "name": "Adorable Hamster Pets",
-    "version": "3.6.0-1.20.1+forge",
-    "curseForgeHash": 2469180679,
-    "modrinthHash": "fd711c738d03b858a1affd914bf233b7e1885534"
+    "version": "3.6.1-1.20.1+forge",
+    "curseForgeHash": 3129519109,
+    "modrinthHash": "ed4b3e499ef253ae3f1cad5afcf0fab60badf75e"
   },
   "AdvancedLootInfo-forge-1.20.1-1.12.0.jar": {
     "jarName": "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -913,6 +913,14 @@
     "version": "17.1.19",
     "curseForgeHash": 2854068985,
     "modrinthHash": "7cb8e1242d058c9800e1f3f886930647de7f44e1"
+  },
+  "enchantmentdisabletag-forge-1.1.0+1.20.1.jar": {
+    "jarName": "enchantmentdisabletag-forge-1.1.0+1.20.1.jar",
+    "modId": "enchantmentdisabletag",
+    "name": "Enchantment Disable Tag",
+    "version": "1.1.0+1.20.1",
+    "curseForgeHash": 3881970515,
+    "modrinthHash": "9095f28391d759eab1ee0a1c8211cf778dfaebd6"
   },
   "entity_model_features-3.2.4-1.20.1-forge.jar": {
     "jarName": "entity_model_features-3.2.4-1.20.1-forge.jar",
@@ -2684,8 +2692,8 @@
     "modId": "dialog",
     "name": "SVDialog",
     "version": "0.6",
-    "curseForgeHash": 209649489,
-    "modrinthHash": "adff7fd6fb80b8bde80035811bb607d6e5b17899"
+    "curseForgeHash": 2195460137,
+    "modrinthHash": "a171efc9cf6ea1fc03cb7ab94a07cc771e619390"
   },
   "tanukidecor-20.1.1.0.jar": {
     "jarName": "tanukidecor-20.1.1.0.jar",
@@ -2799,13 +2807,13 @@
     "curseForgeHash": 3807670283,
     "modrinthHash": "704711f8abebf051945dca2ae2a1eba9c3405c57"
   },
-  "untitledduckmod-1.5.2-forge-1.20.1.jar": {
-    "jarName": "untitledduckmod-1.5.2-forge-1.20.1.jar",
+  "untitledduckmod-1.6.0-forge-1.20.1.jar": {
+    "jarName": "untitledduckmod-1.6.0-forge-1.20.1.jar",
     "modId": "untitledduckmod",
     "name": "Untitled Duck Mod",
-    "version": "1.5.2",
-    "curseForgeHash": 3834125394,
-    "modrinthHash": "85b1c73bd4af456d0ef7d3013deaa0c882190e06"
+    "version": "1.6.0",
+    "curseForgeHash": 2521345548,
+    "modrinthHash": "8b8ff09c7ac4ff79e9b5cecdee4489eb460bb883"
   },
   "unusualfishmod-1.1.10.jar": {
     "jarName": "unusualfishmod-1.1.10.jar",
@@ -2927,13 +2935,13 @@
     "curseForgeHash": 4076360607,
     "modrinthHash": "59b6b91fd6875feb5de2c3089bdd12cf643b8085"
   },
-  "xaerominimap-forge-1.20.1-25.3.13.jar": {
-    "jarName": "xaerominimap-forge-1.20.1-25.3.13.jar",
+  "xaerominimap-forge-1.20.1-26.4.2.jar": {
+    "jarName": "xaerominimap-forge-1.20.1-26.4.2.jar",
     "modId": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
-    "version": "25.3.13",
-    "curseForgeHash": 3469159,
-    "modrinthHash": "183c7078af2e11f8c3f2baed9e4151a51abb493c"
+    "version": "26.4.2",
+    "curseForgeHash": 2110918105,
+    "modrinthHash": "8f5f747a33e787aaa3827b00eb0ad098966499ff"
   },
   "xaeros_waystones_compatibility-1.1 - 1.20.1.jar": {
     "jarName": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
@@ -2943,13 +2951,13 @@
     "curseForgeHash": 3489900467,
     "modrinthHash": "d88355bcf6d731c067ed49146a090758356bd028"
   },
-  "xaeroworldmap-forge-1.20.1-1.40.16.jar": {
-    "jarName": "xaeroworldmap-forge-1.20.1-1.40.16.jar",
+  "xaeroworldmap-forge-1.20.1-1.45.0.jar": {
+    "jarName": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
     "modId": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.40.16",
-    "curseForgeHash": 2470635228,
-    "modrinthHash": "3ebbd1aea9e55b746d168c0d3ac014bb5892db71"
+    "version": "1.45.0",
+    "curseForgeHash": 2970154195,
+    "modrinthHash": "856b0317f31646ffe3b39a52b604bc7ee8822321"
   },
   "xlpackets-forge-1.20.1-1.0.5.jar": {
     "jarName": "xlpackets-forge-1.20.1-1.0.5.jar",

@@ -107,7 +107,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "adorablehamsterpets-3.6.0-1.20.1+forge.jar",
+                    "file_name": "adorablehamsterpets-3.6.1-1.20.1+forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -115,22 +115,22 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7969/802/adorablehamsterpets-3.6.0-1.20.1+forge.jar",
-                    "id": "7969802",
+                    "url": "https://edge.forgecdn.net/files/8349/348/adorablehamsterpets-3.6.1-1.20.1+forge.jar",
+                    "id": "8349348",
                     "parent_id": "1306061",
                     "hashes": {
-                        "sha1": "fd711c738d03b858a1affd914bf233b7e1885534",
-                        "md5": "641a9e3a6e4eb3667bbf8d98c60eaad2"
+                        "sha1": "ed4b3e499ef253ae3f1cad5afcf0fab60badf75e",
+                        "md5": "15df0ebb2e0d2d8d6286aed4cef4333d"
                     },
                     "required_dependencies": [
+                        "351264",
                         "388172",
                         "419699",
-                        "306770",
                         "1005914",
-                        "351264"
+                        "306770"
                     ],
-                    "size": 6183696,
-                    "date_published": "2026-04-23T00:15:30.057Z"
+                    "size": 15486621,
+                    "date_published": "2026-07-01T00:19:38.353Z"
                 }
             ]
         },
@@ -9722,7 +9722,7 @@
             ]
         },
         {
-            "pakku_id": "qTt8ZsW2rdrykm3m",
+            "pakku_id": "uQeqzl46BqudSHIx",
             "type": "MOD",
             "slug": {
                 "curseforge": "polylib"
@@ -9742,8 +9742,8 @@
                         "1.20"
                     ],
                     "loaders": [
-                        "neoforge",
-                        "forge"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/5350/440/polylib-forge-2000.0.3-build.143.jar",
@@ -12296,7 +12296,7 @@
             ]
         },
         {
-            "pakku_id": "UazAcWQcscPgPQlq",
+            "pakku_id": "rK8mePgHvzeF7SyG",
             "type": "MOD",
             "slug": {
                 "curseforge": "species"
@@ -12316,8 +12316,8 @@
                         "1.20.1"
                     ],
                     "loaders": [
-                        "neoforge",
-                        "forge"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/6886/321/species-3.5.jar",
@@ -13455,7 +13455,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "untitledduckmod-1.5.2-forge-1.20.1.jar",
+                    "file_name": "untitledduckmod-1.6.0-forge-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13464,18 +13464,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7570/11/untitledduckmod-1.5.2-forge-1.20.1.jar",
-                    "id": "7570011",
+                    "url": "https://edge.forgecdn.net/files/8316/204/untitledduckmod-1.6.0-forge-1.20.1.jar",
+                    "id": "8316204",
                     "parent_id": "451789",
                     "hashes": {
-                        "sha1": "85b1c73bd4af456d0ef7d3013deaa0c882190e06",
-                        "md5": "a20c98f1b1872ce26396715c0fad8a3f"
+                        "sha1": "8b8ff09c7ac4ff79e9b5cecdee4489eb460bb883",
+                        "md5": "2551198066081c18f8ae4ddaf4f7040c"
                     },
                     "required_dependencies": [
                         "388172"
                     ],
-                    "size": 303415,
-                    "date_published": "2026-02-03T09:24:09.147Z"
+                    "size": 316200,
+                    "date_published": "2026-06-25T05:18:59.363Z"
                 }
             ]
         },
@@ -14225,7 +14225,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+                    "file_name": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -14234,16 +14234,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8449/908/xaeroworldmap-forge-1.20.1-1.44.2.jar",
-                    "id": "8449908",
+                    "url": "https://edge.forgecdn.net/files/8698/646/xaeroworldmap-forge-1.20.1-1.45.0.jar",
+                    "id": "8698646",
                     "parent_id": "317780",
                     "hashes": {
-                        "sha1": "d7cd24554d9c361b2d8d3efac2cb1408f118917d",
-                        "md5": "4876f693b6525716be8f8acfb1b2f6a5"
+                        "sha1": "856b0317f31646ffe3b39a52b604bc7ee8822321",
+                        "md5": "2595aef0d735d799dfd1000f042f8c7b"
                     },
                     "required_dependencies": [],
-                    "size": 1421224,
-                    "date_published": "2026-07-17T08:23:45.803Z"
+                    "size": 1424881,
+                    "date_published": "2026-08-21T11:46:14.463Z"
                 }
             ]
         },

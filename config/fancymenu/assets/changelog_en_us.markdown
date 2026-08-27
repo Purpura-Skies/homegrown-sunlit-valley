@@ -9,6 +9,8 @@
 - Fixed Quality Food particles never stopping
 - FIxed copycats crash
 - Fixed shift purchasing buying until inventory is full, bankrupting farmers across the valley
+### Homegrown
+- Updated mods adorable hamster pets, untitled duck mod, and xaero's world map
 
 ## 4.0.0
 - Added Cozy Cafe, a new mod made for the pack that adds a Diner Dash/Plate Up! style cafe management minigame
