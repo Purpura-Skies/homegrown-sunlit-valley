@@ -31,7 +31,7 @@
 //         { title: "enriched_bonemeal", content: "Enriched Bonemeal can grow Glow Berries and duplicate tea flowers." },
 //         { title: "skill_books", content: "Wandering Traders have a chance to sell special skill books." },
 //         { title: "pet_gifts", content: "Pets will give you special items at 10 hearts of affection." },
-//         { title: "exotic_trader", content: "The Exotic Trader sells upgrades to Artisan Machines." },
+//         { title: "trader", content: "The Trader sells upgrades to Artisan Machines." },
 //         { title: "almanac", content: "The Farmer's Almanac has information on all Crops, Farm Animals, and Pets." },
 //         { title: "quality_preserves", content: "Some Artisan Machines preserve the quality from ingredients, some don't." },
 //         { title: "barkeeper", content: "The Barkeeper sells food at a premium for those too lazy to cook. You know who I'm talking about." },
@@ -110,11 +110,11 @@
 //         { title: "villager_caroline", content: ":caroline: Caroline respects a farmer that can handle goats." },
 //         { title: "villager_evelyne", content: ":evelyne: Evelyne finds the witch hat professionally degreading." },
 //         { title: "villager_veronica", content: ":veronica: Veronica has a small but expensive collection of archival fashion." },
+//         { title: "villager_carlos", content: ":carlos: loves a home cooked meal after being on the road so long." },
 //         { title: "longwings_size", content: "The larger a butterfly or moth is, the more it sells for." },
 //         { title: "cafe_pricing", content: "Items you sell in a cafe have a +50% base price increase." },
 //         { title: "cafe_shed", content: "Large Sheds can be made into a Cafe with some decor." },
 //         { title: "selling_vs_keeping", content: "Money can't buy everything, but most things give you money..." },
-//         // TODO:Calos
 //     ].forEach((tip) => {
 //         translationKeys[`society_tips.tip.${tip.title}`] = tip.content;
 //         JsonIO.write(`kubejs/assets/society/tips/${tip.title}.json`, {

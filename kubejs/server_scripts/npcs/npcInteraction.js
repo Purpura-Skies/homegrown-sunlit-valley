@@ -14,8 +14,8 @@ const dialogLengths = {
 }
 const maxGifts = {
     banker: "society:slouching_towards_artistry",
-    blacksmith: Item.of('justhammers:iron_hammer', "{Damage:0,RepairCost:0,display:{Name:'{\"text\":\"§6Aiden\\'s Hammer\"}'}}").enchant('minecraft:efficiency', 5).enchant('minecraft:fortune', 3),
-    carpenter: Item.of('portable_blueprints:worn_blueprint', '{Damage:1,allow_nbt:1,altezza:0,blueprint_name:"blockapedia",buildAnyway:0b,display:{Name:\'{"italic":false,"color":"#FFFF00","text":"Blueprint: Blockapedia"}\'},free_build:1,inventari_blocco_selezionati:"",lunghezzaX:0,lunghezzaZ:0,mirrowX:0b,mirrowY:0b,mirrowZ:0b,nome:"blockapedia",owner:"worn",owner_name:"Ace (Built by Mimsy)",remaining_uses:1,rotateValue:0s,skipObstructionBlock:0b,visualizeBuild:1b,wasHolding:1b,worn_set:1b}'),
+    blacksmith: Item.of('justhammers:iron_hammer', "{Damage:0,RepairCost:0,display:{Name:'{\"translate\":\"item.justhammers.aidens_hammer\"}'}}").enchant('minecraft:efficiency', 5).enchant('minecraft:fortune', 3),
+    carpenter: Item.of('portable_blueprints:worn_blueprint', '{Damage:1,allow_nbt:1,altezza:0,blueprint_name:"blockapedia",buildAnyway:0b,display:{Lore:[\'{"italic":false,"color":"#FFFF00","translate":"portable_blueprints.worn_blueprint.blockapedia.author"}\'],Name:\'{"italic":false,"color":"#FFFF00","translate":"portable_blueprints.worn_blueprint.blockapedia"}\'},free_build:1,inventari_blocco_selezionati:"",lunghezzaX:0,lunghezzaZ:0,mirrowX:0b,mirrowY:0b,mirrowZ:0b,nome:"blockapedia",owner:"worn",owner_name:"Ace",remaining_uses:1,rotateValue:0s,skipObstructionBlock:0b,visualizeBuild:1b,wasHolding:1b,worn_set:1b}'),
     fisher: "society:heart_of_neptunium",
     market: "society:universal_methods_of_farming",
     shepherd: Item.of('2x wildernature:penguin_spawn_egg'),
@@ -59,7 +59,7 @@ const handleNpc = (e, npcId, level, server, target, player, item) => {
     } else if (!npcData.maxGifted && Number(npcData.friendship) >= 500) {
         if (npcId.equals("banker") && player.stages.has("slouching_towards_artistry")) {
             player.give(Item.of("2x waystones:waystone"))
-            server.runCommandSilent(`dialog ${player.username} show ${player.username} banker_unique__gift_read`);
+            server.runCommandSilent(`dialog ${player.username} show ${player.username} banker_unique_five_gift_read`);
         } else if (npcId.equals("market") && player.stages.has("universal_methods_of_farming")) {
             player.give(Item.of("16x society:sparkpod_seed"))
             server.runCommandSilent(`dialog ${player.username} show ${player.username} market_unique_five_gift_read`);

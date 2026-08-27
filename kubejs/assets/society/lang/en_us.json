@@ -1,4 +1,5 @@
 {
+  "modpack.current_language_code": "en_us",
   "itemGroup.society": "Society",
   "itemGroup.society.creative_tab": "Society",
   "society.books.almanac.name": "Farmer's Almanac",
@@ -777,6 +778,8 @@
   "item.society.heart_of_neptunium.description": "It hums aquamagically",
   "item.society.green_tea_honeycomb.description": "Filled with sticky bittersweet",
   "item.society.giant_bandolier_belt.description": "Impossibly large, as if a giant wooly creature wore it over its shoulder",
+  "item.society.ancient_builders_tool.description": "Relic of the World-Shapers",
+  "item.society.red_wrench.description": "I swear I won't use it...",
   "item.society.alias_moss.description": "Mossberries can be found in any season.",
   "item.society.animal_fancy.description": "Increases affection gained from petting farm animals.",
   "item.society.banana_karenina.description": "Doubles Banana Tree output.",
@@ -890,6 +893,7 @@
   "item.society.neptunium_upgrade_smithing_template.applies_to": "Diamond Equipment",
   "item.society.neptunium_upgrade_smithing_template.ingredients": "Neptunium Ingot",
   "item.society.death_liquid.description": "stupid straightedge water",
+  "item.society.suspicious_milk_tea.description": "...Why is there a leaf sticking out of it?",
   "item.society.dry_totem.description": "Summons clear skies by sucking up all the rain",
   "item.society.thunder_totem.description": "Summons a thunderstorm from its anger",
   "item.society.rain_totem.description": "Summons drops of water that fall from the sky (rain)",
@@ -971,5 +975,6 @@
   "info.society.villager_unlock_condition.banker": "Invite the market villager to unlock invitation",
   "info.society.villager_unlock_condition.librarian": "Invite the market villager to unlock invitation",
   "info.society.villager_unlock_condition.trader": "Enter the Skull Cavern to unlock invitation",
-  "info.society.villager_unlock_condition.witch": "Enter the Nether to unlock invitation"
+  "info.society.villager_unlock_condition.witch": "Enter the Nether to unlock invitation",
+  "info.society.villager_unlock_condition.wise_oak": "Find and talk to the Wise Oak in the wild..."
 }

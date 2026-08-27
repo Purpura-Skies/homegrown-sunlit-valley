@@ -13,7 +13,7 @@ ServerEvents.tags("entity_type", (e) => {
   global.coopMasterAnimals.forEach((animal) => {
     e.add("society:coopmaster_bird", animal);
   });
-
+  
   const petAnimals = [
     "buzzier_bees:grizzly_bear",
     "minecraft:wolf",
@@ -103,5 +103,12 @@ ServerEvents.tags("entity_type", (e) => {
     "horse_colors:mule",
   ].forEach((animal) => {
     e.add("homegrown:gendered_animal", animal);
+  });
+
+  [].forEach((animal) => {
+    e.add("society:cannot_lasso", animal);
+  });
+  ["botania:doppleganger", "untitledduckmod:goose", "untitledduckmod:duck"].forEach((animal) => {
+    e.add("society:cannot_wicked_mask", animal);
   });
 });
