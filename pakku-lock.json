@@ -5122,6 +5122,44 @@
             ]
         },
         {
+            "pakku_id": "20mmsXvjzL8FTtAo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-essentials"
+            },
+            "name": {
+                "curseforge": "FTB Essentials (Forge & Fabric)"
+            },
+            "id": {
+                "curseforge": "410811"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-essentials-forge-2001.2.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7609/948/ftb-essentials-forge-2001.2.4.jar",
+                    "id": "7609948",
+                    "parent_id": "410811",
+                    "hashes": {
+                        "sha1": "4f898578e3cc321397dbc59a0c44e2927000bd32",
+                        "md5": "c46c0af33a0452001e8628075b341eb2"
+                    },
+                    "required_dependencies": [
+                        "404465"
+                    ],
+                    "size": 157732,
+                    "date_published": "2026-02-11T16:04:32.867Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "HAspEkdi7HQy9hPO",
             "type": "MOD",
             "slug": {
