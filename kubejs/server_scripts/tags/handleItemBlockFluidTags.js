@@ -376,6 +376,9 @@ ServerEvents.tags("item", (e) => {
   ].forEach((fruit) => {
     e.add("forge:fruits", fruit);
   });
+  ['cluttered:sycamore_sapling', 'cluttered:fluorescent_maple_sapling', 'cluttered:crabapple_sapling'].forEach((fruit) => {
+    e.add("minecraft:saplings", fruit);
+  });
   [
     "minecraft:porkchop",
     "minecraft:beef",

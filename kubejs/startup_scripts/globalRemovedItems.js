@@ -1,4 +1,6 @@
 global.removedItems = [
+  // TEMP
+  "numismatics:salepoint",
   // Dragns food items
   "dragnlivestock:sheep_milk_bucket",
   "dragnlivestock:llama_milk_bucket",
@@ -167,7 +169,6 @@ global.removedItems = [
   "dragnpets:red_vest",
   "dragnpets:white_vest",
   "dragnpets:yellow_vest",
-  // TEMP
   // 2.0 TODO - rename to new item
   "veggiesdelight:lasagna_pan",
   'sophisticatedbackpacks:mob_catcher_upgrade',
