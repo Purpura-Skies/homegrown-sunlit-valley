@@ -844,6 +844,8 @@ StartupEvents.registry("item", (e) => {
   [
     "nut_milk",
     "large_nut_milk",
+    "coconut_milk",
+    "large_coconut_milk"
   ].forEach((item) => {
     e.create(`homegrown:${item}`)
       .texture(`homegrown:item/ingredients/${item}`)

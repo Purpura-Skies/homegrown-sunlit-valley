@@ -589,7 +589,8 @@ ServerEvents.tags("item", (e) => {
     "society:tri_bull_milk",
     "society:amethyst_milk",
     "society:grain_milk",
-    "homegrown:nut_milk"
+    "homegrown:nut_milk",
+    "homegrown:coconut_milk"
   ];
   smallMilks.forEach((item) => {
     e.add("society:small_milk", item);
@@ -605,7 +606,8 @@ ServerEvents.tags("item", (e) => {
     "society:large_tri_bull_milk",
     "society:large_amethyst_milk",
     "society:large_grain_milk",
-    "homegrown:large_nut_milk"
+    "homegrown:large_nut_milk",
+    "homegrown:large_coconut_milk"
   ];
   largeMilks.forEach((item) => {
     e.add("society:large_milk", item);

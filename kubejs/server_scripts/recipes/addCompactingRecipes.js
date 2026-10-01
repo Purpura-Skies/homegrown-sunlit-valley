@@ -46,6 +46,7 @@ ServerEvents.recipes((e) => {
   });
   compact("homegrown:large_llama_milk", "homegrown:llama_milk", 4);
   compact("homegrown:large_nut_milk", "homegrown:nut_milk", 4);
+  compact("homegrown:large_coconut_milk", "homegrown:coconut_milk", 4);
   e.shapeless("9x nethervinery:warped_grape", ["nethervinery:warped_grape_crate"]);
   e.shapeless("9x nethervinery:crimson_grape", ["nethervinery:crimson_grape_crate"]);
   compact("society:salmonberry_crate", "society:salmonberry", 9);
