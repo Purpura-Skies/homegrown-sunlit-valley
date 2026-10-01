@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "vintagedelight:peanut",
+            "required": false
+        },
+        {
+            "id": "pamhc2trees:hazelnutitem",
+            "required": false
+        },
+        {
+            "id": "windswept:chestnuts",
+            "required": false
+        }
+    ]
+}

@@ -13,6 +13,7 @@ global.espressoMachineRecipes = new Map([
   ["society:sheep_milk", { output: ["1x society:steamed_milk"] }],
   ["society:goat_milk", { output: ["1x society:steamed_milk"] }],
   ["homegrown:llama_milk", { output: ["1x society:steamed_milk"] }],
+  ["homegrown:nut_milk", { output: ["1x society:steamed_milk"] }],
   ["society:warped_milk", { output: ["1x society:steamed_milk"] }],
   ["society:buffalo_milk", { output: ["1x society:steamed_milk"] }],
   [

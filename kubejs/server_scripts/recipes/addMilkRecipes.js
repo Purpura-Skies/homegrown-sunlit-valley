@@ -25,6 +25,7 @@ ServerEvents.recipes((e) => {
     "society:large_sheep_milk",
     "society:large_warped_milk",
     "society:large_grain_milk",
+    "homegrown:large_nut_milk",
     "society:large_amethyst_milk"
   ].forEach((milk) => {
     addDrainRecipe(milk, 1000);
@@ -37,6 +38,7 @@ ServerEvents.recipes((e) => {
     "society:warped_milk",
     "society:sheep_milk",
     "society:grain_milk",
+    "homegrown:nut_milk",
     "society:amethyst_milk"
 
   ].forEach((milk) => {

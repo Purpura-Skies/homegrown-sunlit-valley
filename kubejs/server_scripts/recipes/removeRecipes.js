@@ -277,6 +277,7 @@ ServerEvents.recipes((e) => {
     "vintagedelight:cucumber_seeds",
     "farmersdelight:tomato_seeds",
     "vintagedelight:cheese_curds",
+    "vintagedelight:nut_milk_bottle",
     "vintagedelight:cheese_slice",
     "candlelight:dress",
     "candlelight:flower_crown",

@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "forge:nuts"
+    },
+    {
+      "tag": "forge:nuts"
+    },
+    {
+      "tag": "forge:nuts"
+    },
+    { 
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "homegrown:large_nut_milk"
+  }
+}

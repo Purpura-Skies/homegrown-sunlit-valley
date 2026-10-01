@@ -841,6 +841,20 @@ StartupEvents.registry("item", (e) => {
       })
       .useAnimation("drink");
   });
+  [
+    "nut_milk",
+    "large_nut_milk",
+  ].forEach((item) => {
+    e.create(`homegrown:${item}`)
+      .texture(`homegrown:item/ingredients/${item}`)
+      .food((food) => {
+        food.hunger(item.includes("large") ? 5 : 1);
+        food.saturation(1);
+        food.effect("farm_and_charm:grandmas_blessing", 200, 0, 1.0);
+        food.alwaysEdible(true);
+      })
+      .useAnimation("drink");
+  });
   e.create("society:oil").texture("society:item/oil");
   e.create("society:coconut_oil").texture("society:item/coconut_oil");
   e.create("society:butterfly_amber").texture("society:item/butterfly_amber");

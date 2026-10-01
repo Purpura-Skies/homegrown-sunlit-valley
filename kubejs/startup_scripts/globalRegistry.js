@@ -525,6 +525,7 @@ global.animalProducts = [
   // Milk
   { item: "society:sheep_milk", value: 8 },
   { item: "society:milk", value: 16 },
+  { item: "homegrown:nut_milk", value: 51 },
   { item: "society:grain_milk", value: 22 },
   { item: "society:buffalo_milk", value: 64 },
   { item: "society:goat_milk", value: 96 },
@@ -534,6 +535,7 @@ global.animalProducts = [
   { item: "society:tri_bull_milk", value: 192 },
   { item: "society:large_sheep_milk", value: 32 },
   { item: "society:large_milk", value: 64 },
+  { item: "homegrown:large_nut_milk", value: 204},
   { item: "society:large_grain_milk", value: 88 },
   { item: "society:large_buffalo_milk", value: 256 },
   { item: "society:large_goat_milk", value: 384 },
@@ -2364,7 +2366,6 @@ const cookingPotRecipes = [
   { item: "atmospheric:orange_pudding", value: 164 },
   { item: "farmersdelight:glow_berry_custard", value: 215 },
   { item: "farmersdelight:ratatouille", value: 129 },
-  { item: "vintagedelight:nut_milk_bottle", value: 51 },
   { item: "netherdepthsupgrade:baked_soulsucker_stew", value: 1224 },
   { item: "netherdepthsupgrade:baked_glowdine_stew", value: 1632 },
   { item: "netherdepthsupgrade:baked_magmacubefish_stew", value: 2148 },
