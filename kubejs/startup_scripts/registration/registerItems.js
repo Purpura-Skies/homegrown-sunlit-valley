@@ -94,6 +94,13 @@ StartupEvents.registry("item", (e) => {
       food.saturation(1);
       food.fastToEat(true);
     });
+  e.create("homegrown:smoked_eggplant")
+      .texture("homegrown:item/ingredients/smoked_eggplant")
+      .food((food) => {
+               food.hunger(3);
+               food.saturation(1);
+               food.effect("farmersdelight:nourishment", 300, 1, 1.0)
+      });
   e.create("society:tubabacco_leaf").texture("society:item/tubabacco_leaf");
   e.create("society:dried_tubabacco_leaf")
     .texture("society:item/tubabacco_leaf")

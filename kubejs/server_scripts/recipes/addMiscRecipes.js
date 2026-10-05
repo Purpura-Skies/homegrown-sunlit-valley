@@ -734,6 +734,7 @@ ServerEvents.recipes((e) => {
   e.smoking("pamhc2trees:roastedhazelnutitem", "pamhc2trees:hazelnutitem").xp(
     0.35
   );
+   e.smoking('homegrown:smoked_eggplant', 'society:eggplant').xp(0.35);
   // Crab trap bait
   e.shapeless("crabbersdelight:crab_trap_bait", ["aquaculture:worm"]);
   e.shapeless("4x crabbersdelight:crab_trap_bait", ["aquaculture:minnow"]);

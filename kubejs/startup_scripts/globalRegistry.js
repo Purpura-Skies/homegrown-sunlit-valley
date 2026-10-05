@@ -2277,6 +2277,7 @@ const furnaceRecipes = [
   { item: "refurbished_furniture:cooked_vegetable_pizza", value: 414 },
   { item: "refurbished_furniture:vegetable_pizza_slice", value: 414 },
   { item: "veggiesdelight:roasted_garlic_clove", value: 14 },
+  { item: "homegrown:smoked_eggplant", value: 42},
   { item: "veggiesdelight:smoked_bellpepper", value: 32 },
   { item: "veggiesdelight:baked_sweet_potato", value: 20 },
   { item: "veggiesdelight:mhadjeb", value: 93 },
