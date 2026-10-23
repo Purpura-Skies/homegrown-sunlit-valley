@@ -274,10 +274,16 @@ icyWeights = [
     "WHITE:50"
 ]
 magicalBiomes = [
-    "minecraft:cherry_grove",
-    "terralith:sakura_valley",
-    "biomesoplenty:fungi_forest",
-    "biomesoplenty:mystic_grove"
+    "biomesoplenty:mystic_grove",
+    "biomeswevegone:pumpkin_valley",
+    "biomeswevegone:weeping_witch_forest",
+    "biomeswevegone:jacaranda_jungle",
+    "biomeswevegone:bayou",
+    "biomeswevegone:cypress_swamplands",
+    "biomeswevegone:cypress_wetlands",
+    "biomeswevegone:black_forest",
+    "biomeswevegone:ebony_woods",
+    "biomeswevegone:forgotten_forest"
 ]
 magicalTags = [
     "adorablehamsterpets:is_magical",
@@ -288,13 +294,12 @@ magicalExclusionBiomes = [  ]
 magicalExclusionTags = [  ]
 # Format 'VARIANT_TYPE:WEIGHT'. The total weight must equal 100, so I hope you graduated third grade. Available groupings of hamster types: WHITE, BLUE, SKY, LAVENDER, CHERRY, LIGHT_GRAY, DARK_GRAY, CREAM, BLACK, CHOCOLATE, RUST, ORANGE.
 magicalWeights = [
-    "LAVENDER:70",
-    "ROSE:30"
+    "LAVENDER:85",
+    "CHERRY:15"
 ]
 cherryBiomes = [
     "minecraft:cherry_grove",
-    "biomeswevegone:sakura_grove",
-    "biomeswevegone:windswept_desert"
+    "biomeswevegone:sakura_grove"
 ]
 cherryTags = [  ]
 cherryExclusionBiomes = [  ]
@@ -307,7 +312,11 @@ snowyBiomes = [
     "terralith:snowy_maple_forest",
     "terralith:wintry_forest",
     "terralith:alpine_grove",
-    "terralith:siberian_grove"
+    "terralith:siberian_grove",
+    "biomeswevegone:frosted_coniferous_forest",
+    "biomeswevegone:frosted_taiga",
+    "biomeswevegone:howling_peaks",
+    "biomeswevegone:eroded_borealis"
 ]
 snowyTags = [
     "adorablehamsterpets:is_cold",
@@ -388,7 +397,10 @@ sandyBiomes = [
     "minecraft:birch_forest",
     "terralith:ancient_sands",
     "terralith:sandstone_valley",
-    "biomesoplenty:wasteland"
+    "biomesoplenty:wasteland",
+    "biomeswevegone:mojave_desert",
+    "biomeswevegone:dacite_shore",
+    "biomeswevegone:windswept_desert"
 ]
 sandyTags = [
     "adorablehamsterpets:is_sandy"
@@ -405,7 +417,16 @@ sandyWeights = [
 ]
 forestBiomes = [
     "terralith:cloud_forest",
-    "biomesoplenty:redwood_forest"
+    "biomesoplenty:redwood_forest",
+    "biomesoplenty:fungi_forest",
+    "minecraft:taiga",
+    "biomeswevegone:overgrowth_woodlands",
+    "biomeswevegone:ironwood_gour",
+    "biomeswevegone:tropical_rainforest",
+    "biomeswevegone:fragment_jungle",
+    "biomeswevegone:coniferous_forest",
+    "biomeswevegone:canadian_shield",
+    "biomeswevegone:aspen_boreal"
 ]
 forestTags = [
     "adorablehamsterpets:is_forest",
@@ -470,6 +491,18 @@ clashingOverlayZones = [
     "CREAM",
     "DARK_GRAY"
 ]
+# Allows newly spawned wild hamsters underground to have a chance of starting with Redstone Fever. Hamsters created with spawn eggs are excluded so you don't jump scare yourself.
+enableNaturalRedstoneFeverSpawning = true
+# Percentage chance for an otherwise eligible wild cave hamster to spawn fevered. Default: 50%; range: 0–100%.
+redstoneFeverChance = 50
+# Highest Y coordinate where hamsters can become infected upon spawning. They must also be above this level before sunlight can cure them. The default is Y 16 because it's the highest point where you might find Redstone ore.
+maximumRedstoneFeverSpawnY = 16
+# When enabled, hamsters can only become infected upon spawning if they spawn in biomes that are included in this mod’s '#adorablehamsterpets:is_cave' tag. The other height, darkness, dimension and natural-spawn checks still apply.
+requireRedstoneFeverCaveBiomeTags = false
+# Dimension IDs or #dimension tags allowed to produce natural Redstone Fever cases. Just the overworld by default.
+allowedRedstoneFeverDimensions = [
+    "minecraft:overworld"
+]
 # The overall probability (0.0 to 1.0) that ANY wild hamster has stuffed something in its face. Set to 0.0 to enforce strict economic austerity.
 globalCheekLootChance = 0.5
 # The curated selection of pocket lint, seeds, and snacks that hamsters naturally forage. Edit this if you think hamsters should naturally forage for diamonds.
@@ -529,6 +562,8 @@ basicSmithingTemplateLootChance = 0.2
 advancedSmithingTemplateLootChance = 0.1
 # Chance (0.0 to 1.0) to find accessories in rare chests. Default is low.
 accessoryLootChance = 0.05
+# Chance (0.0 to 1.0) to find an Acorn Ring in uncommon chests. Rolled independently from armor and other accessories.
+acornRingLootChance = 0.05
 # Chance (0.0 to 1.0) for an Oak Leaf block to drop an Acorn when broken. Default is low, similar to Apples.
 oakLeavesAcornDropChance = 0.0
 # Higher = slower, lower = faster. Makes perfect sense.

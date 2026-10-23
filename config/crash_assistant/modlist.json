@@ -13,13 +13,13 @@
     "curseForgeHash": 1540026405,
     "modrinthHash": "aa172dc324d2d59fc41a15dec77ab4f3e2a5527a"
   },
-  "adorablehamsterpets-3.6.1-1.20.1+forge.jar": {
-    "jarName": "adorablehamsterpets-3.6.1-1.20.1+forge.jar",
+  "adorablehamsterpets-3.7.0-1.20.1+forge.jar": {
+    "jarName": "adorablehamsterpets-3.7.0-1.20.1+forge.jar",
     "modId": "adorablehamsterpets",
     "name": "Adorable Hamster Pets",
-    "version": "3.6.1-1.20.1+forge",
-    "curseForgeHash": 3129519109,
-    "modrinthHash": "ed4b3e499ef253ae3f1cad5afcf0fab60badf75e"
+    "version": "3.7.0-1.20.1+forge",
+    "curseForgeHash": 413250407,
+    "modrinthHash": "5b708df570164674be180c40af4aee4ffff2f391"
   },
   "AdvancedLootInfo-forge-1.20.1-1.12.0.jar": {
     "jarName": "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -810,21 +810,21 @@
     "curseForgeHash": 871986655,
     "modrinthHash": "1de3060fa3708d4ddfbadfdf528dc5a44e357aba"
   },
-  "DragNs_Livestock_Overhaul-1.20.1-3.5.jar": {
-    "jarName": "DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
+  "DragNs_Livestock_Overhaul-1.20.1-3.9.4.jar": {
+    "jarName": "DragNs_Livestock_Overhaul-1.20.1-3.9.4.jar",
     "modId": "dragnlivestock",
     "name": "DragN\u0027s Livestock Overhaul!",
-    "version": "3.5",
-    "curseForgeHash": 2407099432,
-    "modrinthHash": "a2c7b5de21e98386ccf74138ba684f81c4d0672f"
+    "version": "3.9",
+    "curseForgeHash": 2727388599,
+    "modrinthHash": "0798fed9b7373f610a94a6abc9e65fb324beae48"
   },
-  "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar": {
-    "jarName": "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
+  "DragNs_Pet_Overhaul-1.20.1-2.1.jar": {
+    "jarName": "DragNs_Pet_Overhaul-1.20.1-2.1.jar",
     "modId": "dragnpets",
     "name": "DragN\u0027s Livestock Overhaul: Pets Addon!",
-    "version": "2.0",
-    "curseForgeHash": 2361692845,
-    "modrinthHash": "8ccf6bdc43ee5e04a21c9494de3b4b279d678d8b"
+    "version": "2.1",
+    "curseForgeHash": 1165908691,
+    "modrinthHash": "423b9c69ca3ce0c17fc0a039c6661a3e6ae6605f"
   },
   "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar": {
     "jarName": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
@@ -905,14 +905,6 @@
     "version": "17.1.19",
     "curseForgeHash": 2854068985,
     "modrinthHash": "7cb8e1242d058c9800e1f3f886930647de7f44e1"
-  },
-  "enchantmentdisabletag-forge-1.1.0+1.20.1.jar": {
-    "jarName": "enchantmentdisabletag-forge-1.1.0+1.20.1.jar",
-    "modId": "enchantmentdisabletag",
-    "name": "Enchantment Disable Tag",
-    "version": "1.1.0+1.20.1",
-    "curseForgeHash": 3881970515,
-    "modrinthHash": "9095f28391d759eab1ee0a1c8211cf778dfaebd6"
   },
   "entity_model_features-3.2.4-1.20.1-forge.jar": {
     "jarName": "entity_model_features-3.2.4-1.20.1-forge.jar",
@@ -1177,6 +1169,14 @@
     "version": "2001.3.6",
     "curseForgeHash": 3415363214,
     "modrinthHash": "7fde7917655a3356cab92f17ad2bca34962c4928"
+  },
+  "ftb-essentials-forge-2001.2.4.jar": {
+    "jarName": "ftb-essentials-forge-2001.2.4.jar",
+    "modId": "ftbessentials",
+    "name": "FTB Essentials",
+    "version": "2001.2.4",
+    "curseForgeHash": 3908435669,
+    "modrinthHash": "4f898578e3cc321397dbc59a0c44e2927000bd32"
   },
   "ftb-library-forge-2001.2.12.jar": {
     "jarName": "ftb-library-forge-2001.2.12.jar",
@@ -1900,8 +1900,8 @@
     "modId": "numismatics_utils",
     "name": "Create: Numismatics Utils",
     "version": "2.2",
-    "curseForgeHash": 1438469379,
-    "modrinthHash": "7838ada22af700563968b1ee80cb9eeb93d83ca3"
+    "curseForgeHash": 2419303364,
+    "modrinthHash": "34dd33f59033db5dedbd8427d878e196c06273b7"
   },
   "observable-4.4.1.jar": {
     "jarName": "observable-4.4.1.jar",
@@ -2524,8 +2524,8 @@
     "modId": "society_trading",
     "name": "Society Trading",
     "version": "1.2.9",
-    "curseForgeHash": 1207298782,
-    "modrinthHash": "ae7a1f90ba3db7a4ef5332233e9b268de2c5d2fb"
+    "curseForgeHash": 3612933644,
+    "modrinthHash": "359bcc3e05a5cefed171c7ceca265bea1a725e59"
   },
   "sodiumdynamiclights-forge-1.0.10-1.20.1.jar": {
     "jarName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
@@ -2807,13 +2807,13 @@
     "curseForgeHash": 3807670283,
     "modrinthHash": "704711f8abebf051945dca2ae2a1eba9c3405c57"
   },
-  "untitledduckmod-1.6.0-forge-1.20.1.jar": {
-    "jarName": "untitledduckmod-1.6.0-forge-1.20.1.jar",
+  "untitledduckmod-1.7.0-forge-1.20.1.jar": {
+    "jarName": "untitledduckmod-1.7.0-forge-1.20.1.jar",
     "modId": "untitledduckmod",
     "name": "Untitled Duck Mod",
-    "version": "1.6.0",
-    "curseForgeHash": 2521345548,
-    "modrinthHash": "8b8ff09c7ac4ff79e9b5cecdee4489eb460bb883"
+    "version": "1.7.0",
+    "curseForgeHash": 2125878726,
+    "modrinthHash": "021dfbfb3819cf95994e0e62cdaf6978c919a58d"
   },
   "unusualfishmod-1.1.10.jar": {
     "jarName": "unusualfishmod-1.1.10.jar",
@@ -2935,13 +2935,13 @@
     "curseForgeHash": 4076360607,
     "modrinthHash": "59b6b91fd6875feb5de2c3089bdd12cf643b8085"
   },
-  "xaerominimap-forge-1.20.1-26.4.2.jar": {
-    "jarName": "xaerominimap-forge-1.20.1-26.4.2.jar",
+  "xaerominimap-forge-1.20.1-26.6.0.jar": {
+    "jarName": "xaerominimap-forge-1.20.1-26.6.0.jar",
     "modId": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
-    "version": "26.4.2",
-    "curseForgeHash": 2110918105,
-    "modrinthHash": "8f5f747a33e787aaa3827b00eb0ad098966499ff"
+    "version": "26.6.0",
+    "curseForgeHash": 4003633569,
+    "modrinthHash": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa"
   },
   "xaeros_waystones_compatibility-1.1 - 1.20.1.jar": {
     "jarName": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
@@ -2951,13 +2951,13 @@
     "curseForgeHash": 3489900467,
     "modrinthHash": "d88355bcf6d731c067ed49146a090758356bd028"
   },
-  "xaeroworldmap-forge-1.20.1-1.45.0.jar": {
-    "jarName": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+  "xaeroworldmap-forge-1.20.1-1.47.0.jar": {
+    "jarName": "xaeroworldmap-forge-1.20.1-1.47.0.jar",
     "modId": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.45.0",
-    "curseForgeHash": 2970154195,
-    "modrinthHash": "856b0317f31646ffe3b39a52b604bc7ee8822321"
+    "version": "1.47.0",
+    "curseForgeHash": 2128417363,
+    "modrinthHash": "6715c1d3758a3805589d82c41dc581537fe185cd"
   },
   "xlpackets-forge-1.20.1-1.0.5.jar": {
     "jarName": "xlpackets-forge-1.20.1-1.0.5.jar",

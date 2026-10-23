@@ -70,6 +70,24 @@
 	"Max Dyed Shears" = 1
 	#Should roosters fend off predators like Ocelots, Cats, Foxes, and Ferrets?
 	"Roosters Fend Off Predators" = true
+	#Maximum amount of kids a goat can have at once. Default is 3.
+	"Max Goat Babies" = 1
+	#Should some animals be able to have twins?
+	"Allow Twins" = true
+	#The chance of a horse having twins. Default is Default is 0.01 (1%)
+	"Horse Twins Chance" = 0.01
+	#The chance of a cow having twins. Default is Default is 0.05 (5%)
+	"Cow Twins Chance" = 0.05
+	#The chance of a sheep having twins. Default is Default is 0.15 (30%)
+	"Sheep Twins Chance" = 0.15
+	#The chance at which you can get a random genetic Breed out of breeding two animals, out of 100. Default is 10. Range is 0-100.
+	"Random Breed Chance Percentage" = 10
+	#The chance at which you can get a random genetic Coat out of breeding two animals, out of 100. Default is 10. Range is 0-100.
+	"Random Coat Chance Percentage" = 10
+	#The chance at which you can get random genetic Markings out of breeding two animals, out of 100. Default is 10. Range is 0-100.
+	"Random Marking Chance Percentage" = 10
+	#The chance at which you can get random genetic Horns, Eye Colors, etc out of breeding two animals, out of 10. Default is 20. Range is 0-100.
+	"Random Other Chance Percentage" = 10
 
 [Herding]
 	#Should animals, like cows, herd together?
@@ -86,13 +104,13 @@
 [QoL]
 	#Should O-Animals use vanilla loot instead of the loot included in the mod?
 	"Use Vanilla Animal Loot" = true
-	#Should O-Horses be able to spawn with any breed naturally? (They spawn only as wild Mustangs by default)
+	#Should O-Horses be able to spawn with any breed naturally? Default is Mustangs only.
 	"Naturally Spawning O-Horse Breeds" = false
 	#Base time an O-Horse can run for at full speed, in seconds. Default is 45s.
 	"Base Horse Sprint Time" = 45
 	#Should O-Horses's manes and tails be able to grow over time?
 	"Horse Hair Growth Progression" = true
-	#Amount of time, in ticks, it takes for a horse's mane or tail to grow to the next stage. Default is 72000.
+	#Amount of time, in ticks, it takes for a horse's mane or tail to grow to the next stage. Default is 72000 (3 ingame days).
 	"Horse Hair Growth Time" = 72000
 	#Should O-Animals' colors, markings, and other genetic attributes depend on their breed and gender, along with their breed depending on the biome?
 	"Spawn By Breed & Biome" = true
@@ -129,6 +147,10 @@
 	"Male Breeding Cooldown" = 1200
 	#How long, in ticks, a Female O-Animal's breeding cooldown takes. If Genders Affect Breeding is disabled, this applies to all O-Animals. Default is 6000 (5 minutes).
 	"Female/ Neutral Breeding Cooldown" = 6000
+	#Should O-Animals use vanilla names instead of those with the "O-" prefix?
+	"Use Vanilla Animal Names" = false
+	#Should Spanish Fighting Bulls attack on sight, instead of requiring the player to hold a sword?
+	"Hyper-Aggressive Spanish Fighting Bulls" = false
 
 [Miscellaneous]
 	#Should Unicorns be able to breed?
