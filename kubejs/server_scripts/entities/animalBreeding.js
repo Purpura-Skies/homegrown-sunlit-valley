@@ -37,29 +37,15 @@ ItemEvents.entityInteracted((e) => {
     let rabbit = target.type != "dragnlivestock:o_rabbit" || target.isTame();
     let redPanda = target.type != "crittersandcompanions:red_panda" || target.isTame();
     if (rabbit && redPanda && (!["dragnlivestock:o_camel", "dragnlivestock:caribou"].includes(target.type) || target.isTamed())) {
-    server.runCommandSilent(
-      global.getEmbersTextAPICommand(
-        player.username,
-        global.animalMessageSettings,
-        160,
-        Text.translatable("society.husbandry.breeding.need_potion").toJson()
-      )
-    );
-    e.cancel();
+      global.renderHusbandryMessage(player, server, Text.translatable("society.husbandry.breeding.need_potion").toJson(), "#FF5555");
+      e.cancel();
     }
   }
 
   if (hand == "OFF_HAND") return;
   if (hand == "MAIN_HAND" && item === "society:miracle_potion") {
     if (global.checkEntityTag(target, "society:infertile")) {
-      server.runCommandSilent(
-        global.getEmbersTextAPICommand(
-          player.username,
-          global.animalMessageSettings,
-          120,
-          Text.translatable("society.husbandry.breeding.infertile").toJson()
-        )
-      );
+      global.renderHusbandryMessage(player, server, Text.translatable("society.husbandry.breeding.infertile").toJson(), "#FF5555");
       e.cancel();
     }
     let animalNbt = target.getNbt();
@@ -90,14 +76,7 @@ ItemEvents.entityInteracted((e) => {
         global.addItemCooldown(player, item, 10);
       } else if (day > ageLastBred) {
         global.addItemCooldown(player, "society:miracle_potion", 40);
-        server.runCommandSilent(
-          global.getEmbersTextAPICommand(
-              player.username,
-              global.animalMessageSettings,
-              120,
-              Text.translatable("society.husbandry.breeding.cooldown").toJson()
-          )
-        );
+        global.renderHusbandryMessage(player, server, Text.translatable("society.husbandry.breeding.cooldown").toJson(), "#FF5555");
       }
     } else {
       if (Number(animalNbt.InLove) === 0 && day > ageLastBred) {
@@ -107,14 +86,7 @@ ItemEvents.entityInteracted((e) => {
         ) {
           item.count--;
           target.persistentData.ageLastBred = day;
-          server.runCommandSilent(
-              global.getEmbersTextAPICommand(
-                player.username,
-                global.animalMessageSettings,
-                160,
-                Text.translatable("society.husbandry.breeding.fail").toJson()
-              )
-          );
+          global.renderHusbandryMessage(player, server, Text.translatable("society.husbandry.breeding.fail").toJson(), "#FF5555");
         } else {
           animalNbt.InLove = 2000;
           target.setNbt(animalNbt);
@@ -132,20 +104,13 @@ ItemEvents.entityInteracted((e) => {
             0.01
           );
           target.persistentData.ageLastBred = day;
-        global.giveExperience(server, player, "husbandry", 80);
+          global.giveExperience(server, player, "husbandry", 80);
           player.swing();
           global.addItemCooldown(player, item, 10);
         }
       } else if (day > ageLastBred) {
         global.addItemCooldown(player, "society:miracle_potion", 40);
-        server.runCommandSilent(
-            global.getEmbersTextAPICommand(
-              player.username,
-              global.animalMessageSettings,
-              120,
-              Text.translatable("society.husbandry.breeding.cooldown").toJson()
-            )
-        );
+        global.renderHusbandryMessage(player, server, Text.translatable("society.husbandry.breeding.cooldown").toJson(), "#FF5555");
       }
     }
   }
