@@ -10,7 +10,10 @@
 - Removed Ember's Text API due to targeted removal of verison off CurseForge
 - Updated zh_cn translation (Thanks Thirace!)
 ### Homegrown
-- 
+- Added new items: Nut Milk, Coconut Milk, Smoked Eggplant
+- Added FTB Essentials; non-admin enabled commands include kickme, leaderboard, near, nick, rec, spawn, tpa
+- Updated mods: Dragns Livestock Overhaul and Pets Addon, Adorable Hamster Pets, Untitled Duck Mod, Xaero's World Map and Minimap
+- Updated resource packs: Farmer GUI, Ranch Up!
 
 # 4.2.0
 - Added and integrated backport content from MC updates: Copper Age, Mounts of Mayhem, and Wilderness Bound

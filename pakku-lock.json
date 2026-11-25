@@ -13344,27 +13344,26 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "untitledduckmod-1.7.0-forge-1.20.1.jar",
+                    "file_name": "untitledduckmod-1.7.0-fix-forge-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "forge",
-                        "neoforge"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8768/399/untitledduckmod-1.7.0-forge-1.20.1.jar",
-                    "id": "8768399",
+                    "url": "https://edge.forgecdn.net/files/8928/650/untitledduckmod-1.7.0-fix-forge-1.20.1.jar",
+                    "id": "8928650",
                     "parent_id": "451789",
                     "hashes": {
-                        "sha1": "021dfbfb3819cf95994e0e62cdaf6978c919a58d",
-                        "md5": "435de41ebe6748d0c0b9ce9a8f0678aa"
+                        "sha1": "548397eeefcdc2076775adcea8659cd7ec6423d4",
+                        "md5": "b6d2d675f4a520c606d0ef720cbb82ea"
                     },
                     "required_dependencies": [
                         "388172"
                     ],
-                    "size": 327231,
-                    "date_published": "2026-08-30T10:31:57.193Z"
+                    "size": 327268,
+                    "date_published": "2026-09-20T07:52:22.840Z"
                 }
             ]
         },
