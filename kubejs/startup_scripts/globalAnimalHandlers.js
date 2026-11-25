@@ -372,14 +372,10 @@ global.getMagicShearsOutput = (level, target, player, plushieModifiers, stages) 
 
   let hearts = Math.floor((affection > 1000 ? 1000 : affection) / 100);
   const targetId =
-    target.type === "meadow:wooly_cow"
-      ? ["minecraft", "cow"]
-      : target.type.split(":");
-  if (targetId[0].includes("dragnlivestock")) {
-    if (targetId[1].includes("farm_goat")) targetId = ["dragnlivestock", "o_goat"];
-    if (targetId[1].includes("moobloom")) targetId = ["dragnlivestock", "o_cow"];
-    if (targetId[1].includes("sheep")) targetId = ["dragnlivestock", "o_sheep"];
-  }
+    target.type === "meadow:wooly_cow" ? ["minecraft", "cow"] :
+	target.type === "dragnlivestock:farm_goat" ? ["dragnlivestock", "o_goat"] :
+	target.type.contains("dragnlivestock") && target.type.contains("moobloom") ? ["dragnlivestock", "o_cow"] :
+      target.type.split(":");
   const droppedLoot = Utils.rollChestLoot(
     `${targetId[0]}:entities/${targetId[1]}`
   ).toArray();
